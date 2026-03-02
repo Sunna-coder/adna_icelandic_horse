@@ -6,7 +6,6 @@
 Suðurgata 41, 101 Reykjavík, Iceland
 
 **From**: Sigríður Sunna Ebenesersdóttir, PhD
-[Claude comment: The original listed your title as "Research Scientist, deCODE Genetics." Since this is no longer accurate, please confirm your current primary institutional affiliation for this letter. Options might include: Adjunct Professor, Faculty of Social and Human Sciences, University of Iceland (already listed on the next line); or an independent researcher with a collaboration contract at deCODE Genetics; or another affiliation you hold. The title and institution listed here will be what the Museum curator sees, so it should reflect how you wish to present yourself formally.]
 Adjunct Professor, Faculty of Social and Human Sciences, University of Iceland
 Email: [SSE email]
 Date: [date]

@@ -1,7 +1,9 @@
 # Letter of Support — Draft for Prof. Ludovic Orlando
+# (Collaborator letter — Orlando is a key scientific partner, not the primary host)
 
 *This is a draft for Orlando to review, edit, and sign on CAGT letterhead.*
 *Placeholders marked [LIKE THIS] need to be filled in.*
+*Note: A separate host letter from Prof. Tom Gilbert (CEH, GLOBE Institute, University of Copenhagen) is also required.*
 
 ---
 
@@ -18,40 +20,33 @@ European Research Executive Agency
 
 Dear Members of the Evaluation Committee,
 
-I am writing in strong support of the application submitted by **Dr Sigríður Sunna Ebenesersdóttir** for a Marie Curie Postdoctoral Fellowship (MSCA-PF) to be hosted at the Centre for Anthropobiology and Genomics of Toulouse (CAGT), University of Toulouse, under my supervision.
+I am writing in strong support of the application submitted by **Dr Sigríður Sunna Ebenesersdóttir** (Adjunct Professor, University of Iceland) for a Marie Curie Postdoctoral Fellowship (MSCA-PF) to be hosted at the Centre for Evolutionary Hologenomics (CEH), GLOBE Institute, University of Copenhagen, under the supervision of Prof. Tom Gilbert.
 
-**My background and the host institution**
+**My background and the relevance of my laboratory to this project**
 
 I am a CNRS Silver Medal laureate and founding director of the Centre for Anthropobiology and Genomics of Toulouse (CAGT) at the University of Toulouse, France. My research group specialises in the genomics of ancient and modern horses, with key publications in *Nature*, *Science*, and *Cell* on horse domestication, breed history, and the genomic consequences of selective breeding. We have developed one of the world's largest ancient horse imputation reference panels, comprising over 900 modern and ancient horse genomes from across Eurasia, which serves as the comparative backbone for international studies of horse diversity and evolution.
 
-**My relationship with Dr Ebenesersdóttir and the existing collaboration**
+**My collaboration with Dr Ebenesersdóttir**
 
-Dr Ebenesersdóttir and I are already active scientific collaborators. Together with colleagues at deCODE Genetics and the University of Iceland, we have co-authored a manuscript currently under review — [Ahmed et al., title, journal] — which analyses patterns of horse genetic diversity shaped by different breeding traditions within and outside Asia. This collaboration has given me direct insight into Dr Ebenesersdóttir's capabilities as a researcher: her technical command of ancient DNA methods is exceptional, her analytical rigour is evident, and her ability to work across institutional and national boundaries is a significant asset.
+Dr Ebenesersdóttir and I are already active scientific collaborators. Together with colleagues at the University of Iceland, we have co-authored a manuscript currently under review — [Ahmed et al., title, journal] — which analyses patterns of horse genetic diversity shaped by different breeding traditions within and outside Asia. This collaboration has given me direct insight into Dr Ebenesersdóttir's capabilities as a researcher: her technical command of ancient DNA methods is exceptional, her analytical rigour is evident, and her ability to work across institutional and national boundaries is a significant asset.
 
-**The proposed project**
+**My role in the proposed project**
 
-The project Dr Ebenesersdóttir proposes — a genome-wide reconstruction of the ancient Icelandic horse using aDNA from archaeological specimens spanning 1,100 years — is an outstanding scientific opportunity that I am delighted to support. The Icelandic horse is one of the only domestic animals in the world with a clean, uninterrupted and well-documented population history from the Viking Age to the present, maintained through one of the oldest livestock import bans in recorded history. This makes it a uniquely powerful system for studying the genomic consequences of long-term isolation, founder effects, and selective breeding in a domestic species.
+The project Dr Ebenesersdóttir proposes — a genome-wide reconstruction of the ancient Icelandic horse using aDNA from archaeological specimens spanning 1,100 years — is an outstanding scientific opportunity that I am delighted to support as a scientific collaborator. The Icelandic horse is one of the only domestic animals in the world with a clean, uninterrupted and well-documented population history from the Viking Age to the present, maintained through one of the oldest livestock import bans in recorded history. This makes it a uniquely powerful system for studying the genomic consequences of long-term isolation, founder effects, and selective breeding in a domestic species.
 
-Dr Ebenesersdóttir brings precisely the expertise needed to realise this project: she developed and applied aDNA extraction and sequencing protocols specifically optimised for degraded Icelandic skeletal material, and retains access to the dedicated aDNA facility at deCODE Genetics through an ongoing collaboration agreement. Her landmark study of 88 ancient Icelandic human genomes (*Science*, 2018) demonstrates the feasibility of the proposed approach. My laboratory will contribute the horse genomics expertise and the comparative reference panel required for the imputation and population-level analyses.
+Dr Ebenesersdóttir brings precisely the expertise needed to realise this project: she developed aDNA extraction and sequencing protocols specifically optimised for degraded Icelandic skeletal material and retains access to the dedicated aDNA facility at deCODE Genetics through an ongoing collaboration agreement. Her landmark study of 88 ancient Icelandic human genomes (*Science*, 2018) demonstrates the feasibility of the proposed approach.
 
-[Claude comment: The original text read "she and her team at deCODE Genetics have developed and applied aDNA extraction and sequencing protocols." Since you no longer have a team at deCODE, I've recast this as her personal expertise and ongoing access via the collaboration agreement. Please confirm whether Orlando is aware of this change and whether he is comfortable with this framing, since this letter will come from him.]
+My laboratory will contribute the horse genomics expertise and comparative reference resources that are central to the project's analytical strategy:
 
-**What CAGT will provide**
+- Our ancient horse imputation reference panel (>900 genomes) and associated bioinformatic pipelines for genotype imputation of low-coverage ancient horse genomes
+- Scientific expertise in horse-specific population genomic analyses, selection scans, and trait-associated variant interpretation
+- Access to comparative ancient and modern horse datasets for global ancestry analyses
 
-Dr Ebenesersdóttir will be hosted in my research group at CAGT, where she will have access to:
-
-- Our ancient horse imputation reference panel (>900 genomes) and all associated bioinformatic pipelines
-- State-of-the-art computational infrastructure for large-scale genomic analyses
-- A highly international and multidisciplinary research environment with expertise in archaeogenomics, biostatistics, and ancient horse genomics
-- Regular one-to-one supervision and participation in group meetings, journal clubs, and CAGT seminars
-- Support for training in horse-specific genomic methods, including imputation-based analysis, selection scans, and trait-associated variant identification
-- Networking opportunities through CAGT's extensive international collaborations and conference participation
-
-I will personally ensure that Dr Ebenesersdóttir has the support, resources, and scientific environment needed to complete this project and to develop her independent research profile during the fellowship.
+I am committed to providing regular scientific input throughout the fellowship and look forward to a continued and deepened collaboration with Dr Ebenesersdóttir and the CEH team.
 
 **Conclusion**
 
-Dr Ebenesersdóttir is an outstanding scientist at a critical stage in her career. She combines deep technical expertise in ancient DNA with a track record of high-impact publications and the rare ability to build and lead collaborative research programmes. The project she proposes is scientifically compelling, timely, and highly feasible. I give this application my full and enthusiastic support, and I look forward to welcoming her to Toulouse.
+Dr Ebenesersdóttir is an outstanding scientist at a critical stage in her career. She combines deep technical expertise in ancient DNA with a track record of high-impact publications and the rare ability to build and lead collaborative research programmes. The project she proposes is scientifically compelling, timely, and highly feasible. I give this application my full and enthusiastic support.
 
 Yours sincerely,
 
