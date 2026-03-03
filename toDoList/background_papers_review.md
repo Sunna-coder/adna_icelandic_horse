@@ -49,9 +49,78 @@
 
 ---
 
-## Critical papers MISSING from the folder
+---
 
-These are the most important papers to add. Please put PDFs in `background/papers/` and I will incorporate them into the proposal text.
+## Papers added in second round (now in background/papers/)
+
+---
+
+### 6. Fages et al. (2019) — Five millennia of horse management
+**Full citation**: Fages A, Hanghøj K, Khan N, Gaunitz C, Seguin-Orlando A, Leonardi M, et al. (2019). Tracking Five Millennia of Horse Management with Extensive Ancient Genome Time Series. *Cell* 177:1419–1435. doi:10.1016/j.cell.2019.03.049
+
+**What it shows**: The largest ancient DNA time series for any non-human organism at the time of publication — genome-scale data from 149 ancient animals and 129 genomes. Identified two now-extinct horse lineages (Iberian and Siberian) that contributed little to modern diversity. Showed that Oriental/Persian horse lineages had a strong genetic influence on European breeds following the Islamic conquests. Documented a significant drop in genetic diversity associated with modern breed formation.
+
+**How to use it**: Essential background for Section B.2 (state of knowledge). Direct predecessor to Ahmed et al. — establishes the progressive build-up of the Orlando lab reference dataset. The finding on genetic diversity loss is directly relevant to Aim 2 (demography), as the Icelandic horse provides a uniquely clean test case for when and why this occurred.
+
+---
+
+### 7. Andersson et al. (2012) — DMRT3 and the tölt
+**Full citation**: Andersson LS, Larhammar M, Memic F, Wootz H, Schwochow D, Rubin CJ, et al. (2012). Mutations in DMRT3 affect locomotion in horses and spinal circuit function in mice. *Nature* 488:642–646. doi:10.1038/nature11399
+
+**What it shows**: A premature stop codon in the *DMRT3* gene on chromosome 23 enables horses to perform alternate gaits — specifically the tölt and flying pace. The discovery was made using 30 four-gaited and 40 five-gaited Icelandic horses in a genome-wide association study. The five-gaited ability shows high heritability (0.60–0.73) in Icelandic horses. The mutation is described as having "a major effect on the diversification of the domestic horse."
+
+**How to use it**: The foundational paper for Aim 3 — cite wherever the tölt or gait genetics are mentioned. The Icelandic horse is the primary study organism in this paper, which strengthens the argument that this project will make a direct contribution to functional horse genomics. We will track when the DMRT3 stop codon arose and spread in the Icelandic population.
+
+---
+
+### 8. Librado et al. (2021) — Origins of domestic horses
+**Full citation**: Librado P, Khan N, Fages A, Kusliy MA, Suchan T, Tonasso-Calvière L, et al. (2021). The origins and spread of domestic horses from the Western Eurasian steppes. *Nature* 598:634–640. doi:10.1038/s41586-021-04018-9
+
+**What it shows**: Using 273 ancient horse genomes, pinpoints the lower Volga-Don region of the Western Eurasian steppes (DOM2 cluster) as the homeland of modern domestic horses. Modern domestic horses expanded rapidly across Eurasia from approximately 2000 BCE, synchronous with Sintashta spoke-wheeled chariots. Strong selection at *GSDMC* and *ZFPM1* genes (locomotor and behavioural adaptations). Rejects the association between horseback riding and the Yamnaya expansion (~3000 BCE).
+
+**How to use it**: Core background for the domestication context (Section B.2). Establishes the deep ancestry of the DOM2 lineage from which NORD ancestry (Icelandic horses) ultimately descends. Already cited in the draft — PDF now confirmed in folder.
+
+---
+
+### 9. Gaunitz et al. (2018) — Przewalski's and domestic horse ancestry
+**Full citation**: Gaunitz C, Fages A, Hanghøj K, Albrechtsen A, Khan N, Schubert M, et al. (2018). Ancient genomes revisit the ancestry of domestic and Przewalski's horses. *Science* 360:111–114. doi:10.1126/science.aao3297
+
+**What it shows**: Demonstrated that Botai horses (Central Asia, ~3500 BCE) — previously considered the earliest domestic horses — are in fact the ancestors of modern Przewalski's horses, not of modern domestic horses. Modern domestic horses were domesticated separately, resetting prior assumptions about the origin of horse domestication. This is a landmark paper that reframed the entire field.
+
+**How to use it**: Background for Section B.2 — part of the narrative of how the field has progressed. Shows the depth and pace of recent advances in ancient horse genomics to which this project contributes.
+
+---
+
+### 10. Petersen et al. (2013) — Modern horse genomic diversity
+**Full citation**: Petersen JL, Mickelson JR, Cothran EG, Andersson LS, Axelsson J, Bailey E, et al. (2013). Genetic diversity in the modern horse illustrated from genome-wide SNP data. *PLOS ONE* 8(1):e54997. doi:10.1371/journal.pone.0054997
+
+**What it shows**: First genome-wide SNP study of 814 horses from 36 breeds. Breeds with long closed histories and small population sizes show characteristically low within-breed diversity. FST, parsimony, and distance analyses reflect geographic origins and breed histories. The Icelandic horse is explicitly positioned as a breed with restricted diversity consistent with its closed population history.
+
+**How to use it**: Background context for Section B.1 — shows the Icelandic horse is already recognised as genetically distinctive in modern genomic surveys, and motivates the need for ancient genomic data to understand when and how this low diversity arose.
+
+---
+
+### 11. Warmuth et al. (2012) — Spread of horse domestication
+**Full citation**: Warmuth V, Eriksson A, Bower MA, Barker G, Barrett E, Hanks BK, et al. (2012). Reconstructing the origin and spread of horse domestication in the Eurasian steppe. *PNAS* 109(21):8202–8206. doi:10.1073/pnas.1111122109
+
+**What it shows**: Used microsatellite data from 300+ horses across northern Eurasia to reconstruct the population structure of the wild horse progenitor and the spread of domestication. Found strong evidence for western Eurasian steppe origin of domestication and repeated restocking of domestic herds with local wild horses as they spread eastward. Complementary to and partially superseded by Librado et al. (2021).
+
+**How to use it**: Secondary background reference for domestication context. Useful alongside Librado 2021 to show the convergence of evidence pointing to the western Eurasian steppe as the domestication origin.
+
+---
+
+### 12. Howard et al. (2016) — Runs of homozygosity methodology
+**Full citation**: Howard JT, Tiezzi F, Huang Y, Gray KA, Maltecca C (2016). Characterization and management of long runs of homozygosity in parental nucleus lines and their associated crossbred progeny. *Genetics Selection Evolution* 48:91. doi:10.1186/s12711-016-0269-y
+
+**What it shows**: Characterises ROH patterns in commercial pig breeding lines (Landrace, Large White, Duroc). Shows that long ROH stretches in parental breeds persist in crossbred offspring. Demonstrates that genomic rather than pedigree-based management is needed to target low-diversity regions.
+
+**How to use it**: Methodological background for the ROH analysis in Aim 2. Less directly relevant than a horse-specific ROH paper would be — primarily useful for justifying the ROH methodology. Note that this is a pig breeding paper; if a horse- or other-isolated-breed-specific ROH paper is available, that would be a stronger citation here.
+
+---
+
+## Papers still missing
+
+All critical papers have now been added. The following would further strengthen specific sections if available:
 
 ---
 
