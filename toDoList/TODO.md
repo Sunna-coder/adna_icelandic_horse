@@ -84,6 +84,42 @@ These can be made in PowerPoint, Illustrator, or similar tools.
 
 ---
 
+## [Claude comment] flags in the draft files — things Sunna needs to answer
+
+These are questions embedded directly in the draft files. Claude cannot fill these in without your input. Work through them before the final revision pass.
+
+### `draftsNew/rannis_draft1.md` (11 comments)
+
+| Line | Section | What is needed |
+|---|---|---|
+| 14 | Top of draft | Confirm Rannís fellowship duration (1, 2, or 3 years?) and maximum budget — affects all `[X]` placeholders |
+| 48 | A.3 Feasibility | How many sites are represented in the specimen collection? Geographic spread across Iceland? |
+| 72 | A.5 Impact | Do you have contacts with the Icelandic horse breeders' association (FEIF or Icelandic) for a letter of support? |
+| 132 | C.2 Methods | Does ADMIXTOOLS2 have its own publication separate from Patterson et al. 2012? |
+| 134 | C.2 Methods | Verify hap-IBD citation: Zhou Y, Browning SR, Browning BL (2020). Am J Hum Genet 106:426–437. doi:10.1016/j.ajhg.2020.02.010 |
+| 173 | D.1 Leadership | Add 1–2 sentences on Agnar Helgason's specific publications / expertise in isolated population genetics |
+| 177 | D.2 Collaboration | Name a specific Museum curator contact; do you have (or can you get) a letter of support from the Museum? |
+| 179 | D.2 Collaboration | What specifically does the University of Iceland provide beyond institutional affiliation? |
+| 217 | G Career | Confirm PhD completion year and university |
+| 221 | G Career | Any specific conferences you regularly attend or plan to attend? |
+| 271 | Bibliography | Verify and add GLIMPSE2 citation (Rubinacci et al. 2023, Nature Genetics) |
+
+### `draftsNew/section1_excellence_updated.md` (1 comment)
+
+| Line | Section | What is needed |
+|---|---|---|
+| 28 | 1.2 MSCA | What do you expect to gain specifically from Tom Gilbert's group at CEH? Methods, data, expertise? |
+
+### `draftsNew/national_museum_sampling_proposal_updated.md` (3 comments)
+
+| Line | What is needed |
+|---|---|
+| 29 | Review how your relationship with deCODE is described — is the framing accurate? |
+| 163 | Did you establish and/or maintain the deCODE aDNA lab? Confirm how to describe your role |
+| 201 | What address and affiliation should appear on the proposal signature block? |
+
+---
+
 ## Things Claude can work on (once input is provided)
 
 - [ ] Incorporate mapping bash script into methods and pipeline description
