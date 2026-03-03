@@ -6,7 +6,7 @@
 Suðurgata 41, 101 Reykjavík, Iceland
 
 **From**: Sigríður Sunna Ebenesersdóttir, PhD
-Adjunct Professor, Faculty of Social and Human Sciences, University of Iceland
+Adjunct in Biological Anthropology, University of Iceland
 Email: [SSE email]
 Date: [date]
 

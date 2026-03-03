@@ -5,7 +5,7 @@
 *(Ancient genomics of the Icelandic horse: origins, evolution, and the legacy of isolation)*
 
 **Applicant**: Sigríður Sunna Ebenesersdóttir, PhD
-Adjunct Professor, Faculty of Social and Human Sciences, University of Iceland
+Adjunct in Biological Anthropology, University of Iceland
 
 **Host institution**: University of Iceland
 
@@ -168,7 +168,7 @@ Sampling permission for 22 settlement-era horse specimens has already been grant
 
 ### D.1 Project leadership
 
-The project is led by **Dr Sigríður Sunna Ebenesersdóttir** (Adjunct Professor, Faculty of Social and Human Sciences, University of Iceland) as principal investigator. Dr Ebenesersdóttir is the sole researcher in Iceland with the combination of aDNA laboratory expertise, experience with Icelandic archaeological material, and population genomic analytical skills required to lead this project. Her track record includes the landmark study of 88 ancient Icelandic human genomes (*Science* 2018), an ongoing study of 201 ancient Icelandic human genomes (manuscript in preparation), and co-authorship on Ahmed et al. (under review), which represents the most comprehensive ancient horse genomic study published to date. She is responsible for all aspects of project execution: sample selection, laboratory processing, bioinformatic analysis, population genomic inference, manuscript preparation, and dissemination.
+The project is led by **Dr Sigríður Sunna Ebenesersdóttir** (Adjunct in Biological Anthropology, University of Iceland) as principal investigator. Dr Ebenesersdóttir is the sole researcher in Iceland with the combination of aDNA laboratory expertise, experience with Icelandic archaeological material, and population genomic analytical skills required to lead this project. Her track record includes the landmark study of 88 ancient Icelandic human genomes (*Science* 2018), an ongoing study of 201 ancient Icelandic human genomes (manuscript in preparation), and co-authorship on Ahmed et al. (under review), which represents the most comprehensive ancient horse genomic study published to date. She is responsible for all aspects of project execution: sample selection, laboratory processing, bioinformatic analysis, population genomic inference, manuscript preparation, and dissemination.
 
 **Co-investigator: Prof. Agnar Helgason** (Professor, University of Iceland / deCODE Genetics) contributes expertise in human and animal population genomics and provides institutional co-oversight. Prof. Helgason has broad experience in the population genetics of isolated populations, directly relevant to the demographic analyses in this project. As a full professor at the University of Iceland with an active research programme at deCODE Genetics, no direct salary payment through this grant is required; his involvement is as a scientific co-investigator, co-supervisor of the Master's student, and Icelandic institutional anchor. [Claude comment: Please add 1–2 sentences about Agnar's specific scientific expertise and any relevant publications, particularly any work on genetic drift, inbreeding, or isolated populations, that would strengthen the case for his role here.]
 

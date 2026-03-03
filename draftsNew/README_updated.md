@@ -5,7 +5,7 @@ This repository contains the working files for two parallel grant applications:
 1. **MSCA-PF** — Marie Curie Postdoctoral Fellowship (European Commission), target deadline September 2026
 2. **Rannís** — Icelandic Research Fund application (target deadline TBD)
 
-**Applicant**: Sigríður Sunna Ebenesersdóttir, Adjunct Professor, University of Iceland
+**Applicant**: Sigríður Sunna Ebenesersdóttir, Adjunct in Biological Anthropology, University of Iceland
 **MSCA host**: Prof. Tom Gilbert, Centre for Evolutionary Hologenomics (CEH), GLOBE Institute, University of Copenhagen
 **Key scientific collaborator**: Prof. Ludovic Orlando, CAGT, University of Toulouse (horse genomics, imputation reference panel)
 **deCODE collaboration**: Ongoing collaboration agreement giving access to aDNA clean-room laboratory and Illumina sequencing infrastructure

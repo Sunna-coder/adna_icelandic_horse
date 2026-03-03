@@ -20,7 +20,7 @@ European Research Executive Agency
 
 Dear Members of the Evaluation Committee,
 
-I am writing in strong support of the application submitted by **Dr Sigríður Sunna Ebenesersdóttir** (Adjunct Professor, University of Iceland) for a Marie Curie Postdoctoral Fellowship (MSCA-PF) to be hosted at the Centre for Evolutionary Hologenomics (CEH), GLOBE Institute, University of Copenhagen, under the supervision of Prof. Tom Gilbert.
+I am writing in strong support of the application submitted by **Dr Sigríður Sunna Ebenesersdóttir** (Adjunct in Biological Anthropology, University of Iceland) for a Marie Curie Postdoctoral Fellowship (MSCA-PF) to be hosted at the Centre for Evolutionary Hologenomics (CEH), GLOBE Institute, University of Copenhagen, under the supervision of Prof. Tom Gilbert.
 
 **My background and the relevance of my laboratory to this project**
 
