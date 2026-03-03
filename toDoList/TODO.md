@@ -40,15 +40,33 @@ Two applications in progress:
   The Rannís draft states "a copy of the collaboration agreement will be included in the application."
   Make sure this document is finalised and ready to attach.
 
-- [ ] **Confirm Pálsdóttir et al. full reference**
-  The bibliography has a placeholder for the horse sexing paper.
-  What is the full citation? (authors, year, journal, volume, pages)
-
 ### Additional references
 
-- [ ] **Provide additional papers to cite**
-  Any papers you think should be cited that are not already in the bibliography.
-  PDFs or just titles/DOIs are fine — Claude will incorporate them.
+- [ ] **Confirm Pálsdóttir et al. full reference** — DONE (see below)
+  Full citation confirmed: Nistelberger HM, Pálsdóttir AH, Star B, Leifsson R, Gondek AT, Orlando L, Barrett JH, Hallsson JH, Boessenkool S (2019). Sexing Viking Age horses from burial and non-burial sites in Iceland using ancient DNA. *Journal of Archaeological Science* 101:115–122. doi:10.1016/j.jas.2018.11.007
+
+- [ ] **Add missing papers to `background/papers/`**
+  The following papers are critical for strengthening the background sections and must be added as PDFs.
+  Claude will read them and update the proposal text once they are in the folder.
+  See `toDoList/background_papers_review.md` for full details on why each is needed.
+
+  **Must have — directly cited or essential:**
+  - [ ] Fages et al. (2019). Tracking Five Millennia of Horse Management with Extensive Ancient Genome Time Series. *Cell* 177:1419–1435. doi:10.1016/j.cell.2019.03.049
+    *(Orlando lab's major ancient horse genome paper — direct precursor to Ahmed et al.)*
+  - [ ] Andersson LS et al. (2012). Mutations in DMRT3 affect locomotion in horses and spinal circuit function in mice. *Nature* 488:642–646. doi:10.1038/nature11399
+    *(THE paper on DMRT3 and the tölt/pace gaits — essential for Aim 3)*
+  - [ ] Librado P et al. (2021). The origins and spread of domestic horses from the Western Eurasian steppes. *Nature* 598:634–640. doi:10.1038/s41586-021-03867-0
+    *(Already cited in draft — PDF missing from folder)*
+  - [ ] Gaunitz C et al. (2018). Ancient genomes revisit the ancestry of domestic and Przewalski's horses. *Science* 360:111–114. doi:10.1126/science.aao3297
+    *(Major paper on deep horse ancestry — important context for Section B)*
+  - [ ] Rubinacci S et al. (2022). Efficient phasing and imputation of low-coverage sequencing data using large reference panels. *Nature Genetics* 53:120–130.
+    *(The GLIMPSE2 imputation paper — cited throughout the proposal but not in bibliography)*
+
+  **Should have — strengthens specific sections:**
+  - [ ] Petersen JL et al. (2013). Genetic diversity in the modern horse illustrated from genome-wide SNP data. *PLOS ONE* 8(1):e54997. doi:10.1371/journal.pone.0054997
+    *(Modern horse genomic diversity baseline — context for what makes Icelandic horse distinctive)*
+  - [ ] Warmuth V et al. (2012). Reconstructing the origin and spread of horse domestication in the Eurasian steppe. *PNAS* 109:8202–8206.
+    *(Complements Librado 2021 in the domestication background)*
 
 ### Figures (for both applications)
 
@@ -68,7 +86,8 @@ These can be made in PowerPoint, Illustrator, or similar tools.
 - [ ] Incorporate mapping bash script into methods and pipeline description
 - [ ] Fill in full bibliography references for all cited papers
 - [ ] Fill in duration/budget placeholders throughout both drafts
-- [ ] Strengthen background sections with any new papers provided
+- [ ] Strengthen background sections with new papers once added to `background/papers/`
+- [ ] Update bibliography with confirmed Pálsdóttir et al. citation and all missing references
 - [ ] Draft budget table for Rannís once duration and limits are known
 - [ ] Finalise `draftsNew/national_museum_sampling_proposal_updated.md` (one section still pending)
 - [ ] Review and tighten Section 1.2 knowledge transfer (MSCA) once Gilbert's input is known
