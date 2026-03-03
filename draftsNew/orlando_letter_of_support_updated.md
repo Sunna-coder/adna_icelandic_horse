@@ -34,19 +34,19 @@ Dr Ebenesersdóttir and I are already active scientific collaborators. Together 
 
 The project Dr Ebenesersdóttir proposes — a genome-wide reconstruction of the ancient Icelandic horse using aDNA from archaeological specimens spanning 1,100 years — is an outstanding scientific opportunity that I am delighted to support as a scientific collaborator. The Icelandic horse is one of the only domestic animals in the world with a clean, uninterrupted and well-documented population history from the Viking Age to the present, maintained through one of the oldest livestock import bans in recorded history. This makes it a uniquely powerful system for studying the genomic consequences of long-term isolation, founder effects, and selective breeding in a domestic species.
 
-Dr Ebenesersdóttir brings precisely the expertise needed to realise this project: she developed aDNA extraction and sequencing protocols specifically optimised for degraded Icelandic skeletal material and retains access to the dedicated aDNA facility at deCODE Genetics through an ongoing collaboration agreement. Her landmark study of 88 ancient Icelandic human genomes (*Science*, 2018) demonstrates the feasibility of the proposed approach.
+Dr Ebenesersdóttir brings precisely the expertise needed to realise this project: she developed aDNA extraction and sequencing protocols specifically optimised for degraded Icelandic skeletal material, and has access to the dedicated aDNA facility at deCODE Genetics through an ongoing collaboration agreement. Her landmark study of 88 ancient Icelandic human genomes (*Science*, 2018) demonstrates the feasibility of the proposed approach.
 
-My laboratory will contribute the horse genomics expertise and comparative reference resources that are central to the project's analytical strategy:
+My laboratory will contribute the horse genomics expertise and comparative resources that are central to the project's analytical strategy:
 
 - Our ancient horse imputation reference panel (>900 genomes) and associated bioinformatic pipelines for genotype imputation of low-coverage ancient horse genomes
 - Scientific expertise in horse-specific population genomic analyses, selection scans, and trait-associated variant interpretation
 - Access to comparative ancient and modern horse datasets for global ancestry analyses
 
-I am committed to providing regular scientific input throughout the fellowship and look forward to a continued and deepened collaboration with Dr Ebenesersdóttir and the CEH team.
+I am committed to providing regular scientific input throughout the fellowship and look forward to a deepened collaboration with Dr Ebenesersdóttir and the CEH team.
 
 **Conclusion**
 
-Dr Ebenesersdóttir is an outstanding scientist at a critical stage in her career. She combines deep technical expertise in ancient DNA with a track record of high-impact publications and the rare ability to build and lead collaborative research programmes. The project she proposes is scientifically compelling, timely, and highly feasible. I give this application my full and enthusiastic support.
+Dr Ebenesersdóttir is an outstanding scientist at a critical stage in her career. She combines deep technical expertise in ancient DNA with a track record of high-impact publications and the rare ability to build and lead collaborative research programmes across institutions and countries. The project she proposes is scientifically compelling, timely, and highly feasible. I give this application my full and enthusiastic support.
 
 Yours sincerely,
 

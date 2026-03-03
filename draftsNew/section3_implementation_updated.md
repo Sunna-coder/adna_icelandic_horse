@@ -7,22 +7,20 @@
 
 ## 3.1 Work Plan
 
-The project runs for **24 months**, divided into five work packages (WPs). The first six months are dedicated to sample processing and laboratory work carried out at the deCODE Genetics aDNA facility in Reykjavík, accessible to the applicant through a collaboration agreement with deCODE Genetics; months 7–24 are based at the Centre for Evolutionary Hologenomics (CEH), GLOBE Institute, University of Copenhagen, with research visits to the deCODE facility and the National Museum of Iceland as needed.
-
-[Claude comment: Please confirm the structure of months 1–6. Are you formally based at the University of Copenhagen from the start of the fellowship and making research visits to Iceland for laboratory work, or are you formally based in Iceland for that period under a secondment arrangement? MSCA-PF European Fellowships require the fellow to be based at the host institution — so if months 1–6 involve extended stays in Iceland, this may need to be structured as a research visit or secondment rather than the primary base. Worth checking with Hannes how to frame this for the application.]
+The project runs for **24 months** and is based throughout at the Centre for Evolutionary Hologenomics (CEH), GLOBE Institute, University of Copenhagen. All aDNA laboratory work will be conducted at CEH, using specimens transported from the National Museum of Iceland. A single research visit to Iceland (Month 1) will be made for specimen assessment and selection at the National Museum; all subsequent work takes place in Copenhagen.
 
 ### Work Packages
 
 **WP1 — Sample selection, extraction, and library preparation** (Months 1–7)
 
-The project opens with an intensive laboratory phase at the deCODE Genetics aDNA facility, Reykjavík. Drawing on the existing permission for 22 settlement-era specimens and the pending expanded permission covering up to 90 specimens, Sunna will assess available bone and tooth material at the National Museum of Iceland, select the optimal specimens for aDNA work, and carry out DNA extraction and library preparation. Existing sequencing libraries for 7 samples (VHR031, VHR085, VHR089, VHR093, VHR100, VHR102, VHR105) will be assessed and incorporated. Initial shallow sequencing (MiSeq) will be used to screen all libraries for endogenous DNA content before committing samples to deep sequencing.
+The project opens with a research visit to the National Museum of Iceland (Month 1), during which Sunna will assess available bone and tooth material, select the optimal specimens for aDNA work, and arrange transport of selected specimens to CEH, Copenhagen. Drawing on the existing permission for 22 settlement-era specimens and the pending expanded permission covering up to 90 specimens, up to 90 samples will be selected. Seven existing sequencing libraries (VHR031, VHR085, VHR089, VHR093, VHR100, VHR102, VHR105) will also be assessed and incorporated. Following specimen arrival at CEH, DNA extraction and library preparation will be carried out at the CEH aDNA laboratory (Months 2–7). Initial shallow sequencing will be used to screen all libraries for endogenous DNA content before committing samples to deep sequencing.
 
 *Milestone M1.1* (Month 3): At least 30 libraries prepared and quality-assessed.
 *Milestone M1.2* (Month 7): All libraries prepared; samples selected for deep sequencing.
 
 **WP2 — Sequencing, bioinformatic processing, and imputation** (Months 4–14)
 
-Deep sequencing will be performed on the Illumina NovaSeq platform at the deCODE Genetics sequencing facility (Months 4–10). Bioinformatic processing — adapter trimming, mapping to EquCab3, deduplication, mapDamage rescaling — will run in parallel with sequencing. Samples meeting the quality threshold (>1% endogenous, characteristic damage patterns) will be imputed using GLIMPSE2 and the Orlando laboratory reference panel (Months 10–14), with analyses running on the computational infrastructure at CEH. This WP bridges the laboratory phase in Iceland and the analytical phase in Copenhagen, and will involve close coordination with the Orlando laboratory.
+Deep sequencing will be performed on the Illumina NovaSeq platform (Months 4–10), using sequencing infrastructure available at CEH or via external sequencing services. Bioinformatic processing — adapter trimming, mapping to EquCab3, deduplication, mapDamage rescaling — will run in parallel with sequencing on CEH's computational infrastructure. Samples meeting the quality threshold (>1% endogenous, characteristic damage patterns) will be imputed using GLIMPSE2 and the Orlando laboratory reference panel (Months 10–14). This WP will involve close coordination with the Orlando laboratory (CAGT, Toulouse).
 
 *Milestone M2.1* (Month 10): At least 50 mapped and quality-filtered genomes available.
 *Milestone M2.2* (Month 14): Full imputed dataset assembled; ready for population genomic analysis.
@@ -75,8 +73,8 @@ gantt
     Manuscripts, conferences & public engagement  :wp5, 2029-02, 6M
 
     section Location
-    Laboratory phase (deCODE aDNA facility, Reykjavík)        :crit, loc1, 2027-09, 6M
-    CEH, GLOBE Institute, Copenhagen (+ visits to Iceland)    :active, loc2, 2028-03, 18M
+    Research visit to Iceland (specimen selection)             :crit, loc1, 2027-09, 1M
+    CEH, GLOBE Institute, Copenhagen (primary base)            :active, loc2, 2027-09, 24M
 ```
 
 ---
@@ -85,12 +83,13 @@ gantt
 
 | Risk | Likelihood | Impact | Mitigation |
 |---|---|---|---|
-| Low endogenous DNA yield from some specimens | Medium | Medium | Large initial sample pool (up to 90 specimens); existing 7 libraries with confirmed yield; National Museum backup list provides additional candidates |
-| Delayed access to remaining National Museum samples | Low | Medium | 22 specimens already permitted; sampling proposal for remaining specimens submitted in parallel with this application; curator has indicated further permission will be granted |
+| Low endogenous DNA yield from some specimens | Medium | Medium | Large initial sample pool (up to 90 specimens); 7 existing libraries already confirm that protocol works on this material; National Museum backup list provides additional candidates |
+| Export permission for specimens not granted | Low | Medium | Strong precedent: the 22 Icelandic horse specimens analysed by Pálsdóttir et al. were exported to Norway under the same framework; Minjasafnanefnd application to be submitted in parallel with this application |
+| Delayed access to remaining National Museum samples | Low | Medium | 22 specimens already permitted; expanded sampling proposal submitted in parallel; curator has indicated further permission is expected |
 | Gilbert letter of support delayed | Low | High | Active ongoing collaboration; pre-existing relationship between applicant and CEH makes this unlikely |
 | Imputation quality insufficient for low-coverage samples | Low | Medium | GLIMPSE2 has been validated for ancient horse genomes at 0.5–2× coverage using this reference panel; fallback: pseudohaploid calling for individuals with very low coverage |
-| Delays in sequencing pipeline at deCODE | Low | Low | deCODE operates its own Illumina sequencing facility with substantial capacity accessible under the collaboration agreement; samples can be outsourced to external providers if needed |
-| Data deposition restrictions from deCODE | Low | Medium | Standard deCODE data sharing protocols apply; genomic data from horse specimens do not fall under human data protection rules; will be confirmed before submission |
+| Sequencing capacity unavailable at CEH | Low | Low | Multiple options available: CEH sequencing infrastructure, external sequencing services, or deCODE Genetics facility under ongoing collaboration agreement |
+| deCODE collaboration terms not fully finalised | Low | Low | All wet lab work and computing takes place at CEH; deCODE access is supplementary (existing libraries, sequencing backup); project is not dependent on finalisation of deCODE contract |
 
 ---
 
@@ -99,8 +98,10 @@ gantt
 **Host institution infrastructure**
 
 The Centre for Evolutionary Hologenomics (CEH), GLOBE Institute, University of Copenhagen provides:
-
-[Claude comment: Please describe what Tom Gilbert's group / CEH specifically provides for this project — e.g., computing infrastructure, aDNA facilities, analytical expertise, relevant reference datasets, or other resources. This section currently lacks substance because I don't want to invent capabilities. A few bullet points from you will allow this to be written accurately.]
+- Ancient DNA laboratory facilities and reagents for extraction and library preparation
+- High-performance computing infrastructure for large-scale population genomic analyses
+- Deep expertise in population genomics of animals, directly relevant to the analytical objectives of this project
+- A highly international research environment in ancient and environmental genomics
 
 **External collaboration — Orlando laboratory (CAGT, Toulouse)**
 
@@ -123,4 +124,4 @@ Standard molecular biology consumables (extraction kits, library preparation rea
 
 **Secondments and research visits**
 
-The project design includes regular visits between Copenhagen and Reykjavík to ensure continuity of laboratory access. A total of [X] months of research visits to the deCODE Genetics facility and the National Museum of Iceland are planned and budgeted within the fellowship.
+One research visit to Iceland is planned and budgeted in Month 1 for specimen assessment and selection at the National Museum of Iceland, and transport arrangements for specimens to Copenhagen. No extended secondment in Iceland is required; all laboratory and analytical work is conducted at CEH.
