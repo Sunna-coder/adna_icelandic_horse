@@ -1,8 +1,11 @@
 # To-Do List — Grant Application Finalisation
 
-Two applications in progress:
+Three applications in progress:
 - **MSCA-PF** (Marie Curie Postdoctoral Fellowship) — deadline September 2026, host: Tom Gilbert, CEH Copenhagen
 - **Rannís** (Icelandic Research Fund postdoctoral fellowship) — deadline TBC, base: deCODE Genetics, Reykjavík
+- **Nýdoktorsstyrkur** (University of Iceland postdoctoral grant) — 2026 deadline TBC (~April–May 2026); adapt from Rannís draft once finalised. See `draftsNew/nyDoktorsstyrkur_notes.md`
+
+**Order of work**: Finish Rannís → adapt for Nýdoktorsstyrkur → finalise MSCA-PF
 
 ---
 
@@ -91,6 +94,18 @@ These can be made in PowerPoint, Illustrator, or similar tools.
 - [ ] Draft budget table for Rannís once duration and limits are known
 - [ ] Finalise `draftsNew/national_museum_sampling_proposal_updated.md` (one section still pending)
 - [ ] Review and tighten Section 1.2 knowledge transfer (MSCA) once Gilbert's input is known
+- [ ] Adapt Rannís draft for Nýdoktorsstyrkur online form (do this after Rannís is finalised)
+
+---
+
+## Nýdoktorsstyrkur — things Sunna needs to do
+
+- [ ] **Check grant page from March 2026** for 2026 round opening and deadline
+  URL: https://english.hi.is/research/funds-and-grants/internal-grants/post-doc-grants
+- [ ] **Email rannsoknasjodir@hi.is** to confirm 2026 deadline and request the statement of support template (.docx)
+- [ ] **Arrange two reference letter writers** — referees email their letters directly to rannsoknasjodir@hi.is
+- [ ] **Get statement of support** from your faculty/institute at University of Iceland
+  (Confirm whether this should come from the Faculty of Social and Human Sciences or elsewhere given that the lab work is at deCODE)
 
 ---
 
@@ -108,3 +123,4 @@ These can be made in PowerPoint, Illustrator, or similar tools.
 | `draftsNew/figures_and_pipeline.md` | Pipeline flowchart + figure suggestions | Complete |
 | `draftsNew/README_updated.md` | Updated project README | Complete — review before replacing README.md |
 | `pipeline/aDNApipe_horse_EquCab3_source.sh` | Horse-specific pipeline config file (EquCab3) | Template complete — paths to be filled in |
+| `draftsNew/nyDoktorsstyrkur_notes.md` | Notes on University of Iceland postdoc grant | Complete — adapt from Rannís once finalised |
