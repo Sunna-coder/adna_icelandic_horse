@@ -9,15 +9,41 @@ Three applications in progress:
 
 ---
 
+## CRITICAL — IRF Handbook 2026 (READ THIS FIRST)
+
+The IRF Handbook 2026 has been read (`background/fellowship_examples/IRF_Handbook.pdf`). Key rules for the Postdoctoral Fellowship grant:
+
+- **Duration**: Up to **36 months** — draft updated to 36 months throughout
+- **Budget**: Max **35,400,000 kr** over 36 months (+ 25% overhead = 44,250,000 kr total)
+  - Travel: max 800,000 kr/year
+  - Publication costs: max 750,000 kr over grant period
+  - Equipment: **NOT allowed** for postdoctoral grants (remove any equipment cost line from budget)
+  - Contracted services: allowed (max ~20% of total)
+- **Host institution must be in Iceland** — the grant cannot be transferred to institutions outside Iceland. **Tom Gilbert at CEH Copenhagen CANNOT be the Rannís host.** This is a hard rule.
+- **"Strengthened if host is at institution other than PhD institution"** — since Sunna's PhD is from University of Iceland, the application is stronger if the formal host is a *different* Icelandic institution. Best option: make **deCODE Genetics** the accounting/host institution (it is a separate legal entity from the University of Iceland). This needs to be decided and the application updated.
+- **Two letters of recommendation** from experts NOT involved in the application. The recommenders cannot be Agnar Helgason (co-PI) or Orlando (listed as collaborator).
+- **Page limit: 12 pages of text** (15 pages total including title and guidance pages). The current draft is a working draft and is far longer than 12 pages — it must be significantly condensed before submission.
+- **Full-time grant**: if Sunna accepts any paid position during the grant period, the grant terminates. Teaching up to 20% is allowed.
+
+---
+
 ## Things Sunna needs to do or provide
 
-### High priority
+### URGENT — decisions needed before finalising the application
 
-- [ ] **Confirm Rannís duration and budget limits**
-  Look up the current Rannís postdoctoral fellowship guidelines.
-  How many years (1, 2, or 3)? What is the maximum budget?
-  This affects milestones, submission targets, and the budget section throughout the draft.
-  → Placeholders marked `[X]` in `draftsNew/rannis_draft1.md` are waiting for this.
+- [ ] **Decide on host institution for Rannís**
+  The handbook says the application is strengthened if the host is at a different institution than the PhD-granting one (University of Iceland). Options:
+  1. **deCODE Genetics as formal host** (accounting institution) — deCODE is a separate legal entity; this would satisfy the "other institution" criterion and keep the working arrangement exactly the same. Requires deCODE to formally agree to host and sign the confirmation letter.
+  2. Keep **University of Iceland as host** — slightly weaker by the handbook's criteria, but still valid.
+  Tom Gilbert at CEH is NOT eligible — the grant cannot go outside Iceland.
+
+- [ ] **Arrange two letters of recommendation**
+  Required from experts NOT involved in the application. Suggested candidates:
+  - **Icelandic** (choose one): Kári Stefánsson (deCODE CEO/CSO — but note: if deCODE is the host institution, check whether this creates a conflict), OR **Ingileif** (confirm full name — Ingileif Jónsdóttir?), OR **Unnur** (confirm full name — Unnur Styrkársdóttir? Unnur Þórisdóttir?)
+  - **Foreign independent researcher**: **Hannes Schroeder** (University of Copenhagen) — excellent choice; expert in ancient DNA, not a participant in this application
+  → Applicant provides names and email addresses directly in the electronic application system; recommenders are contacted by IRF.
+
+### High priority
 
 - [ ] **Provide the horse mapping bash script**
   The script used for mapping horse reads at deCODE (for Ahmed et al.).
