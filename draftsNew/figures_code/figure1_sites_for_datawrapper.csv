@@ -1,0 +1,35 @@
+name,latitude,longitude,period,period_colour,note
+Dalvík/Brimnes,65.97,-18.53,Settlement (870–1000 CE),#E07B39,VERIFY
+Enni (Skagafjörður),65.74,-19.83,Settlement (870–1000 CE),#E07B39,VERIFY
+Glaumbær,65.61,-19.51,Settlement (870–1000 CE),#E07B39,approximate
+Stærri-Árskógur,65.88,-18.28,Settlement (870–1000 CE),#E07B39,VERIFY
+Granastaðir,65.85,-17.20,Settlement (870–1000 CE),#E07B39,VERIFY — multiple places with this name
+Grímsstaðir/Mývatn,65.57,-17.03,Settlement (870–1000 CE),#E07B39,approximate
+Sílastaðir,65.93,-17.35,Settlement (870–1000 CE),#E07B39,VERIFY
+Reykjasel,65.10,-17.90,Settlement (870–1000 CE),#E07B39,VERIFY — AD 800–900
+Glaumbær (AD 900–1000),65.61,-19.51,Settlement (870–1000 CE),#E07B39,same location as Glaumbær above
+Álfsstaðir,63.85,-19.90,Settlement (870–1000 CE),#E07B39,VERIFY
+Hemla (Landeyjahreppur),63.47,-20.30,Settlement (870–1000 CE),#E07B39,approximate
+Traðarholt,63.90,-20.20,Settlement (870–1000 CE),#E07B39,VERIFY
+Ytra-Garðshorn,63.70,-20.50,Settlement (870–1000 CE),#E07B39,VERIFY
+Mörk (Landmannahreppur),63.70,-19.70,Settlement (870–1000 CE),#E07B39,approximate
+Lækur/Flói,63.90,-21.10,Settlement (870–1000 CE),#E07B39,approximate
+Hafurbjarnarstaðir,65.40,-19.50,Settlement (870–1000 CE),#E07B39,VERIFY
+Hrífunes,63.80,-18.00,Settlement (870–1000 CE),#E07B39,VERIFY — AD 900–950
+Þórðarholt,64.00,-20.00,Settlement (870–1000 CE),#E07B39,VERIFY
+Steinfinnsstaðir,65.50,-18.50,Settlement (870–1000 CE),#E07B39,VERIFY
+Fjörður/Seyðisfjörður,65.26,-14.01,Settlement (870–1000 CE),#E07B39,approximate
+Papey,64.62,-14.18,Settlement (870–1000 CE),#E07B39,island — approximate
+Böggvisstaðir,64.90,-21.70,Settlement (870–1000 CE),#E07B39,VERIFY
+Sturluflötur,65.55,-19.00,Settlement (870–1000 CE),#E07B39,VERIFY
+Barðastrandarsýsla,65.50,-23.40,Settlement (870–1000 CE),#E07B39,VERIFY — Westfjords
+Tindar,63.90,-20.80,Settlement (870–1000 CE),#E07B39,VERIFY
+Leynir (Cave),64.20,-21.10,Undated,#999999,VERIFY
+Stóru-Vellir,65.60,-19.20,Undated,#999999,VERIFY
+Hvalnes,64.40,-14.50,Undated,#999999,VERIFY — east coast
+Berufjörður,64.80,-14.40,Post-medieval (1600–1900 CE),#377EB8,1898 in inventory
+Snæhvammur/Breiðdalur,64.87,-14.65,Post-medieval (1600–1900 CE),#377EB8,approximate — <1850-1900
+Niðurföll,63.84,-18.17,Post-medieval (1600–1900 CE),#377EB8,approximate
+Kjalvegur (1780 — Laki),64.85,-19.20,Laki era (~1780 CE),#CC0000,IMPORTANT: multiple specimens; highland route
+Eyvindarveri (1772),64.90,-18.90,Laki era (~1780 CE),#CC0000,VERIFY
+Beinahóll/Kjölur (1780),65.10,-19.40,Laki era (~1780 CE),#CC0000,VERIFY
