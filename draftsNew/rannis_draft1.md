@@ -51,11 +51,13 @@ The project is highly feasible, resting on four pillars of prior work that toget
 
 **Infrastructure and computational resources**: All wet laboratory work will be conducted at the deCODE Genetics ancient DNA facility, Reykjavík — the facility in which the applicant developed the protocols now used in this project. The deCODE Genetics collaboration agreement provides access to the dedicated aDNA clean-room laboratory, the Illumina NovaSeq sequencing platform, and the deCODE high-performance computing cluster. No new infrastructure investment is required.
 
+[Claude comment: The deCODE collaboration agreement is described here as an established fact. My understanding is that it exists but that some details are still being finalised. Please review this paragraph carefully: does the wording accurately reflect the current status of the agreement? If it is not yet fully formalised, it may be better to say "a collaboration agreement is in place / has been signed" and to attach it as a supporting document, rather than risk an evaluator asking for documentation that is incomplete. If the agreement IS now fully finalised, no change is needed — just confirm.]
+
 **International collaboration and reference data**: The project is conducted in collaboration with Prof. Ludovic Orlando (Centre for Anthropobiology and Genomics of Toulouse, CAGT, University of Toulouse), whose laboratory has generated the world's largest collection of ancient and modern horse genomes and developed the imputation reference panel on which Phase 2 of this project depends. The applicant and Prof. Orlando are already active co-authors on Ahmed et al. (under review), demonstrating an established and productive international collaboration.
 
 ### A.4 Originality
 
-This project is the first genome-wide investigation of the Icelandic horse across time. Its originality rests on three dimensions that together make it unlike any previously published study.
+This project is the first genome-wide investigation of the Icelandic horse across time. Its originality rests on four dimensions that together make it unlike any previously published study.
 
 **Geographic and biological uniqueness**: No ancient genomic data exist for any horse population from the North Atlantic — Iceland, Greenland, the Faroe Islands, or the Norse Atlantic world. This absence is remarkable given the pace of progress in ancient horse genomics over the past decade. The Icelandic horse is the direct biological descendant of Viking Age Norse horse husbandry, preserved in genomic amber by the livestock import ban. As Ahmed et al. (under review) has demonstrated, the NORD ancestry component that defines Icelandic horses emerged in the Viking Age specifically — our project will be the first to examine what happened to that founding stock after it arrived in Iceland, and how it evolved over the following millennium.
 
@@ -109,6 +111,8 @@ The applicant's landmark study of 88 ancient Icelandic human genomes (Ebenesersd
 
 A key methodological innovation enabling this project is the use of genotype imputation to increase the density of analysable variants from low-coverage sequencing data. The GLIMPSE framework (Rubinacci et al. 2021, *Nature Genetics*) enables robust population genomic inference from ancient genomes sequenced to as little as 0.75–1× coverage, dramatically increasing the number of individuals that can be analysed per sequencing budget. This approach has been validated for ancient horse genomes in Ahmed et al. (under review) using Prof. Orlando's reference panel of 901 modern horse genomes, which provides the imputation backbone for this project. The applicant has direct experience applying this framework in the Iceland2 human genomics manuscript (manuscript in preparation).
 
+[Claude comment: Please clarify whether this project will use GLIMPSE (Rubinacci et al. 2021) or GLIMPSE2 (Rubinacci et al. 2023). The Iceland2 manuscript uses GLIMPSE2. If GLIMPSE2 is what will be used here, the citation in B.4 and the references in C.2 should say "GLIMPSE2" and cite the 2023 paper — see also the [Claude comment] at the end of the bibliography about adding the GLIMPSE2 citation. Consistency throughout the document is important for credibility.]
+
 ---
 
 ## C. Research Plan
@@ -131,6 +135,8 @@ The principal risk to the project — low endogenous DNA yield from some specime
 
 *Deep sequencing* (Months 5–8): Qualifying libraries are sequenced to a target average depth of 2–5× per individual on the Illumina NovaSeq platform. Raw reads are processed through the applicant's validated aDNA pipeline: adapter trimming (AdapterRemoval2; Schubert et al. 2016), mapping to the EquCab3 horse reference genome (BWA; Li and Durbin 2009), duplicate removal (Picard MarkDuplicates), and post-mapping base quality rescaling (mapDamage2; Jónsson et al. 2013). Sex is estimated from the ratio of reads mapping to the X and Y chromosomes.
 
+[Claude comment: Standard aDNA pipelines include an explicit contamination estimation step — evaluators with aDNA experience will expect this. For human genomes the ANGSD X-chromosome method is commonly used, but this does not apply to horses. For horses, mitochondrial DNA (mtDNA) contamination can be assessed by checking for heteroplasmy or mismatches relative to the endogenous mitochondrial consensus. Should a sentence on contamination estimation be added here? Please confirm what you do in practice at the deCODE lab for horse specimens — I can then draft the appropriate wording.]
+
 **Phase 2 — Population structure and ancestry analysis** (Months 7–18)
 
 *Imputation* (Months 7–12): Low-coverage ancient genomes are imputed to high density using GLIMPSE and Prof. Orlando's reference panel of 901 modern horse genomes. This step is critical for enabling robust population-level inference from low-coverage data: imputation recovers the vast majority of variant sites from genomes sequenced at 1–5× coverage, making the dataset analytically comparable to high-coverage modern genomic datasets. Computation runs on the deCODE Genetics high-performance cluster, and the imputation pipeline is run in close collaboration with the Orlando laboratory, who developed and validated this approach for ancient horse genomes in Ahmed et al.
@@ -141,7 +147,9 @@ The principal risk to the project — low endogenous DNA yield from some specime
 
 **Phase 3 — Adaptation and trait evolution** (Months 14–[end])
 
-*Aim 3 — Selection and traits* (Months 14–[end]): Genome-wide selection scans (XP-EHH; Sabeti et al. 2007; iHS; Voight et al. 2006; population branch statistic PBS; Yi et al. 2010) identify regions of the genome showing signatures of positive selection in the Icelandic lineage relative to European outgroup populations. Targeted analysis of known functional variants tracks the frequency trajectory of specific alleles through time: the *DMRT3* stop codon (gait), *ASIP* and *MC1R* (coat colour), the *PMEL17* Arg618Cys mutation (Silver coat colour and MCOA), and loci associated with sweet itch susceptibility, metabolic sensitivity, and immune function where genomic positions are known. ROH-based analysis identifies genomic regions where inbreeding may have driven deleterious recessive variants to elevated frequency, providing a population-level explanation for the breed's known disease profile.
+*Aim 3 — Selection and traits* (Months 14–[end]): Genome-wide selection scans (XP-EHH; Sabeti et al. 2007; iHS; Voight et al. 2006; population branch statistic PBS; Yi et al. 2010) identify regions of the genome showing signatures of positive selection in the Icelandic lineage relative to European outgroup populations. Targeted analysis of known functional variants tracks the frequency trajectory of specific alleles through time: the *DMRT3* stop codon (gait), *ASIP* and *MC1R* (coat colour), the *PMEL17* Arg618Cys mutation (Silver coat colour and MCOA), and loci associated with sweet itch susceptibility, metabolic sensitivity, and immune function where genomic positions are known.
+
+[Claude comment: The phrase "loci associated with sweet itch susceptibility, metabolic sensitivity, and immune function where genomic positions are known" is vague — evaluators in genomics will notice this. If you know specific candidate loci for sweet itch (e.g., MHC/ELA region, specific immune genes) or for metabolic sensitivity (e.g., insulin sensitivity loci in horses), please list them here by name or chromosomal region. If the genomic positions are not well established for these traits, it would be more honest to say "candidate regions identified in GWAS studies of insect bite hypersensitivity" with a citation (e.g., Shrestha et al. 2015 or equivalent). Otherwise this reads as promising more specificity than the science currently supports.] ROH-based analysis identifies genomic regions where inbreeding may have driven deleterious recessive variants to elevated frequency, providing a population-level explanation for the breed's known disease profile.
 
 ### C.3 Milestones
 
@@ -185,6 +193,8 @@ The project is led by **Dr Sigríður Sunna Ebenesersdóttir** (Adjunct in Biolo
 **University of Iceland**: The University of Iceland is the host institution for this fellowship and provides the institutional framework, administrative support, and research environment within which the project is conducted. The Faculty of Social and Human Sciences provides the primary academic home; the project also benefits from the University's connections to the broader Icelandic scientific community. [Claude comment: Is there anything more specific the University of Iceland provides — e.g., library access, computing, specific facilities, or colleagues whose expertise is relevant? Even a sentence or two about specific resources would be stronger than the current general statement.]
 
 **deCODE Genetics, Reykjavík**: The applicant holds a collaboration agreement with deCODE Genetics (formalised through the University of Iceland) that provides access to the dedicated aDNA clean-room laboratory, the Illumina NovaSeq sequencing platform, and the high-performance computing cluster. The applicant developed the aDNA protocols used in this project within this facility and remains their primary operator. This agreement provides the primary laboratory and computing infrastructure for the project; a copy will be included in the application.
+
+[Claude comment: As above — please confirm that the deCODE collaboration agreement is fully signed and that "a copy will be included in the application" is literally true: that you have a signed document ready to attach. If the agreement is in progress, it would be better to say the agreement is in place rather than imply a copy is attached, or to describe the arrangement in the way that is most accurate for its current state. Rannís evaluators may flag inconsistencies between this statement and the supporting documents.]
 
 ### D.3 International collaboration
 
@@ -297,6 +307,10 @@ This project represents a pivotal stage in the applicant's development as an ind
 - Voight BF, Kudaravalli S, Wen X, Pritchard JK (2006). A map of recent positive selection in the human genome. *PLOS Biology* 4(3):e72. doi:10.1371/journal.pbio.0040072
 
 - Warmuth V, Eriksson A, Bower MA, Barker G, Barrett E, Hanks BK, et al. (2012). Reconstructing the origin and spread of horse domestication in the Eurasian steppe. *PNAS* 109(21):8202–8206. doi:10.1073/pnas.1111122109
+
+[Claude comment: Warmuth et al. 2012 is in the bibliography but does not appear to be cited anywhere in the main text. Every reference in the bibliography should appear in the text at least once. Either add an in-text citation in Section B.2 (where Librado 2021 is cited, as Warmuth 2012 covers complementary material on horse domestication spread), or remove it from the bibliography. I recommend adding a brief in-text citation in B.2 alongside Librado 2021, e.g. "...pinpointed the lower Volga-Don region... (Librado et al. 2021; see also Warmuth et al. 2012 for an earlier microsatellite-based reconstruction)."]
+
+[Claude comment: The TODO list also mentions "Leifsson (2018)" as a burial archaeology source to confirm. I cannot find this as a standalone reference anywhere in the current draft or bibliography — Rúnar Leifsson appears as a co-author in Nistelberger et al. 2019, but that is not a Leifsson 2018 paper. Please clarify: is Leifsson 2018 a separate publication (e.g. a book chapter, thesis, or museum report) that should be cited, or is this a confusion with the Nistelberger/Pálsdóttir 2019 paper?]
 
 - Yi X, Liang Y, Huerta-Sanchez E, Jin X, Cuo ZXP, Pool JE, et al. (2010). Sequencing of 50 human exomes reveals adaptation to high altitude. *Science* 329:75–78. doi:10.1126/science.1190371
 

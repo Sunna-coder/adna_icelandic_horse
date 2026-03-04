@@ -88,21 +88,30 @@ These can be made in PowerPoint, Illustrator, or similar tools.
 
 These are questions embedded directly in the draft files. Claude cannot fill these in without your input. Work through them before the final revision pass.
 
-### `draftsNew/rannis_draft1.md` (11 comments)
+### `draftsNew/rannis_draft1.md` (17 comments)
 
-| Line | Section | What is needed |
+Note: line numbers are approximate — they shift as the file is edited. Search for `[Claude comment` to find all flags.
+
+| Approx. line | Section | What is needed |
 |---|---|---|
-| 14 | Top of draft | Confirm Rannís fellowship duration (1, 2, or 3 years?) and maximum budget — affects all `[X]` placeholders |
-| 48 | A.3 Feasibility | How many sites are represented in the specimen collection? Geographic spread across Iceland? |
-| 72 | A.5 Impact | Do you have contacts with the Icelandic horse breeders' association (FEIF or Icelandic) for a letter of support? |
-| 132 | C.2 Methods | Does ADMIXTOOLS2 have its own publication separate from Patterson et al. 2012? |
-| 134 | C.2 Methods | Verify hap-IBD citation: Zhou Y, Browning SR, Browning BL (2020). Am J Hum Genet 106:426–437. doi:10.1016/j.ajhg.2020.02.010 |
-| 173 | D.1 Leadership | Add 1–2 sentences on Agnar Helgason's specific publications / expertise in isolated population genetics |
-| 177 | D.2 Collaboration | Name a specific Museum curator contact; do you have (or can you get) a letter of support from the Museum? |
-| 179 | D.2 Collaboration | What specifically does the University of Iceland provide beyond institutional affiliation? |
-| 217 | G Career | Confirm PhD completion year and university |
-| 221 | G Career | Any specific conferences you regularly attend or plan to attend? |
-| 271 | Bibliography | Verify and add GLIMPSE2 citation (Rubinacci et al. 2023, Nature Genetics) |
+| ~14 | Top of draft | Confirm Rannís fellowship duration (1, 2, or 3 years?) and maximum budget — affects all `[X]` placeholders |
+| ~50 | A.3 Feasibility | How many sites are represented in the specimen collection? Geographic spread across Iceland? |
+| ~53 | A.3 Feasibility | Confirm whether the deCODE collaboration agreement is fully signed/formalised — affects how this paragraph should be worded |
+| ~74 | A.5 Impact | Do you have contacts with the Icelandic horse breeders' association (FEIF or Icelandic) for a letter of support? |
+| ~111 | B.4 Imputation | Confirm whether GLIMPSE or GLIMPSE2 will be used — need consistent citation throughout |
+| ~133 | C.2 Phase 1 | Confirm what contamination estimation step is used for horse specimens in the deCODE pipeline — a sentence on this is expected by reviewers |
+| ~144 | C.2 Phase 3 | Can you name specific candidate loci for sweet itch / metabolic sensitivity? If not, a citation for a GWAS study would make this sentence more credible |
+| ~150 | C.2 ADMIXTOOLS2 | Does ADMIXTOOLS2 have its own publication separate from Patterson et al. 2012? |
+| ~152 | C.2 hap-IBD | Verify hap-IBD citation: Zhou Y, Browning SR, Browning BL (2020). Am J Hum Genet 106:426–437. doi:10.1016/j.ajhg.2020.02.010 |
+| ~190 | D.1 Leadership | Add 1–2 sentences on Agnar Helgason's specific publications / expertise in isolated population genetics |
+| ~194 | D.2 Collaboration | Name a specific Museum curator contact; do you have (or can you get) a letter of support from the Museum? |
+| ~196 | D.2 Collaboration | What specifically does the University of Iceland provide beyond institutional affiliation? |
+| ~198 | D.2 deCODE | Confirm deCODE collaboration agreement is fully signed — the current text says "a copy will be included in the application" which requires an attached document |
+| ~250 | G Career | Confirm PhD completion year and university |
+| ~254 | G Career | Any specific conferences you regularly attend or plan to attend? |
+| ~310 | Bibliography | Warmuth et al. 2012 is in the bibliography but not cited in the text — either add an in-text citation in B.2 or remove it |
+| ~311 | Bibliography | Clarify what "Leifsson (2018)" refers to — not found as standalone reference; may be confused with Nistelberger et al. 2019 |
+| ~320 | Bibliography | Verify and add GLIMPSE2 citation (Rubinacci et al. 2023, Nature Genetics) |
 
 ### `draftsNew/section1_excellence_updated.md` (1 comment)
 
