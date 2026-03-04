@@ -1,6 +1,36 @@
 # Rannís — Icelandic Research Fund
 # Postdoctoral Fellowship Application — First Draft
 
+---
+
+## Pre-submission checklist — rules and documents
+
+### Key rules to keep in mind (from IRF Handbook 2026)
+
+- **Eligibility**: PhD must have been awarded no more than **5 years** before the application deadline. Check the exact deadline date and confirm you are within the window.
+- **Full-time commitment**: The grant is full-time employment. Accepting any other paid position during the grant period terminates the grant. Teaching up to 20% of a full-time position is permitted.
+- **Host institution must be in Iceland**: The grant cannot be transferred to institutions outside Iceland. Tom Gilbert at CEH Copenhagen cannot be the host for this application. The host must be an Icelandic institution or legal entity.
+- **Stronger with a different host than your PhD institution**: Since your PhD was awarded by the University of Iceland, the application is explicitly strengthened (per the handbook) if the formal host institution is a different organisation — e.g. deCODE Genetics as the accounting institution. Decision needed.
+- **Two letters of recommendation required**: From experts who are not participants in the application. Agnar Helgason (co-PI) and Ludovic Orlando (listed collaborator) cannot be recommenders. Arrange these in advance — recommenders are contacted directly by IRF via email.
+- **Cannot hold another IRF grant simultaneously**: You cannot be PI or Project Leader on any other IRF application in the same year.
+- **Page limit: 12 pages of text** (15 pages total including title and guidance pages). This working draft is much longer and must be condensed significantly before uploading to the electronic application system.
+- **Use the official IRF template**: Download the template from the electronic application system each year — it may change. Applications using an altered or wrong template will be rejected.
+- **Reference list submitted separately**: The bibliography must be separated from the project description and uploaded as a separate PDF. There is no page limit on the reference list.
+- **Budget**: Maximum 35,400,000 kr over 36 months (plus 25% overhead = 44,250,000 kr total). Equipment purchases are **not** allowed for postdoctoral grants. Travel capped at 800,000 kr/year. Publication costs capped at 750,000 kr over the full grant period.
+
+### Documents and permissions to have in hand before submitting
+
+- [ ] **Confirmation letter from the host institution** — A signed statement from an authorised representative of the host institution confirming that you will have work and research facilities there during the grant period. Maximum one page. This is a mandatory supporting document. If deCODE Genetics is the host, this letter must come from deCODE. If University of Iceland is the host, it must come from the University.
+- [ ] **deCODE Genetics collaboration agreement** — The application states that a copy will be included. Confirm the agreement is fully signed and ready to attach.
+- [ ] **National Museum of Iceland sampling permission** — Permission for up to 90 specimens has been granted. Have a copy of the formal permission document ready to attach if requested.
+- [ ] **Letters of recommendation arranged** — Contact your two recommenders well in advance. You provide their names and email addresses in the IRF electronic system; IRF contacts them directly. Suggested: one Icelandic (Kári Stefánsson / Ingileif / Unnur — confirm full names and check availability) and one foreign independent researcher (Hannes Schroeder, University of Copenhagen).
+- [ ] **Letter of intent from Agnar Helgason** — As a named "other participant" in the application, Agnar must sign a one-page letter of intent specifying his involvement. Must be dated in the application year.
+- [ ] **Letter of intent from Ludovic Orlando** — Same requirement if Orlando is listed as an other participant. The existing collaborator letter draft (`draftsNew/orlando_letter_of_support_updated.md`) may serve this purpose but must be dated and formatted to one page.
+- [ ] **PhD diploma** — A copy must be submitted to IRF no later than 1 December after the application deadline. Have the document ready.
+- [ ] **CV** — Maximum 2 pages. Prepare separately from the project description.
+
+---
+
 **Project title**: Forn erfðamengi íslenska hestsins: uppruni, þróun og arfleifð einangrunar
 *(Ancient genomics of the Icelandic horse: origins, evolution, and the legacy of isolation)*
 
