@@ -62,8 +62,7 @@ Three applications in progress:
     *(Already cited in draft — PDF missing from folder)*
   - [ ] Gaunitz C et al. (2018). Ancient genomes revisit the ancestry of domestic and Przewalski's horses. *Science* 360:111–114. doi:10.1126/science.aao3297
     *(Major paper on deep horse ancestry — important context for Section B)*
-  - [ ] Rubinacci S et al. (2022). Efficient phasing and imputation of low-coverage sequencing data using large reference panels. *Nature Genetics* 53:120–130.
-    *(The GLIMPSE2 imputation paper — cited throughout the proposal but not in bibliography)*
+  - [ ] Rubinacci S et al. (2023). GLIMPSE2 — verify exact citation (*Nature Genetics*, likely 2023). The 2021 GLIMPSE paper is in the bibliography; GLIMPSE2 is a separate publication and needs its own entry if the project uses GLIMPSE2.
 
   **Should have — strengthens specific sections:**
   - [ ] Petersen JL et al. (2013). Genetic diversity in the modern horse illustrated from genome-wide SNP data. *PLOS ONE* 8(1):e54997. doi:10.1371/journal.pone.0054997
@@ -94,7 +93,7 @@ Note: line numbers are approximate — they shift as the file is edited. Search 
 
 | Approx. line | Section | What is needed |
 |---|---|---|
-| ~14 | Top of draft | Confirm Rannís fellowship duration (1, 2, or 3 years?) and maximum budget — affects all `[X]` placeholders |
+| ~14 | Top of draft | ~~Duration confirmed as 2 years — all `[X]` placeholders filled~~ **DONE** |
 | ~50 | A.3 Feasibility | How many sites are represented in the specimen collection? Geographic spread across Iceland? |
 | ~53 | A.3 Feasibility | Confirm whether the deCODE collaboration agreement is fully signed/formalised — affects how this paragraph should be worded |
 | ~74 | A.5 Impact | Do you have contacts with the Icelandic horse breeders' association (FEIF or Icelandic) for a letter of support? |

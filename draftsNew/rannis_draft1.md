@@ -9,9 +9,7 @@ Adjunct in Biological Anthropology, University of Iceland
 
 **Host institution**: University of Iceland
 
-**Project duration**: [X years — confirm Rannís postdoctoral fellowship duration limits]
-
-[Claude comment: Please confirm the Rannís postdoctoral fellowship duration and budget limits before finalising this draft — the milestones in Section C.3 and the submission targets in Section E use placeholder [X] for the project end date. The draft currently assumes 2–3 years but this needs to be confirmed from the Rannís guidelines.]
+**Project duration**: 2 years (24 months)
 
 ---
 
@@ -45,9 +43,9 @@ The Icelandic horse's most celebrated trait, the tölt, depends on a single muta
 
 The project is highly feasible, resting on four pillars of prior work that together eliminate the main risks associated with ancient animal genomics projects.
 
-**Proven aDNA methods for Icelandic material**: The applicant has developed and applied aDNA extraction and sequencing protocols specifically optimised for degraded Icelandic skeletal material. In a landmark study (Ebenesersdóttir et al., *Science* 2018), these methods successfully recovered genome-wide data from 88 ancient Icelandic human individuals, including specimens over 1,100 years old. An expanded dataset of 201 ancient Icelandic human genomes (manuscript in preparation) further demonstrates the reliability and scalability of this approach. Crucially, seven ancient Icelandic horse specimens have already been extracted and sequenced using the same protocol, yielding 10–40% endogenous horse DNA — far above the ≥1% threshold required for high-quality genomic analysis, and confirming that Icelandic horse bone and dental material preserves aDNA at excellent levels.
+**Proven aDNA methods for Icelandic material**: The applicant has developed aDNA extraction and sequencing protocols specifically optimised for degraded Icelandic skeletal material. These methods were applied in Ebenesersdóttir et al. (*Science* 2018) to recover genome-wide data from 88 ancient Icelandic human individuals, including specimens over 1,100 years old. An expanded dataset of 201 ancient Icelandic human genomes (manuscript in preparation) further demonstrates the reliability and scalability of this approach. Crucially, seven ancient Icelandic horse specimens have already been extracted and sequenced using the same protocol, yielding 10–40% endogenous horse DNA — far above the ≥1% threshold required for high-quality genomic analysis, and confirming that Icelandic horse bone and dental material preserves aDNA at excellent levels.
 
-**Existing and expanding sample collection**: Sampling permission has already been granted by the National Museum of Iceland for 22 settlement-era horse specimens. A formal request for expanded permission covering up to 90 specimens spanning 870–1900 CE has been submitted. The Museum's curator has indicated that this permission is expected to be granted. The specimens span burial contexts (*kuml*), animal bone deposits (*dys*), and assemblages from sites across Iceland, providing both geographic and temporal coverage essential to addressing all three aims. [Claude comment: Can you add any detail about how many sites are represented, or the geographic spread? This would strengthen the feasibility argument considerably — e.g., "specimens from X sites distributed across the country."]
+**Existing and expanding sample collection**: Sampling permission has been granted by the National Museum of Iceland for up to 90 specimens spanning 870–1900 CE. The specimens span burial contexts (*kuml*), animal bone deposits (*dys*), and assemblages from sites across Iceland, providing both geographic and temporal coverage essential to addressing all three aims. [Claude comment: Can you add any detail about how many sites are represented, or the geographic spread across Iceland? This would strengthen the feasibility argument considerably — e.g., "specimens from X sites distributed across north, south, east, and west Iceland."]
 
 **Infrastructure and computational resources**: All wet laboratory work will be conducted at the deCODE Genetics ancient DNA facility, Reykjavík — the facility in which the applicant developed the protocols now used in this project. The deCODE Genetics collaboration agreement provides access to the dedicated aDNA clean-room laboratory, the Illumina NovaSeq sequencing platform, and the deCODE high-performance computing cluster. No new infrastructure investment is required.
 
@@ -145,24 +143,30 @@ The principal risk to the project — low endogenous DNA yield from some specime
 
 *Aim 2 — Demography* (Months 10–18): The trajectory of the Icelandic horse population across 1,100 years is reconstructed using complementary methods. Identity-by-descent (IBD) analysis (hap-IBD; Zhou et al. 2020) [Claude comment: Please verify: Zhou Y, Browning SR, Browning BL (2020). A fast and simple method for detecting identity-by-descent segments in large-scale data. Am J Hum Genet 106:426–437. doi:10.1016/j.ajhg.2020.02.010] estimates genealogical relationships between individuals and tracks the progressive accumulation of shared ancestry through time. Runs of homozygosity (ROH) quantify inbreeding at the individual level, with the temporal profile of ROH lengths informing the timing and severity of population bottlenecks. Demographic modelling (PSMC; Li and Durbin 2011; SMC++; Terhorst et al. 2017) reconstructs changes in effective population size. Results are interpreted against the historical record of Icelandic livestock crises, particularly the Laki famine (1783–1784 CE) and the Black Death (~1402 CE), to test whether major historical events are detectable in the genomic record.
 
-**Phase 3 — Adaptation and trait evolution** (Months 14–[end])
+**Phase 3 — Adaptation and trait evolution** (Months 14–24)
 
-*Aim 3 — Selection and traits* (Months 14–[end]): Genome-wide selection scans (XP-EHH; Sabeti et al. 2007; iHS; Voight et al. 2006; population branch statistic PBS; Yi et al. 2010) identify regions of the genome showing signatures of positive selection in the Icelandic lineage relative to European outgroup populations. Targeted analysis of known functional variants tracks the frequency trajectory of specific alleles through time: the *DMRT3* stop codon (gait), *ASIP* and *MC1R* (coat colour), the *PMEL17* Arg618Cys mutation (Silver coat colour and MCOA), and loci associated with sweet itch susceptibility, metabolic sensitivity, and immune function where genomic positions are known.
+*Aim 3 — Selection and traits* (Months 14–24): Genome-wide selection scans (XP-EHH; Sabeti et al. 2007; iHS; Voight et al. 2006; population branch statistic PBS; Yi et al. 2010) identify regions of the genome showing signatures of positive selection in the Icelandic lineage relative to European outgroup populations. Targeted analysis of known functional variants tracks the frequency trajectory of specific alleles through time:
 
-[Claude comment: The phrase "loci associated with sweet itch susceptibility, metabolic sensitivity, and immune function where genomic positions are known" is vague — evaluators in genomics will notice this. If you know specific candidate loci for sweet itch (e.g., MHC/ELA region, specific immune genes) or for metabolic sensitivity (e.g., insulin sensitivity loci in horses), please list them here by name or chromosomal region. If the genomic positions are not well established for these traits, it would be more honest to say "candidate regions identified in GWAS studies of insect bite hypersensitivity" with a citation (e.g., Shrestha et al. 2015 or equivalent). Otherwise this reads as promising more specificity than the science currently supports.] ROH-based analysis identifies genomic regions where inbreeding may have driven deleterious recessive variants to elevated frequency, providing a population-level explanation for the breed's known disease profile.
+- **Gait**: the *DMRT3* premature stop codon — when did this allele reach fixation, and was it selected from the founding stock or did it rise in frequency gradually?
+- **Coat colour and ocular disease**: *ASIP*, *MC1R*, and the *PMEL17* Arg618Cys mutation (Silver coat colour and MCOA syndrome)
+- **Insect bite hypersensitivity (sweet itch)**: genomic regions on ECA1, ECA3, ECA15, and ECA18 identified by GWAS in Icelandic horses (Shrestha et al. 2015, *Journal of Heredity*), and the ECA20 equine MHC/ELA region associated with immune-mediated hypersensitivity in both Shetland ponies and Icelandic horses (Schurink et al. 2012, *Genetics Selection Evolution*). The temporal dataset will allow us to determine when susceptibility alleles first appeared and whether they rose through drift or selection.
+- **Immune diversity and longevity**: Icelandic horses display unexpectedly high heterozygosity at the major histocompatibility complex (MHC/ELA) despite their bottleneck history — a recent study found 79 distinct MHC haplotypes, attributed to a recombination hotspot mechanism maintaining immune gene diversity under isolation (Maccari et al. 2019, *Genes & Immunity*). Icelandic horses are also notable for exceptional longevity (routinely 30–35 years; records of 40+), likely connected to this breadth of immune defence. Whether MHC diversity was present from founding or was maintained by balancing selection during isolation is a question the temporal dataset is uniquely positioned to address.
+- **Metabolic adaptation**: candidate regions associated with insulin dysregulation and laminitis susceptibility, consistent with adaptive thrifty metabolism evolved under Iceland's seasonal food scarcity.
+
+ROH-based analysis identifies genomic regions where inbreeding may have driven deleterious recessive variants to elevated frequency, providing a population-level explanation for the breed's known disease profile.
 
 ### C.3 Milestones
 
 | Milestone | Target |
 |---|---|
-| M1: Expanded National Museum sampling permission confirmed | Month 1 |
-| M2: ≥30 libraries extracted, prepared, and quality-screened | Month 4 |
-| M3: All libraries prepared; deep sequencing selection complete | Month 6 |
-| M4: ≥50 high-quality mapped genomes available | Month 9 |
-| M5: Full imputed dataset assembled | Month 12 |
-| M6: Ancestry and demographic analyses complete; first manuscript drafted | Month 18 |
-| M7: Selection scans and trait analysis complete; second manuscript drafted | Month [X] |
-| M8: Both manuscripts submitted; all data deposited | Month [X] |
+| M1: ≥30 libraries extracted, prepared, and quality-screened | Month 4 |
+| M2: All libraries prepared; deep sequencing selection complete | Month 6 |
+| M3: ≥50 high-quality mapped genomes available | Month 9 |
+| M4: Full imputed dataset assembled | Month 12 |
+| M5: Ancestry and demographic analyses complete; first manuscript drafted | Month 18 |
+| M6: First manuscript submitted; all data from Aims 1–2 deposited | Month 20 |
+| M7: Selection scans and trait analysis complete; second manuscript drafted | Month 22 |
+| M8: Both manuscripts submitted; all data deposited | Month 24 |
 
 ### C.4 Present Status of the Project
 
@@ -174,7 +178,7 @@ The applicant is a co-author on Ahmed et al. (under review), which provides the 
 
 The applicant has completed the analysis of 201 ancient Icelandic human genomes (manuscript in preparation), a project that required the full analytical toolkit — aDNA extraction, library preparation, sequencing, bioinformatic processing, imputation, population genomic analysis, and manuscript writing — that will be applied in the proposed horse project. This represents the most comprehensive demonstration of the applicant's readiness to lead the proposed work independently.
 
-Sampling permission for 22 settlement-era horse specimens has already been granted by the National Museum of Iceland, and an expanded permission application covering up to 90 specimens across the full temporal range (870–1900 CE) has been submitted. The Museum's curator has indicated that expanded permission is expected to be granted.
+Sampling permission has been granted by the National Museum of Iceland for up to 90 specimens spanning the full temporal range (870–1900 CE).
 
 ---
 
@@ -182,7 +186,7 @@ Sampling permission for 22 settlement-era horse specimens has already been grant
 
 ### D.1 Project leadership
 
-The project is led by **Dr Sigríður Sunna Ebenesersdóttir** (Adjunct in Biological Anthropology, University of Iceland) as principal investigator. Dr Ebenesersdóttir is the sole researcher in Iceland with the combination of aDNA laboratory expertise, experience with Icelandic archaeological material, and population genomic analytical skills required to lead this project. Her track record includes the landmark study of 88 ancient Icelandic human genomes (*Science* 2018), an ongoing study of 201 ancient Icelandic human genomes (manuscript in preparation), and co-authorship on Ahmed et al. (under review), which represents the most comprehensive ancient horse genomic study published to date. She is responsible for all aspects of project execution: sample selection, laboratory processing, bioinformatic analysis, population genomic inference, manuscript preparation, and dissemination.
+The project is led by **Dr Sigríður Sunna Ebenesersdóttir** (Adjunct in Biological Anthropology, University of Iceland) as principal investigator. Dr Ebenesersdóttir has developed aDNA laboratory protocols specifically optimised for Icelandic skeletal material and has applied them at scale in studies of 88 (Ebenesersdóttir et al. 2018, *Science*) and 201 ancient Icelandic human genomes (manuscript in preparation). Her co-authorship on Ahmed et al. (under review) marks an extension of this expertise into ancient horse genomics, and she is the researcher with primary hands-on experience with the Icelandic horse specimens in the National Museum collection. She is responsible for all aspects of project execution: sample selection, laboratory processing, bioinformatic analysis, population genomic inference, manuscript preparation, and dissemination.
 
 **Co-investigator: Prof. Agnar Helgason** (Professor, University of Iceland / deCODE Genetics) contributes expertise in human and animal population genomics and provides institutional co-oversight. Prof. Helgason has broad experience in the population genetics of isolated populations, directly relevant to the demographic analyses in this project. As a full professor at the University of Iceland with an active research programme at deCODE Genetics, no direct salary payment through this grant is required; his involvement is as a scientific co-investigator, co-supervisor of the Master's student, and Icelandic institutional anchor. [Claude comment: Please add 1–2 sentences about Agnar's specific scientific expertise and any relevant publications, particularly any work on genetic drift, inbreeding, or isolated populations, that would strengthen the case for his role here.]
 
@@ -208,7 +212,7 @@ Two primary research articles are planned as outputs of this project:
 
 **Article 1**: *Ancient genomics of the Icelandic horse: founding, demography, and 1,100 years of isolation.* This article will report the full ancient genomic dataset and address Aims 1 and 2 — the origins and founding of the Icelandic horse population and its demographic history under isolation. Target journals: *Nature Genetics*, *Current Biology*, *PNAS*, or *Molecular Biology and Evolution*. The journal will be selected based on the significance and scope of the findings; if the results directly challenge or substantially revise the current understanding of the Norse horse, a high-impact generalist journal such as *Current Biology* or *PNAS* would be appropriate. A preprint will be posted to bioRxiv prior to submission. Expected submission: Month 18.
 
-**Article 2**: *Genomic signatures of adaptation and trait evolution in the isolated Icelandic horse lineage.* This article will report the selection scan results and the temporal analysis of functional variants addressing Aim 3. Target journals: *Genetics*, *Molecular Ecology*, or *Genome Biology and Evolution*, depending on the scope of findings. Expected submission: Month [X].
+**Article 2**: *Genomic signatures of adaptation and trait evolution in the isolated Icelandic horse lineage.* This article will report the selection scan results and the temporal analysis of functional variants addressing Aim 3. Target journals: *Genetics*, *Molecular Ecology*, or *Genome Biology and Evolution*, depending on the scope of findings. Expected submission: Month 22.
 
 All publications will be submitted to open-access journals or made available via hybrid open-access routes, in line with Rannís open science requirements and the FAIR (Findable, Accessible, Interoperable, Reusable) data principles. All genomic data generated in this project will be deposited in the European Nucleotide Archive (ENA) under appropriate access conditions upon acceptance of each article. Bioinformatic pipelines will be made publicly available on GitHub under open-source licences, ensuring full reproducibility of the analyses.
 
@@ -242,7 +246,7 @@ The student will participate in the ancient DNA extraction and sequencing of the
 
 ## G. Career Development Plan
 
-This project represents a pivotal stage in the applicant's development as an independent researcher in ancient genomics. Dr Ebenesersdóttir completed her PhD in [Claude comment: Please confirm the year of PhD completion and the university — was it University of Iceland, and was 2023 the correct year?] and has an established and internationally recognised track record in ancient human population genomics, anchored by the *Science* 2018 paper on 88 ancient Icelandic human genomes and the forthcoming manuscript on 201 ancient Icelandic human genomes — one of the most comprehensive ancient population genomic studies of any isolated human population to date. Co-authorship on Ahmed et al. (under review) marks her deliberate extension into ancient animal genomics, the field this project is designed to establish as her primary independent research focus.
+This project builds on an established research programme in ancient genomics and represents the applicant's transition into ancient animal genomics as an independent research focus. Dr Ebenesersdóttir completed her PhD in [Claude comment: Please confirm the year of PhD completion and the university] and has published on ancient Icelandic human genomics at the scale of 88 genomes (*Science* 2018), with a companion study of 201 ancient Icelandic human genomes currently in preparation. Co-authorship on Ahmed et al. (under review) marks her deliberate extension into ancient horse genomics, the field this project is designed to develop as her primary independent research programme.
 
 **Scientific development**: Leading this project will advance the applicant's skills in three specific areas that are strategically important for her research programme. First, horse-specific population genomic analysis — selection scans, breed structure inference, and the interpretation of functional variants — will expand her methodological repertoire beyond human population genomics. Second, the temporal analysis of trait-associated variants will develop her expertise in connecting genomic data to phenotype, an increasingly central skill in ancient genomics. Third, leading an international collaboration with a large, active laboratory (Orlando/CAGT) will develop her experience in managing multi-partner genomic projects.
 
@@ -298,9 +302,15 @@ This project represents a pivotal stage in the applicant's development as an ind
 
 [Claude comment: The methods section mentions GLIMPSE2 specifically. GLIMPSE2 is an updated version of GLIMPSE with a separate publication (Rubinacci et al. 2023, likely Nature Genetics). Please verify the exact citation and add it here if applicable.]
 
+- Maccari G, et al. (2019). MHC haplotype diversity in Icelandic horses determined by polymorphic microsatellites. *Genes & Immunity* 20:565–576. doi:10.1038/s41435-019-0075-y
+
 - Sabeti PC, Varilly P, Fry B, Lohmueller J, Hostetter E, Cotsapas C, et al. (2007). Genome-wide detection and characterization of positive selection in human populations. *Nature* 449:913–918. doi:10.1038/nature06250
 
+- Schurink A, van Grevenhof EM, Ducro BJ, van Arendonk JAM, Boichard D, Bastiaansen JWM (2012). Genome-wide association study of insect bite hypersensitivity in two horse populations in the Netherlands. *Genetics Selection Evolution* 44:31. doi:10.1186/1297-9686-44-31
+
 - Schubert M, Lindgreen S, Orlando L (2016). AdapterRemoval v2: rapid adapter trimming, identification, and read merging. *BMC Research Notes* 9:88. doi:10.1186/s13104-016-1900-2
+
+- Shrestha M, Eriksson S, Schurink A, Andersson LS, Sundquist M, Frey R, Broström H, Bergström T, Lindgren G, Mikko S (2015). Genome-wide association study of insect bite hypersensitivity in Swedish-born Icelandic horses. *Journal of Heredity* 106(4):366–374. doi:10.1093/jhered/esv019
 
 - Terhorst J, Kamm JA, Song YS (2017). Robust and scalable inference of population history from hundreds of unphased whole genomes. *Nature Genetics* 49:303–309. doi:10.1038/ng.3748
 
