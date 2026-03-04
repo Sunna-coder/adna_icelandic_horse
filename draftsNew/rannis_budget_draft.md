@@ -1,7 +1,7 @@
 # Rannís Budget Draft — Postdoctoral Fellowship
 # Forn erfðamengi íslenska hestsins
 
-*Working draft only — salary figures must be confirmed against current University of Iceland / deCODE wage agreements before submission. All amounts in ISK.*
+*Working draft — salary figures must be confirmed against current University of Iceland / deCODE wage agreements before submission. All amounts in ISK.*
 
 ---
 
@@ -9,96 +9,103 @@
 
 | Cost category | Year 1 | Year 2 | Year 3 | Total |
 |---|---|---|---|---|
-| Salaries | 10,800,000 | 10,800,000 | 10,800,000 | 32,400,000 |
+| Salaries — postdoctoral researcher | 9,900,000 | 9,900,000 | 9,900,000 | 29,700,000 |
+| Salaries — Master's student (6 months) | 0 | 2,700,000 | 0 | 2,700,000 |
 | Operating costs | 400,000 | 200,000 | 100,000 | 700,000 |
 | Travel | 700,000 | 700,000 | 700,000 | 2,100,000 |
-| Publication costs | 0 | 375,000 | 375,000 | 750,000 |
+| Publication costs | 0 | 250,000 | 500,000 | 750,000 |
 | Contracted services | 0 | 0 | 0 | 0 |
-| **Total (excl. overhead)** | **11,900,000** | **12,075,000** | **11,975,000** | **35,950,000** |
+| **Total (excl. overhead)** | **11,000,000** | **13,750,000** | **11,200,000** | **35,950,000** |
 
-*Note: Total slightly over the 35,400,000 kr maximum — salary should be adjusted downward slightly once exact monthly rate is confirmed from wage agreement. See notes below.*
+*Total is ~550,000 kr over the 35,400,000 kr maximum — reduce the postdoctoral salary slightly (e.g. to 820,000 kr/month) once exact wage rate is confirmed. The distribution across years is broadly even as required.*
 
 **Overhead (25%, added automatically by IRF):** ~8,850,000 kr
 **Total grant including overhead:** ~44,250,000 kr
 
 ---
 
-## Salary
+## Salaries
 
-**Postdoctoral researcher (applicant): 36 months**
+### Postdoctoral researcher (applicant): 36 months
 
-Monthly employer cost: approximately **900,000 kr/month**
-*(This is the total employer cost — gross salary plus employer pension contributions (~11.5%), social security contributions (~6.35%), and holiday pay accrual. The actual take-home salary after income tax will be lower. Exact rate must be confirmed against the current University of Iceland collective wage agreement for postdoctoral researchers.)*
+Monthly employer cost: approximately **825,000 kr/month**
+*(Total employer cost — gross salary plus employer pension contributions (~11.5%), social security (~6.35%), and holiday pay accrual (~10.2%). Exact rate must be confirmed against the current collective wage agreement for postdoctoral researchers at the University of Iceland.)*
 
-36 months × 900,000 kr = **32,400,000 kr**
+36 months × 825,000 kr = **29,700,000 kr**
 
-**Master's student:** No salary applied for. The master's student will contribute to the project as part of their thesis work. This is standard practice in Iceland; the student may seek independent funding through University of Iceland student research funds.
+### Master's student: 6 months (Year 2)
+
+The Master's student will be recruited from programmes in biological anthropology, archaeology, or biology at the University of Iceland. The student's analytical work is concentrated in Year 2 (Phase 2 of the project), when the imputed genomic dataset becomes available. Six months of salary covers the core research period; the thesis writing and defence fall outside the salary period.
+
+Monthly employer cost: approximately **450,000 kr/month**
+*(Estimated research student rate — confirm against University of Iceland student research salary scale.)*
+
+6 months × 450,000 kr = **2,700,000 kr**
+
+*Note: If no suitable student is recruited, this budget line would be redirected (with IRF approval) to additional operating costs or publication fees.*
 
 ---
 
 ## Operating costs
 
-Operating costs cover reagents and consumables required for wet laboratory work. Infrastructure costs (laboratory facilities, computing, sequencing platform) are covered by the deCODE Genetics collaboration agreement and are not applied for here.
+These costs cover reagents and consumables for wet laboratory work at the deCODE Genetics aDNA facility. General laboratory infrastructure (clean-room facility, sequencing platform, computing cluster) is covered by the deCODE Genetics collaboration agreement and is not applied for here. If laboratory access at deCODE is limited, reagent costs may additionally be covered by the host laboratory of Prof. Tom Gilbert (Centre for Evolutionary Hologenomics, University of Copenhagen), with whom the applicant has an established collaboration.
 
 | Item | Year 1 | Year 2 | Year 3 |
 |---|---|---|---|
 | DNA extraction reagents (silica columns, proteinase K, buffers) — ~80 specimens | 200,000 | 50,000 | 0 |
-| Library preparation reagents (enzymes, adapters, indexing) | 150,000 | 50,000 | 0 |
-| Consumables (tubes, tips, plates) | 50,000 | 50,000 | 50,000 |
-| Bioinformatic access / software licences | 0 | 50,000 | 50,000 |
+| Library preparation reagents (enzymes, adapters, unique dual indexes) | 150,000 | 50,000 | 0 |
+| Consumables (tubes, tips, plates, PPE) | 50,000 | 50,000 | 50,000 |
+| Bioinformatic software / database access | 0 | 50,000 | 50,000 |
 | **Subtotal** | **400,000** | **200,000** | **100,000** |
-
-*Note: Sequencing costs are covered by the deCODE Genetics collaboration agreement. If sequencing capacity is unavailable at deCODE, sequencing will be conducted at CAGT Toulouse as a contracted service (see contingency note below).*
 
 ---
 
 ## Travel
 
-Maximum allowed: 800,000 kr/year. Travel costs must be justified and adhere to government guidelines for state employees.
+Maximum allowed: 800,000 kr/year. All travel must be justified and adhere to government guidelines for state employees.
 
-| Purpose | Frequency | Estimated cost per trip | Annual total |
+| Purpose | Frequency | Cost per trip (est.) | Annual total |
 |---|---|---|---|
-| International conference (ISBA or SMBE) — present project results | 1/year | 400,000 kr | 400,000 kr |
-| Research visit to CAGT, Toulouse (collaboration with Prof. Orlando) | 1/year | 200,000 kr | 200,000 kr |
-| Domestic travel (National Museum, University meetings) | Several | 100,000 kr | 100,000 kr |
+| International conference (ISBA or SMBE) | 1 per year | 400,000 kr | 400,000 kr |
+| Research visit to CAGT, Toulouse (collaboration with Prof. Orlando) | 1 per year | 200,000 kr | 200,000 kr |
+| Domestic (National Museum, University meetings) | Several | ~100,000 kr | 100,000 kr |
 | **Annual total** | | | **700,000 kr** |
 
-3 years × 700,000 kr = **2,100,000 kr total travel**
-
-*Well within the 800,000 kr/year cap. Budget can be adjusted upward (e.g. to attend an additional conference in Year 2 or 3) if needed.*
+3 years × 700,000 kr = **2,100,000 kr total** (within 800,000 kr/year cap)
 
 ---
 
 ## Publication costs
 
-Maximum allowed: 750,000 kr over the full grant period (not per year).
+Maximum allowed: 750,000 kr over the full grant period. Three peer-reviewed publications are planned.
 
-| Item | Timing | Amount |
+| Article | Expected submission | Amount |
 |---|---|---|
-| Open-access fee, Article 1 (origins and demography) | Year 2 | 375,000 kr |
-| Open-access fee, Article 2 (adaptation and traits) | Year 3 | 375,000 kr |
+| Article 1: Founding and demography of the Icelandic horse (Aims 1–2) | Year 2 (Month 27) | 250,000 kr |
+| Article 2: Adaptation and trait evolution in the Icelandic horse (Aim 3) | Year 3 (Month 32) | 250,000 kr |
+| Article 3: Master's student publication (PMEL17 allele history or Sílastaðir paired genomics) | Year 3 | 250,000 kr |
 | **Total** | | **750,000 kr** |
 
-*Open-access publication fees for high-impact journals (Nature Genetics, Current Biology, PNAS range) are typically €1,500–€3,000 per article. 375,000 kr (~€2,500) per article is a realistic estimate at current rates. If a fully open-access journal is selected (e.g. PLOS Genetics), fees may be lower.*
+*Open-access fees vary widely by journal. 250,000 kr (~€1,600) per article is a realistic estimate for mid-tier open-access journals (e.g. Molecular Ecology, Genome Biology and Evolution, Journal of Archaeological Science). If the University of Iceland holds a read-and-publish agreement with the target publisher, fees may be reduced or waived — the remaining budget can be redirected to other costs with IRF approval.*
 
 ---
 
 ## Contracted services
 
-None applied for in this budget. Sequencing and bioinformatic computing are covered by the deCODE Genetics collaboration agreement.
+None applied for. Sequencing and bioinformatic computing are covered by the deCODE Genetics collaboration agreement.
 
-**Contingency note**: If deCODE sequencing capacity is unavailable and sequencing must be conducted at CAGT Toulouse, this would be budgeted as a contracted service. Estimated cost: 1,500,000–2,000,000 kr for full-depth sequencing of ~50–80 libraries. If this becomes necessary, an amendment to the budget would be requested from IRF. This contingency is why the current budget is kept slightly below the maximum — to preserve headroom.
+**Contingency**: If deCODE sequencing capacity is unavailable, sequencing will be conducted at CAGT Toulouse as a contracted service (estimated 1,500,000–2,000,000 kr). In that scenario, a budget amendment would be requested from IRF using savings from other lines. This is why the current budget is kept below the maximum.
 
 ---
 
 ## Notes for finalisation
 
-1. **Confirm salary rate**: Contact the University of Iceland HR/administration to obtain the current postdoctoral salary rate under the applicable collective agreement. The 900,000 kr/month employer cost used here is an estimate. Adjust the salary line and total accordingly.
+1. **Confirm salary rates**: Check the current postdoctoral and student research salary scales with the University of Iceland HR before submission. The monthly employer costs used here (825,000 kr postdoc; 450,000 kr student) are estimates.
 
-2. **Overhead**: The 25% overhead is added automatically by IRF to the awarded amount and paid directly to the host institution. It covers facilities, rent, electricity, computing infrastructure (general). It is not included in the budget table above and does not reduce the amounts shown.
+2. **Overhead**: The 25% overhead (~8.85M kr) is added automatically by IRF and paid to the host institution for facilities, administration, and infrastructure. It is not included above and does not affect the amounts shown.
 
-3. **Master's student**: No salary included. If you later decide to include 6–12 months of student salary, this would need to come out of the salary line (reducing your own salary for that period) or by reducing travel/operations.
+3. **Equipment**: Not allowed for postdoctoral fellowship grants. None included.
 
-4. **Equipment**: Not allowed for postdoctoral fellowship grants. No equipment costs are included.
+4. **Three publications**: Listing three expected publications (two from the main project, one from the master's student project) is a strength of the application. All three are realistic outputs within the 36-month timeline.
 
-5. **Budget distribution**: The handbook expects a "relatively even distribution" of costs across years. The current draft is even on salaries and travel; operating costs are front-loaded (most lab work in Year 1), which is scientifically correct and should be easy to justify.
+5. **Master's student salary**: Including 6 months of student salary is a modest cost (~2.7M kr) that explicitly demonstrates commitment to training. If the student secures independent funding (University of Iceland student research grant), this line can be redirected with IRF approval.

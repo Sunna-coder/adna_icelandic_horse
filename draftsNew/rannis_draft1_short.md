@@ -5,7 +5,7 @@
 *(Ancient genomics of the Icelandic horse: origins, evolution, and the legacy of isolation)*
 
 **Applicant**: Sigríður Sunna Ebenesersdóttir, PhD
-Adjunct in Biological Anthropology, University of Iceland
+Adjunct in Biological Anthropology, Faculty of Social and Human Sciences, University of Iceland
 
 **Host institution**: University of Iceland
 
@@ -17,13 +17,13 @@ Adjunct in Biological Anthropology, University of Iceland
 
 ### A.1 Overview and Research Questions
 
-The Icelandic horse is among the most genetically isolated domestic animal populations on earth. Brought to Iceland by Norse settlers in the late 9th century CE, it has remained separated from all other horse breeds for over 1,100 years — maintained by one of the world's oldest continuously enforced livestock import bans, enacted by the Alþingi around 982 CE. This has produced a population of exceptional scientific value: a domestic animal whose entire post-settlement history is, in principle, traceable from the genomic record. Yet the ancient genetic history of the Icelandic horse is entirely unknown. We do not know which populations contributed to the founding stock, how the population responded to Iceland's volcanic famines and livestock epidemics, or how the breed's most distinctive traits evolved under isolation.
+The Icelandic horse is among the most genetically isolated domestic animal populations on earth. Brought to Iceland by Norse settlers in the late 9th century CE, it has remained separated from all other horse breeds for over 1,100 years — maintained by one of the world's oldest continuously enforced livestock import bans, enacted by the Alþingi around 982 CE [citation needed]. This has produced a population of exceptional scientific value: a domestic animal whose entire post-settlement history is, in principle, traceable from the genomic record. Yet the ancient genetic history of the Icelandic horse is entirely unknown. We do not know which populations contributed to the founding stock, how the population responded to Iceland's volcanic famines and livestock epidemics, or how the breed's most distinctive traits evolved under isolation.
 
 This project will generate the first genome-wide ancient DNA dataset for the Icelandic horse, using up to 90 archaeological specimens from the National Museum of Iceland spanning 870–1900 CE, and address three specific aims.
 
 **Aim 1 — Origins and founding**: What was the genomic composition of the founding horse population? Were horses introduced in a single event or multiple waves? The ancient human genomics of Iceland (Ebenesersdóttir et al. 2018; Ebenesersdóttir et al., in preparation) shows that early Icelanders were a mixture of Norse and Gaelic ancestry — many departing from Norse settlements in Orkney, the Hebrides, and Ireland rather than directly from western Norway. Horses transported for colonisation (as distinct from raiding, where horses were acquired locally) would have reflected these departure points. A settler from the Hebrides would have brought horses carrying a mixture of Scandinavian and native Celtic or British pony ancestry. Ahmed et al. (under review) established that the NORD ancestry component defining Icelandic horses emerged around 810 CE, but does not resolve whether Celtic or British pony ancestry also contributed to the founding stock — the "Celtic pony hypothesis," which this project will test directly for the first time.
 
-**Aim 2 — Demographic history under isolation**: How did inbreeding, genetic diversity, and effective population size change across 1,100 years? Did Iceland's major historical crises — the Black Death (~1402 CE), the Laki volcanic famine (1783–1784 CE), which reduced the horse population by an estimated 70% within two years — leave detectable genomic signatures? The known historical timeline allows a level of calibration between genomics and history that is almost never achievable.
+**Aim 2 — Demographic history under isolation**: How did inbreeding, genetic diversity, and effective population size change across 1,100 years? Did Iceland's major historical crises — the Black Death (~1402 CE), the Laki volcanic famine (1783–1784 CE), which reduced the horse population by an estimated 70% within two years [citation needed] — leave detectable genomic signatures? The known historical timeline allows a level of calibration between genomics and history that is almost never achievable.
 
 **Aim 3 — Adaptation and trait evolution**: When did the *DMRT3* stop codon enabling the tölt reach fixation — from founding or gradually? How did the frequency of the *PMEL17* Silver/MCOA allele change through time? What genomic signatures of selection are detectable at loci associated with sweet itch susceptibility (ECA1, ECA3, ECA15, ECA18, ECA20/MHC; Shrestha et al. 2015; Schurink et al. 2012), metabolic adaptation, and immune diversity? Icelandic horses are also notable for exceptional longevity (routinely 30–35 years), connected in part to unexpectedly high MHC heterozygosity maintained under isolation (79 distinct MHC haplotypes despite bottleneck history; Maccari et al. 2019) — whether this diversity was present from founding or sustained by balancing selection is directly addressable here.
 
@@ -31,9 +31,9 @@ This project will generate the first genome-wide ancient DNA dataset for the Ice
 
 The project rests on four pillars of prior work.
 
-**Proven methods**: aDNA extraction and sequencing protocols developed by the applicant at deCODE Genetics were applied to recover genome-wide data from 88 ancient Icelandic human genomes (*Science* 2018) and subsequently 201 ancient Icelandic human genomes (manuscript in preparation). Seven ancient Icelandic horse specimens processed using the same protocol yielded 10–40% endogenous horse DNA — well above the ≥1% threshold required for genomic analysis — confirming that Icelandic horse material preserves aDNA at excellent levels.
+**Proven methods**: aDNA extraction and sequencing protocols developed by the applicant at deCODE Genetics were applied to recover genome-wide data from 27 ancient Icelandic human genomes (*Science* 2018) and subsequently 201 ancient Icelandic human genomes (manuscript in preparation). Five ancient Icelandic horse specimens processed using the same protocol yielded 10–40% endogenous horse DNA — well above the ≥1% threshold required for genomic analysis — confirming that Icelandic horse material preserves aDNA at excellent levels.
 
-**Sample collection**: Sampling permission has been granted by the National Museum of Iceland for up to 90 specimens spanning 870–1900 CE, covering burial contexts (*kuml*), animal bone deposits (*dys*), and assemblages from sites across Iceland. Seven libraries (VHR031, VHR085, VHR089, VHR093, VHR100, VHR102, VHR105) are already prepared and ready for Phase 2.
+**Sample collection**: Sampling permission has been granted by the National Museum of Iceland for up to 90 specimens spanning 870–1900 CE, covering burial contexts (*kuml*), animal bone deposits (*dys*), and assemblages from sites across Iceland. Seven libraries (VHR031, VHR085, VHR089, VHR093, VHR100, VHR102, VHR105) have been prepared; five have been quality-assessed and are ready for Phase 2.
 
 **Infrastructure**: All wet laboratory work will be conducted at the deCODE Genetics ancient DNA facility, Reykjavík, under the applicant's collaboration agreement, which provides access to the dedicated aDNA clean-room laboratory, Illumina NovaSeq sequencing platform, and high-performance computing cluster. No new infrastructure investment is required.
 
@@ -41,15 +41,15 @@ The project rests on four pillars of prior work.
 
 ### A.3 Originality
 
-No ancient genomic data exist for any horse population from the North Atlantic. The Icelandic horse is the biological descendant of Viking Age Norse horse husbandry, preserved by the import ban. Four dimensions make this project unlike any previously published study: (1) it is the first genome-wide investigation of an North Atlantic horse population; (2) a 1,100-year dataset from a single population with a fully documented historical record allows calibration of genomics against precisely dated events; (3) the Icelandic horse is a model system for evolutionary questions about founder effects, long-term inbreeding, and selection in a closed population (Frankham 1997); and (4) the companion ancient human genomics study (Ebenesersdóttir et al., in preparation) provides human genomic data from the same burial sites — including sites documented in *Kuml og haugfé* (Eldjárn and Friðriksson 2016) — creating paired human-horse genomic data from individual Viking Age burial events that does not exist anywhere else in the world.
+No genome-wide ancient DNA data suitable for population-genomic analysis exist for any Icelandic or wider North Atlantic horse population. The Icelandic horse is the biological descendant of Viking Age Norse horse husbandry, preserved by the import ban [citation needed]. Four dimensions make this project unlike any previously published study: (1) it is the first genome-wide investigation of a North Atlantic horse population; (2) a 1,100-year dataset from a single population with a fully documented historical record allows calibration of genomics against precisely dated events; (3) the Icelandic horse is a model system for evolutionary questions about founder effects, long-term inbreeding, and selection in a closed population (Frankham 1997); and (4) the companion ancient human genomics study (Ebenesersdóttir et al., in preparation) provides human genomic data from the same burial sites — including sites documented in *Kuml og haugfé* (Eldjárn and Friðriksson 2016) — creating paired human-horse genomic data from individual Viking Age burial events that does not exist anywhere else in the world.
 
 ### A.4 Impact
 
-**For Icelandic science**: This project establishes ancient animal genomics as an active field in Iceland, using exclusively Icelandic resources. The methods and pipelines generated here are directly transferable to other Icelandic archaeological species — cattle, sheep, and dogs — none of which have been studied at the genomic level.
+**For Icelandic science**: This project establishes ancient animal genomics as an active field in Iceland, using exclusively Icelandic resources. The methods and pipelines generated here are directly transferable to other Icelandic archaeological species — cattle, sheep, and dogs — none of which have been studied using whole-genome ancient DNA methods.
 
 **For cultural heritage**: The horse's role in settlement-era Icelandic society — as working animal, ritual object, and companion in death (Eldjárn and Friðriksson 2016; Nistelberger, Pálsdóttir et al. 2019) — is well documented. Tracing its genetic founding will contribute directly to public understanding of Icelandic history, disseminated through the National Museum of Iceland.
 
-**For the horse industry**: There are approximately 80,000–100,000 registered Icelandic horses in Iceland and over 100,000 abroad in more than 30 countries. Sweet itch affects an estimated 30–40% of exported horses; ocular anomalies linked to *PMEL17* are a recognised breeding concern. The first historical genomic baseline for the breed will allow breeders and veterinarians to place current health and diversity data in proper historical context.
+**For the horse industry**: There are approximately 80,000–100,000 registered Icelandic horses worldwide [citation needed]. Sweet itch affects an estimated 30–40% of exported horses [citation needed]; ocular anomalies linked to *PMEL17* are a recognised breeding concern (Brunberg et al. 2006; Andersson et al. 2011). The first historical genomic baseline for the breed will allow breeders and veterinarians to place current health and diversity data in proper historical context.
 
 **For global science**: The methodological advances in imputation-based ancient genomics demonstrated here are applicable to any non-human ancient genomics project. The findings on founder effects, sustained inbreeding, and selection under isolation are relevant to conservation biology broadly.
 
@@ -69,7 +69,7 @@ Despite this progress, the entire North Atlantic remains unsampled. The only anc
 
 ### C.1 Overview
 
-The project proceeds in three overlapping phases: Phase 1 (laboratory, Months 1–10), Phase 2 (ancestry and demography, Months 9–24), and Phase 3 (adaptation and traits, Months 20–36). All laboratory work is conducted at the deCODE Genetics aDNA facility; all computing runs on the deCODE cluster. Sequencing is performed at deCODE (Illumina NovaSeq); if capacity is unavailable, at CAGT Toulouse. The principal risk — low endogenous DNA in some specimens — is mitigated by a large sample pool (up to 90) and preliminary data confirming 10–40% endogenous DNA in seven existing Icelandic horse libraries.
+The project proceeds in three overlapping phases: Phase 1 (laboratory, Months 1–10), Phase 2 (ancestry and demography, Months 9–24), and Phase 3 (adaptation and traits, Months 20–36). All laboratory work is conducted at the deCODE Genetics aDNA facility; all computing runs on the deCODE cluster. Sequencing is performed at deCODE (Illumina NovaSeq); if capacity is unavailable, at CAGT Toulouse. The principal risk — low endogenous DNA in some specimens — is mitigated by a large sample pool (up to 90) and preliminary data confirming 10–40% endogenous DNA in five quality-assessed Icelandic horse libraries.
 
 ### C.2 Methodology
 
@@ -94,7 +94,7 @@ The project proceeds in three overlapping phases: Phase 1 (laboratory, Months 1�
 
 ### C.4 Present Status
 
-Seven ancient Icelandic horse specimens have been extracted and sequenced at deCODE Genetics, yielding 10–40% endogenous horse DNA. These libraries are ready for Phase 2. The applicant is a co-author on Ahmed et al. (under review), which validates the imputation pipeline and establishes the collaboration with the Orlando laboratory. The analysis of 201 ancient Icelandic human genomes (manuscript in preparation) demonstrates the applicant's capacity to execute the full project workflow independently.
+Five ancient Icelandic horse specimens have been extracted and quality-assessed at deCODE Genetics, yielding 10–40% endogenous horse DNA; seven libraries in total have been prepared and are ready for Phase 2. The applicant is a co-author on Ahmed et al. (under review), which validates the imputation pipeline and establishes the collaboration with the Orlando laboratory. The analysis of 201 ancient Icelandic human genomes (manuscript in preparation) demonstrates the applicant's capacity to execute the full project workflow independently.
 
 ---
 
@@ -102,7 +102,7 @@ Seven ancient Icelandic horse specimens have been extracted and sequenced at deC
 
 ### D.1 Project Leadership and Domestic Co-operation
 
-The project is led by **Dr Sigríður Sunna Ebenesersdóttir** (Adjunct in Biological Anthropology, University of Iceland), who has developed and applied the aDNA protocols used here at scale (88 and 201 ancient Icelandic human genomes) and holds primary hands-on experience with the National Museum horse specimens. She is responsible for all aspects of execution: specimen selection, laboratory processing, bioinformatic analysis, and manuscript preparation.
+The project is led by **Dr Sigríður Sunna Ebenesersdóttir** (Adjunct in Biological Anthropology, University of Iceland), who has developed and applied the aDNA protocols used here at scale (27 and 201 ancient Icelandic human genomes) and holds primary hands-on experience with the National Museum horse specimens. She is responsible for all aspects of execution: specimen selection, laboratory processing, bioinformatic analysis, and manuscript preparation.
 
 **Co-investigator: Prof. Agnar Helgason** (Professor, University of Iceland / deCODE Genetics) contributes expertise in the population genetics of isolated populations. No direct salary payment is required; his involvement is as scientific co-investigator and co-supervisor of the Master's student.
 
@@ -122,6 +122,8 @@ The project is led by **Dr Sigríður Sunna Ebenesersdóttir** (Adjunct in Biolo
 
 **Article 2** — *Genomic signatures of adaptation and trait evolution in the isolated Icelandic horse lineage* — addresses Aim 3. Target journals: *Genetics*, *Molecular Ecology*, or *Genome Biology and Evolution*. Expected submission: Month 32.
 
+**Article 3** — Master's student publication on either the temporal history of the *PMEL17* Silver mutation or paired human-horse genomics at Sílastaðir (topic finalised upon student recruitment). Target journals: *Journal of Archaeological Science*, *Molecular Ecology*, or equivalent. Expected submission: Year 3.
+
 All publications will be submitted open-access in compliance with Rannís open science requirements and FAIR data principles. All genomic data will be deposited in the European Nucleotide Archive (ENA) upon article acceptance. Bioinformatic pipelines will be made publicly available on GitHub. Results will be communicated to the National Museum, Icelandic horse breeding associations, and the general public through institutional channels.
 
 ---
@@ -134,7 +136,7 @@ One Master's student from the University of Iceland (biological anthropology, ar
 
 **Option 2 — Paired human and horse genomics at Sílastaðir** *(archaeology or biological anthropology)*: The burial ground at Sílastaðir contains four sequenced human individuals (companion human genomics study) alongside two horse burials — one accompanying a warrior burial with sword, axes, and spearhead; one accompanying a second warrior burial. The student will examine whether the two horses are related, whether their genomic profiles (sex, ancestry, inbreeding) correlate with the human assemblages, and whether they connect genetically to horses at other Icelandic sites. The student will participate in laboratory processing of the Sílastaðir specimens in Phase 1 and carry out population genomic analysis in Phase 2.
 
-Both students will be co-supervised by Dr Ebenesersdóttir (primary) and Prof. Helgason (co-supervisor), training the first Icelandic researchers in ancient animal genomics methods.
+The student will be co-supervised by Dr Ebenesersdóttir (primary) and Prof. Helgason (co-supervisor), providing hands-on training in ancient animal genomics methods.
 
 ---
 

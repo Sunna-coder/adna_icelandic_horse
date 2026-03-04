@@ -31,11 +31,12 @@ The IRF Handbook 2026 has been read (`background/fellowship_examples/IRF_Handboo
 
 ### URGENT — decisions needed before finalising the application
 
-- [ ] **Decide on host institution for Rannís**
+- [ ] **Decide on host institution for Rannís** ← Sunna confirmed this is an open question (March 2026 edits)
   The handbook says the application is strengthened if the host is at a different institution than the PhD-granting one (University of Iceland). Options:
-  1. **deCODE Genetics as formal host** (accounting institution) — deCODE is a separate legal entity; this would satisfy the "other institution" criterion and keep the working arrangement exactly the same. Requires deCODE to formally agree to host and sign the confirmation letter.
+  1. **deCODE Genetics as formal host** (accounting institution) — deCODE is a separate legal entity; this would satisfy the "other institution" criterion and keep the working arrangement exactly the same. Requires deCODE to formally agree to host and sign the confirmation letter. **RECOMMENDED**.
   2. Keep **University of Iceland as host** — slightly weaker by the handbook's criteria, but still valid.
   Tom Gilbert at CEH is NOT eligible — the grant cannot go outside Iceland.
+  → Once decided, update `rannis_draft1_short.md` line 10 (currently "University of Iceland").
 
 - [ ] **Arrange two letters of recommendation**
   Required from experts NOT involved in the application. Suggested candidates:
@@ -112,6 +113,17 @@ These can be made in PowerPoint, Illustrator, or similar tools.
 ## [Claude comment] flags in the draft files — things Sunna needs to answer
 
 These are questions embedded directly in the draft files. Claude cannot fill these in without your input. Work through them before the final revision pass.
+
+### `draftsNew/rannis_draft1_short.md` — citations needed (from Sunna's March 2026 edits)
+
+Four `[citation needed]` placeholders remain in the condensed draft — find these sources before submission:
+
+| Location | Claim | Possible source |
+|---|---|---|
+| A.1 | Import ban enacted by Alþingi around 982 CE | Icelandic horse history literature — possibly Þorsteinsson (1966) or a reference in the breed history literature |
+| A.2 (Aim 2) | Laki famine reduced horse population by ~70% within two years | Historical livestock census records — Ólafsson (1779) or Dugmore AJ et al. (2007) *Quaternary Science Reviews* 26:1620 |
+| A.4 | ~80,000–100,000 Icelandic horses worldwide | FEIF (Federation of European Icelandic Horse Associations) statistics |
+| A.4 | Sweet itch affects 30–40% of exported horses | Possibly Schurink et al. (2012) or Halldórsdóttir & Lazáry (1990) *Equine Veterinary Journal* 22:256 |
 
 ### `draftsNew/rannis_draft1.md` (17 comments)
 
