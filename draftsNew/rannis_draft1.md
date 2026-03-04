@@ -1,7 +1,7 @@
 # Rannís — Icelandic Research Fund
 # Postdoctoral Fellowship Application — First Draft
 
-**Project title**: Forntíma erfðafræði íslenska hestsins: uppruni, þróun og arfur einangrunar
+**Project title**: Forn erfðafræði íslenska hestsins: uppruni, þróun og arfleifð einangrunar
 *(Ancient genomics of the Icelandic horse: origins, evolution, and the legacy of isolation)*
 
 **Applicant**: Sigríður Sunna Ebenesersdóttir, PhD
