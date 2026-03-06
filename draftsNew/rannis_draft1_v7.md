@@ -1,6 +1,6 @@
 # Rannís — Icelandic Research Fund
-## Postdoctoral Fellowship Grant — Working Draft v6
-*Updated 2026-03-06: New sources incorporated from user-provided text and Leland (2025) paper. Aim 1 restructured around clearer origin narrative (Norwegian primary ancestry → Shetland connection → British-Celtic component question); selection for hardiness added; Section B expanded with earlier origin research (Bjørnstad 2000, Aðalsteinsson & Sigurðsson 1998). Citation for 982 CE import ban resolved using Stelter (2014). Sections C–G unchanged.*
+## Postdoctoral Fellowship Grant — Working Draft v7
+*Updated 2026-03-06: Corrections based on reading Fages et al. (2019) and Pálsdóttir et al. (2019) directly. Aim 1 restructured around clearer origin narrative (Norwegian primary ancestry → Shetland connection → British-Celtic component question); selection for hardiness added; Section B expanded with earlier origin research (Bjørnstad 2000, Aðalsteinsson & Sigurðsson 1998). Citation for 982 CE import ban resolved using Stelter (2014). Sections C–G unchanged.*
 
 ---
 
