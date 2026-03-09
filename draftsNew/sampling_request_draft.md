@@ -42,7 +42,7 @@ This project addresses three specific aims:
 
 **Aim 3 — Adaptation and trait evolution:** Track the temporal trajectories of key genetic variants underlying the breed's most distinctive traits: the tölt gait (DMRT3 locus), coat colour and eye health (PMEL17/Silver allele), and immune diversity and disease susceptibility (sweet itch loci).
 
-To achieve these aims, we aim to sequence more than 120 ancient Icelandic horse specimens spanning the settlement period (ca. 870 CE) through to the early 20th century: 24 specimens already available, plus more than 96 additional specimens requested below (with exact counts from several unregistered assemblages to be confirmed upon assessment).
+To achieve these aims, we aim to sequence more than 125 ancient Icelandic horse specimens spanning the settlement period (ca. 870 CE) through to the early 20th century: 24 specimens already available, plus more than 102 additional specimens requested below.
 
 ---
 
@@ -102,12 +102,12 @@ Note: Þjms. 8166 and Þjms. 8167 (Kaldidalur, AD 1920) are excluded from this r
 | Þjms. 13114 | Kirkjubæ á Síðu | | — | < 1000 CE | 1 |
 | Þjms. 4992 | Hörgsdalur/Mývatnsheiði | | — | undated | 1 |
 | 1974-208 | Reykjahlíð | | — | undated | 1 |
-| LNP 04 Kuml 2 – Ath. 3 (K-5-N-6) | — | | kuml (uncertain) | undated | — |
-| HST dyrabein (boxes 32, 35, 37) | — | | bones | ca. 9th–11th centuries CE | — |
-| DAD 07 #17 (K-5-0-5) | Daðastaðir | DAP | bones | ca. pre-AD 1300 | — |
-| Daðastaðir 2005 (K-5-D-1 and K-5-D-2, 4 boxes) | Daðastaðir | DAP | bones | ca. pre-AD 1300 | — |
-| Granagil óskráð bein 4.8.1981 (K-4-B-1) | Granagil | GGS | bones | < 1000 CE | — |
-| Hrífunes óskráð bein 19.10.1982 (K-4-D-1) | Hrífunes | HRS | bones | < 1000 CE | — |
+| LNP 04 Kuml 2 – Ath. 3 (K-5-N-6) | — | | kuml (uncertain) | undated | 1 |
+| HST dyrabein (boxes 32, 35, 37) | — | | bones | ca. 9th–11th centuries CE | 1 |
+| DAD 07 #17 (K-5-0-5) | Daðastaðir | DAP | bones | ca. pre-AD 1300 | 1 |
+| Daðastaðir 2005 (K-5-D-1 and K-5-D-2, 4 boxes) | Daðastaðir | DAP | bones | ca. pre-AD 1300 | 1 |
+| Granagil óskráð bein 4.8.1981 (K-4-B-1) | Granagil | GGS | bones | < 1000 CE | 1 |
+| Hrífunes óskráð bein 19.10.1982 (K-4-D-1) | Hrífunes | HRS | bones | < 1000 CE | 1 |
 | Stóra-Borg (K-4-N-12, 3 boxes) | Stóra-Borg | | bones | AD 1200–1900 | 3+ |
 | Skriðuklaustur mixed bones + skull (K-4-G-2, K-4-G-1) | Skriðuklaustur | SKR | bones, skull | 1450–1800 CE | 30+ |
 | ATR 09 2009-32-1804 + 2009-32-3620 (K-5-M-6, K-5-L-6) | Alþingisreitur | ATR | bones | 1600–1800 CE | 4+ |
