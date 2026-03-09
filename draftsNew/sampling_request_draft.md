@@ -42,7 +42,7 @@ This project addresses three specific aims:
 
 **Aim 3 — Adaptation and trait evolution:** Track the temporal trajectories of key genetic variants underlying the breed's most distinctive traits: the tölt gait (DMRT3 locus), coat colour and eye health (PMEL17/Silver allele), and immune diversity and disease susceptibility (sweet itch loci).
 
-To achieve these aims, we aim to sequence more than 125 ancient Icelandic horse specimens spanning the settlement period (ca. 870 CE) through to the early 20th century: 24 specimens already available, plus more than 102 additional specimens requested below.
+To achieve these aims, we aim to sequence more than 125 ancient Icelandic horse specimens spanning the settlement period (ca. 870 CE) through to the early 20th century: 24 specimens already available, plus up to 100 additional specimens requested below.
 
 ---
 
