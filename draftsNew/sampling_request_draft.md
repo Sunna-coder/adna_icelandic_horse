@@ -42,7 +42,7 @@ This project addresses three specific aims:
 
 **Aim 3 — Adaptation and trait evolution:** Track the temporal trajectories of key genetic variants underlying the breed's most distinctive traits: the tölt gait (DMRT3 locus), coat colour and eye health (PMEL17/Silver allele), and immune diversity and disease susceptibility (sweet itch loci).
 
-To achieve these aims, we aim to sequence up to 90 ancient Icelandic horse specimens spanning the settlement period (ca. 870 CE) through to the early 20th century, in addition to the 24 specimens already available.
+To achieve these aims, we aim to sequence more than 120 ancient Icelandic horse specimens spanning the settlement period (ca. 870 CE) through to the early 20th century: 24 specimens already available, plus more than 96 additional specimens requested below (with exact counts from several unregistered assemblages to be confirmed upon assessment).
 
 ---
 
@@ -108,12 +108,10 @@ Note: Þjms. 8166 and Þjms. 8167 (Kaldidalur, AD 1920) are excluded from this r
 | Daðastaðir 2005 (K-5-D-1 and K-5-D-2, 4 boxes) | Daðastaðir | DAP | bones | ca. pre-AD 1300 | — |
 | Granagil óskráð bein 4.8.1981 (K-4-B-1) | Granagil | GGS | bones | < 1000 CE | — |
 | Hrífunes óskráð bein 19.10.1982 (K-4-D-1) | Hrífunes | HRS | bones | < 1000 CE | — |
-| Stóra-Borg (K-4-N-12, 3 boxes) | Stóra-Borg | | bones | AD 1200–1900 | — |
-| Skriðuklaustur mixed bones (K-4-G-2, 3 boxes) | Skriðuklaustur | SKR | bones | 1450–1800 CE | — |
-| Skriðuklaustur skull (K-4-G-1) | Skriðuklaustur | SKR | skull | 1450–1800 CE | — |
-| ATR 09 2009-32-1804 (K-5-M-6) | Alþingisreitur | ATR | bones | 1600–1800 CE | — |
-| ATR 09 2009-32-3620 (K-5-L-6) | Alþingisreitur | ATR | bones | 1600–1800 CE | — |
-| Tjarnargata 3C 1999 Dyrabein (K-4-F-7) | Tjarnargata | TJG | bones | ca. 1600–1800 CE | — |
+| Stóra-Borg (K-4-N-12, 3 boxes) | Stóra-Borg | | bones | AD 1200–1900 | 3+ |
+| Skriðuklaustur mixed bones + skull (K-4-G-2, K-4-G-1) | Skriðuklaustur | SKR | bones, skull | 1450–1800 CE | 30+ |
+| ATR 09 2009-32-1804 + 2009-32-3620 (K-5-M-6, K-5-L-6) | Alþingisreitur | ATR | bones | 1600–1800 CE | 4+ |
+| Tjarnargata 3C 1999 Dyrabein (K-4-F-7) | Tjarnargata | TJG | bones | ca. 1600–1800 CE | 10+ |
 
 ---
 
