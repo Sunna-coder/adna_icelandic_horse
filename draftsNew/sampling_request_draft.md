@@ -26,7 +26,7 @@ The proposed study will produce the first genome-wide reconstruction of the Icel
 
 The Icelandic horse is among the most genetically isolated domestic animal populations in the world and one of Iceland's most enduring cultural symbols. Brought to Iceland by Norse settlers in the late 9th century CE, it has remained separated from all other horse breeds for over 1,100 years. Around 982 CE the Alþingi enacted one of the world's oldest continuously enforced livestock import bans. Any horse that leaves Iceland cannot return. Despite this unique combination of historical documentation, biological isolation, and cultural significance, the ancient genetic history of the Icelandic horse is entirely unknown at the genomic level. Twenty-two Viking Age specimens have been sequenced, but all at very low depth of coverage; only two reached sufficient depth to be placed on a global phylogeny, and even then only tentatively (Fages et al. 2019).
 
-Our research group has extensive experience in recovering and analysing ancient DNA from Icelandic skeletal material. In a study published in *Science* (Ebenesersdóttir et al., 2018), we successfully generated genome-wide data from 27 ancient Icelandic individuals, and we have since expanded this to 201 ancient Icelandic human genomes spanning 870–1900 CE (manuscript in preparation). The same extraction and sequencing pipelines have been applied to horse material: five horse specimens dated to 870–1000 CE yielded 15–30% endogenous DNA and were sequenced to 0.8–8× coverage, confirming the suitability of our protocols for this material.
+Our research group has extensive experience in recovering and analysing ancient DNA from Icelandic skeletal material. In a study published in *Science* (Ebenesersdóttir et al., 2018), we successfully generated genome-wide data from 27 ancient Icelandic individuals, and we have since expanded this to 201 ancient Icelandic human genomes spanning 870–1900 CE (manuscript in preparation). The same extraction and sequencing pipelines have been applied to horse material: five horse specimens dated to 870–1000 CE yielded 15–30% endogenous DNA content and were subsequently sequenced to depths of 0.8–8× genome coverage, directly confirming the suitability of our protocols for Icelandic archaeological horse material.
 
 The proposed work will be conducted in collaboration with Professor Ludovic Orlando at the Centre for Anthropobiology and Genomics of Toulouse (CAGT), University of Toulouse, France, whose laboratory has developed a reference panel of more than 900 modern and ancient horse genomes for imputation-based analysis.
 
@@ -117,7 +117,7 @@ Note: Þjms. 8166 and Þjms. 8167 (Kaldidalur, AD 1920) are excluded from this r
 
 ## Sampling methodology
 
-All sampling will be carried out by Sigríður Sunna Ebenesersdóttir and Joe Walser III, or under his direct supervision. We use the same minimally destructive approach successfully applied to the 22 previously sampled Icelandic horse specimens collected by Albína Hulda Pálsdóttir and to over 200 Icelandic human skeletal specimens collected by Sigríður Sunna Ebenesersdóttir and Joe Walser III.
+All sampling will be carried out by Sigríður Sunna Ebenesersdóttir and Joe Walser III, or under his direct supervision. We use the same minimally destructive approach successfully applied to the 22 Icelandic horse specimens sampled by Pálsdóttir et al. (2019) and to over 200 Icelandic human skeletal specimens sampled by Sigríður Sunna Ebenesersdóttir and Joe Walser III.
 
 **Material requested per specimen:** Approximately 50–100 mg of cortical bone powder, obtained by drilling or surface scraping of a non-diagnostic, non-visible area of the bone. We will preferentially sample teeth or the petrous portion of the temporal bone, as these substrates typically provide superior biomolecular preservation. For teeth (the preferred substrate), we sample the root or an internal section of the crown. For loose bone assemblages, we will select the most morphologically redundant element available.
 
@@ -131,7 +131,7 @@ We do not require whole bones or teeth to be removed from the Museum. All work c
 
 ## Laboratory analysis
 
-All aDNA work will be performed at the dedicated ancient DNA clean-room laboratory at deCODE Genetics, Reykjavík. The analytical pipeline involves:
+All aDNA work will be performed at the dedicated ancient DNA clean-room laboratory at deCODE Genetics, Reykjavík, which was established and is operated exclusively by the applicants. The analytical pipeline involves:
 
 - DNA extraction using silica-based methods optimised for degraded skeletal material
 - Illumina sequencing library preparation with unique molecular indexing
@@ -168,5 +168,7 @@ Björnsson, G. B., Sveinsson, H. J., Arnórsson, K., Sigurðardóttir, S., & Gu�
 Ebenesersdóttir, S. S., Sandoval-Velasco, M., Gunnarsdóttir, E. D., Jagadeesan, A., et al. (2018). Ancient genomes from Iceland reveal the making of human population. *Science*, 360(6392), 1028–1032.
 
 Fages, A., Hanghøj, K., Khan, N., Gaunitz, C., et al. (2019). Tracking five millennia of horse management with extensive ancient genome time series. *Cell*, 177(6), 1419–1435.
+
+Pálsdóttir, A. H., Nistelberger, H. M., Star, B., Winther-Johannessen, T., et al. (2019). Whole-mitochondrial genome sequencing of Viking Age horses from Iceland using an enrichment approach. *Journal of Archaeological Science: Reports*, 25, 34–44.
 
 Wutke, S., Sandoval-Castellanos, E., Benecke, N., Döhle, H.-J., et al. (2016). Decline of genetic diversity in ancient domestic stallions in Europe. *Science Advances*, 2(10), e1600950.
