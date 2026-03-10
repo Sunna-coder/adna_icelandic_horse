@@ -156,7 +156,10 @@ p <- ggplot() +
       override.aes = list(size = 4, colour = "white", stroke = 0.5),
       order = 1
     ),
-    size = guide_legend(order = 2)
+    size = guide_legend(
+      override.aes = list(fill = "grey60", colour = "black", stroke = 0.5),
+      order = 2
+    )
   ) +
 
   # Iceland bounding box
