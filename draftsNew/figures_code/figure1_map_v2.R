@@ -70,6 +70,7 @@ sites <- sites |>
 shape_vals <- c("Already permitted" = 21, "New request" = 21)
 
 # ── FLAG: mark sites with suspect coordinates ─────────────────────────────────
+if (!"Coord_flag" %in% names(sites)) sites$Coord_flag <- ""
 sites <- sites |>
   mutate(coord_ok = is.na(Coord_flag) | Coord_flag == "")
 
