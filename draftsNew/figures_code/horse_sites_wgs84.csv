@@ -26,7 +26,6 @@ Stóru-Vellir,,In new request,1,Þjms. 7695,undated,undated,Undated,,,63.985417,
 Tjarnargata (3C),,In new request,10+,K-4-F-7,1600-1800,post-settlement,Post-medieval (1100–1900 CE),,,64.144444,-21.944444,DMS→WGS84,,
 Niðurföll/Þykkvabæjarklaustur,,In new request,2+,1990-79-9,<1800-1900,post-settlement,Post-medieval (1100–1900 CE),,,63.505444,-18.371472,DMS→WGS84,,
 Stóra-Sandfell/Skriðdalur,,In new request,1,Þjms. 1982-57,< 1000,settlement,Settlement (870–1100 CE),,,65.12325,-14.546667,DMS→WGS84,,
-Vatnsdalur við Patreksfjörð,VDP,In new request,1,1968-510,< 1000,settlement,Settlement (870–1100 CE),Barðastrandasýsla,,65.57,-24.07,decimal,,
 Þórðarholt,,In new request,1,Þjms. 12562,< 1000,settlement,Settlement (870–1100 CE),,,64.116667,-19.75,DMS→WGS84,,
 Þóreyjarnúpur,,In new request,1,Þjms. 10435a,< 1000,settlement,Settlement (870–1100 CE),,,65.37925,-20.727806,DMS→WGS84,,
 Granagil hjá Búlandi í Skaftártunguhreppi,GGS,In new request,2,Þjms. 11526; Þjms. 6419b,< 1000,settlement,Settlement (870–1100 CE),V-Skaftafellssýsla,,63.783245,-18.583696,corrected decimal-minutes,,
@@ -42,8 +41,7 @@ Fjörður í Seyðisfirði,FJO,In new request,1,15229,< 1000,settlement,Settleme
 "Reykjasel, Jökuldalshreppi",RSJ,In new request,1,Þjms. 4867,< 1000,settlement,Settlement (870–1100 CE),N-Múlasýsla,,65.3092,-15.1638,decimal,,
 Straumur í Tunguhreppi,STT,In new request,1,Þjoms. (in a box with artifacts),< 1000,settlement,Settlement (870–1100 CE),N-Múlasýsla,Austurland,65.44,-14.39,decimal,,Horse mentioned in human sample notes but no corresponding horse entry found in Horses.docx from Joe
 "Ytri-Neslönd, Mývatnssveit",YNM,In new request,1,1960-46,< 1000,settlement,Settlement (870–1100 CE),S-Þingeyjarsýsla,,65.62,-17.0,decimal,,
-Staðartunga í Hörgárdal,HSE,In new request,1,Þjms. 11435,< 1000,settlement,Settlement (870–1100 CE),Eyjafjarðarsýsla,,65.64,-18.22,decimal,,
-Staðartunga í Hörgárdal,STH,In new request,1,Þjms. 11716,< 1000,settlement,Settlement (870–1100 CE),Eyjafjarðarsýsla,Norðurland,65.67,-18.46,decimal,,
+Staðartunga í Hörgárdal,STH,In new request,2,Þjms. 11716; Þjms. 11435,< 1000,settlement,Settlement (870–1100 CE),Eyjafjarðarsýsla,Norðurland,65.67,-18.46,decimal,,
 Glaumbær,GBR,In new request,3,Þjms. 6918; Þjms. 6921; Þjms. 6933,< 1000,settlement,Settlement (870–1100 CE),S-Þingeyjarsýsla,,65.750389,-17.416333,corrected DMS,,
 Hrafnsstaðir (í Kinn),HRK,In new request,1,15234,< 1000,settlement,Settlement (870–1100 CE),S-Þingeyjarsýsla,Norðurland,65.81,-17.57,decimal,,Horse mentioned in human sample notes but no corresponding horse entry found in Horses.docx from Joe
 Litlu-Núpar,NUA,In new request,1,6948a/b,< 1000,settlement,Settlement (870–1100 CE),S-Þingeyjasýsla,Norðurland,65.95,-17.4,decimal,,Horse mentioned in human sample notes but no corresponding horse entry found in Horses.docx from Joe
@@ -54,7 +52,7 @@ Brandsstaðir í Blöndudal,BRB,In new request,1,1967-81/1996-269,< 1000,settlem
 Öxnadalsheiði,OXH,In new request,1,1962-209,< 1000,settlement,Settlement (870–1100 CE),Skagafjarðarsýsla,,65.45168,-18.973369,ISN93→WGS84,,
 Elivogar/Langholt,EVS,In new request,1,Þjms. 15690,< 1000,settlement,Settlement (870–1100 CE),Skagafjarðarsýsla,Norðurland,65.568522,-19.563526,ISN93→WGS84,,
 "Sólheimar, Sæmundarhlíð",SHS,In new request,1,Þjms. 15688,< 1000,settlement,Settlement (870–1100 CE),Skagafjarðarsýsla,,65.597905,-19.585128,ISN93→WGS84,,
-Vatnsdalur í Patreksfirði,VDP,In new request,1,1964:136,< 1000,settlement,Settlement (870–1100 CE),Barðastrandasýsla,,65.572386,-24.061639,ISN93→WGS84,,
+Vatnsdalur í Patreksfirði,VDP,In new request,2,1964:136; 1968-510,< 1000,settlement,Settlement (870–1100 CE),Barðastrandasýsla,,65.572386,-24.061639,ISN93→WGS84,,
 "Sílastaðir, Glæsibæjarhreppi",SSG,In new request,2,Þjms. 13702; Þjms. 13735,< 1000,settlement,Settlement (870–1100 CE),Eyjafjarðarsýsla,Norðurland,65.721703,-18.189824,ISN93→WGS84,,
 "Brimnes, Viðvikurhreppur",BRV,In new request,1,Þjms.6040,< 1000,settlement,Settlement (870–1100 CE),Skagafjarðarsýsla,,65.777175,-19.34862,ISN93→WGS84,,
 Grafargerði á Höfðaströnd,GGH,In new request,1,11685-b,< 1000,settlement,Settlement (870–1100 CE),Skagafjarðarsýsla,Norðurland,65.881074,-19.392373,ISN93→WGS84,,Horse mentioned in human sample notes but no corresponding horse entry found in Horses.docx from Joe

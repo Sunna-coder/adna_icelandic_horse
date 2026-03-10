@@ -79,10 +79,7 @@ sites$coord_ok <- is.na(sites$Coord_flag) | sites$Coord_flag == ""
 # Label sites that plot on top of each other or very close together
 label_sites <- c(
   "Alþingisreitur",
-  "Tjarnargata (3C)",
-  "Vatnsdalur við Patreksfjörð",
-  "Vatnsdalur í Patreksfirði",
-  "Staðartunga í Hörgárdal"
+  "Tjarnargata (3C)"
 )
 sites_label <- sites |>
   filter(coord_ok, Site %in% label_sites)
