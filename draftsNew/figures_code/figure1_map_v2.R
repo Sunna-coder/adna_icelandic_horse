@@ -31,9 +31,10 @@ sites <- read_csv(file.path(script_dir, "horse_sites_wgs84.csv"),
 sites <- sites |>
   filter(!is.na(Lat_WGS84), !is.na(Lon_WGS84))
 
-# Clean up N_specimens: treat NA/0 as 1
+# Clean up N_specimens: strip "+" suffix, convert to numeric, treat NA/0 as 1
 sites <- sites |>
-  mutate(N_specimens = ifelse(is.na(N_specimens) | N_specimens == 0, 1, N_specimens))
+  mutate(N_specimens = as.numeric(gsub("\\+.*$", "", N_specimens)),
+         N_specimens = ifelse(is.na(N_specimens) | N_specimens == 0, 1, N_specimens))
 
 # ── PERIOD COLOURS ────────────────────────────────────────────────────────────
 period_levels <- c(
