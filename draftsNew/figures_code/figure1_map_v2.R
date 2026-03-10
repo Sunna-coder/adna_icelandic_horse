@@ -103,12 +103,13 @@ p <- ggplot() +
 
   # Settlement sites with human genomes — red border
   geom_point(
-    data   = sites[sites$coord_ok & sites$red_border, ],
-    aes(x  = Lon_WGS84, y = Lat_WGS84, fill = Map_period, size = N_specimens),
-    shape  = 21,
-    colour = "#CC0000",
-    stroke = 1.4,
-    alpha  = 0.9
+    data        = sites[sites$coord_ok & sites$red_border, ],
+    aes(x       = Lon_WGS84, y = Lat_WGS84, fill = Map_period, size = N_specimens),
+    shape       = 21,
+    colour      = "#CC0000",
+    stroke      = 1.4,
+    alpha       = 0.9,
+    show.legend = c(size = FALSE)
   ) +
 
   # Flagged sites — open triangles for review
@@ -157,7 +158,7 @@ p <- ggplot() +
       order = 1
     ),
     size = guide_legend(
-      override.aes = list(fill = "grey60", colour = "black", stroke = 0.5),
+      override.aes = list(shape = 21, fill = "grey60", colour = "black", stroke = 0.5),
       order = 2
     )
   ) +
