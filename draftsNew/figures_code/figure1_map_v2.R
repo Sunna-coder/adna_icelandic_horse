@@ -7,13 +7,12 @@
 ##
 ## Install packages once:
 ## install.packages(c("ggplot2", "sf", "rnaturalearth", "rnaturalearthdata",
-##                    "ggrepel", "dplyr", "readr", "scales"))
+##                    "dplyr", "readr", "scales"))
 
 library(ggplot2)
 library(sf)
 library(rnaturalearth)
 library(rnaturalearthdata)
-library(ggrepel)
 library(dplyr)
 library(readr)
 library(scales)
@@ -63,15 +62,9 @@ sites <- sites |>
 
 shape_vals <- c("Already permitted" = 21, "New request" = 21)
 
-# ── LABEL: show site name when N > 2 or Laki-era ─────────────────────────────
+# ── FLAG: mark sites with suspect coordinates ─────────────────────────────────
 sites <- sites |>
-  mutate(label_site = case_when(
-    N_specimens > 5                         ~ Site,
-    Map_period == "Laki era (~1780 CE)"     ~ Site,
-    grepl("Skriðuklaustur|Alþingisreitur|Dalvík|Glaumbær|Tjarnargata",
-          Site, ignore.case = TRUE)        ~ Site,
-    TRUE                                    ~ NA_character_
-  ))
+  mutate(coord_ok = is.na(Coord_flag) | Coord_flag == "")
 
 # ── BASE MAP ──────────────────────────────────────────────────────────────────
 iceland <- ne_countries(country = "Iceland", scale = "large", returnclass = "sf")
@@ -86,7 +79,7 @@ p <- ggplot() +
 
   # Sites — size proportional to N specimens, colour by period
   geom_point(
-    data  = sites,
+    data  = sites |> filter(coord_ok),
     aes(x     = Lon_WGS84,
         y     = Lat_WGS84,
         fill  = Map_period,
@@ -97,18 +90,15 @@ p <- ggplot() +
     alpha  = 0.9
   ) +
 
-  # Labels for key sites
-  geom_label_repel(
-    data          = sites |> filter(!is.na(label_site)),
-    aes(x = Lon_WGS84, y = Lat_WGS84, label = label_site),
-    size          = 2.6,
-    label.size    = 0.15,
-    label.padding = unit(0.12, "lines"),
-    box.padding   = 0.4,
-    point.padding = 0.3,
-    max.overlaps  = 25,
-    family        = "serif",
-    fill          = alpha("white", 0.85)
+  # Flagged sites — shown as open triangles so they stand out for review
+  geom_point(
+    data   = sites |> filter(!coord_ok),
+    aes(x  = Lon_WGS84, y = Lat_WGS84),
+    shape  = 24,        # open triangle
+    size   = 3,
+    colour = "#CC0000",
+    fill   = "#FF9999",
+    stroke = 1.0
   ) +
 
   # Scales
@@ -137,7 +127,7 @@ p <- ggplot() +
     title    = "Archaeological horse sampling sites — Iceland",
     subtitle = "Up to 100 new specimens from >35 sites spanning 870–1900 CE\n(circle size = N specimens; red = Laki-era sites ca. 1780 CE)",
     caption  = paste0("Coordinates: WGS84 (EPSG:4326), converted from ISN93, decimal degrees, and DMS.\n",
-                      "Sites with N > 1 shown at proportional size. Source: National Museum of Iceland.")
+                      "Circle size = N specimens. Red triangles = coordinates flagged as suspect — check horse_sites_wgs84.xlsx.")
   ) +
 
   theme_minimal(base_family = "serif") +
