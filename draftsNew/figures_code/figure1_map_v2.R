@@ -145,7 +145,8 @@ p <- ggplot() +
     legend.position = "right",
     legend.title    = element_text(size = 9, face = "bold"),
     legend.text     = element_text(size = 8),
-    panel.grid.major = element_line(colour = "#d8d8d8", linewidth = 0.2),
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
     axis.text       = element_text(size = 7),
     axis.title      = element_blank(),
     plot.margin     = margin(5, 5, 5, 5)
