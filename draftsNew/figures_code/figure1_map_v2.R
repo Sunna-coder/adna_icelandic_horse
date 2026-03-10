@@ -60,17 +60,17 @@ sites <- sites |>
   mutate(Map_period = factor(Map_period, levels = period_levels))
 
 period_colours <- c(
-  "Settlement (870–1000 CE)"        = "#E07B39",   # amber
+  "Settlement (870–1000 CE)"        = "#FFD966",   # yellow
   "Post-Settlement (1001–1900 CE)"  = "#377EB8",   # blue
   "Undated"                          = "#999999"    # grey
 )
 
 # ── HUMAN GENOME SITES ────────────────────────────────────────────────────────
-# Sites that also have sequenced human genomes get a distinct border colour
+# Settlement sites that also have sequenced human genomes get a red border
 if (!"Human_seq" %in% names(sites)) sites$Human_seq <- ""
 sites <- sites |>
-  mutate(border_col = ifelse(!is.na(Human_seq) & Human_seq == "yes",
-                             "human", "none"))
+  mutate(red_border = !is.na(Human_seq) & Human_seq == "yes" &
+                      Map_period == "Settlement (870–1000 CE)")
 
 # ── FLAG: mark sites with suspect coordinates ─────────────────────────────────
 if (!"Coord_flag" %in% names(sites)) sites$Coord_flag <- ""
@@ -91,25 +91,23 @@ p <- ggplot() +
           colour    = "#a0a0a0",
           linewidth = 0.4) +
 
-  # Sites without human genomes
+  # All valid sites — fill by period, size by N specimens, white border
   geom_point(
-    data   = sites[sites$coord_ok & sites$border_col == "none", ],
-    aes(x  = Lon_WGS84, y = Lat_WGS84, fill = Map_period),
+    data   = sites[sites$coord_ok & !sites$red_border, ],
+    aes(x  = Lon_WGS84, y = Lat_WGS84, fill = Map_period, size = N_specimens),
     shape  = 21,
-    size   = 3,
     colour = "white",
     stroke = 0.5,
     alpha  = 0.9
   ) +
 
-  # Sites WITH human genomes — gold border to distinguish
+  # Settlement sites with human genomes — red border
   geom_point(
-    data   = sites[sites$coord_ok & sites$border_col == "human", ],
-    aes(x  = Lon_WGS84, y = Lat_WGS84, fill = Map_period),
+    data   = sites[sites$coord_ok & sites$red_border, ],
+    aes(x  = Lon_WGS84, y = Lat_WGS84, fill = Map_period, size = N_specimens),
     shape  = 21,
-    size   = 3,
-    colour = "#D4A017",   # gold border
-    stroke = 1.2,
+    colour = "#CC0000",
+    stroke = 1.4,
     alpha  = 0.9
   ) +
 
@@ -139,20 +137,17 @@ p <- ggplot() +
     alpha         = 0.85
   ) +
 
-  # Dummy point for human-genome legend entry
-  geom_point(
-    data   = data.frame(x = NA_real_, y = NA_real_),
-    aes(x  = x, y = y),
-    shape  = 21, size = 3,
-    colour = "#D4A017", fill = "grey70", stroke = 1.2,
-    show.legend = TRUE
-  ) +
-
   # Scales
   scale_fill_manual(
     values = period_colours,
     name   = "Time period",
     drop   = FALSE
+  ) +
+  scale_size_area(
+    name     = "N specimens",
+    max_size = 14,
+    breaks   = c(1, 5, 10, 30),
+    labels   = c("1", "5", "10", "30+")
   ) +
 
   # Guides
@@ -160,7 +155,8 @@ p <- ggplot() +
     fill = guide_legend(
       override.aes = list(size = 4, colour = "white", stroke = 0.5),
       order = 1
-    )
+    ),
+    size = guide_legend(order = 2)
   ) +
 
   # Iceland bounding box
@@ -169,7 +165,7 @@ p <- ggplot() +
   labs(
     title    = "Archaeological horse sampling sites — Iceland",
     subtitle = paste0("68 sites (54 new request + 14 already permitted) spanning 870–1900 CE\n",
-                      "Gold border = site also has sequenced human genomes (18 sites)"),
+                      "Red border = Settlement site with sequenced human genomes (circle size = N specimens)"),
     caption  = paste0("Coordinates: WGS84 (EPSG:4326), converted from ISN93, decimal degrees, and DMS.\n",
                       "Red triangles = coordinates flagged as suspect — check horse_sites_wgs84.xlsx.")
   ) +
