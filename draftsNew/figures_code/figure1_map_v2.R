@@ -69,8 +69,7 @@ period_colours <- c(
 # Settlement sites that also have sequenced human genomes get a red border
 if (!"Human_seq" %in% names(sites)) sites$Human_seq <- ""
 sites <- sites |>
-  mutate(red_border = !is.na(Human_seq) & Human_seq == "yes" &
-                      Map_period == "Settlement (870–1000 CE)")
+  mutate(red_border = !is.na(Human_seq) & Human_seq == "yes")
 
 # ── FLAG: mark sites with suspect coordinates ─────────────────────────────────
 if (!"Coord_flag" %in% names(sites)) sites$Coord_flag <- ""
@@ -169,7 +168,7 @@ p <- ggplot() +
   labs(
     title    = "Archaeological horse sampling sites — Iceland",
     subtitle = paste0("68 sites (54 new request + 14 already permitted) spanning 870–1900 CE\n",
-                      "Red border = Settlement site with sequenced human genomes (circle size = N specimens)"),
+                      "Red border = site with sequenced human genomes (18 sites); circle size = N specimens"),
     caption  = paste0("Coordinates: WGS84 (EPSG:4326), converted from ISN93, decimal degrees, and DMS.\n",
                       "Red triangles = coordinates flagged as suspect — check horse_sites_wgs84.xlsx.")
   ) +
