@@ -7,7 +7,7 @@
 ##
 ## Install packages once:
 ## install.packages(c("ggplot2", "sf", "rnaturalearth", "rnaturalearthdata",
-##                    "dplyr", "readr", "scales"))
+##                    "dplyr", "readr", "scales", "ggrepel"))
 
 library(ggplot2)
 library(sf)
@@ -16,6 +16,7 @@ library(rnaturalearthdata)
 library(dplyr)
 library(readr)
 library(scales)
+library(ggrepel)
 
 # ── LOAD DATA ─────────────────────────────────────────────────────────────────
 # CSV lives alongside this script
@@ -71,8 +72,20 @@ shape_vals <- c("Already permitted" = 21, "New request" = 21)
 
 # ── FLAG: mark sites with suspect coordinates ─────────────────────────────────
 if (!"Coord_flag" %in% names(sites)) sites$Coord_flag <- ""
-sites <- sites |>
-  mutate(coord_ok = is.na(Coord_flag) | Coord_flag == "")
+# coord_ok: TRUE if coordinate is valid (no flag)
+sites$coord_ok <- is.na(sites$Coord_flag) | sites$Coord_flag == ""
+
+# ── LABELS: sites to label on map (overlapping or otherwise highlighted) ──────
+# Label sites that plot on top of each other or very close together
+label_sites <- c(
+  "Alþingisreitur",
+  "Tjarnargata (3C)",
+  "Vatnsdalur við Patreksfjörð",
+  "Vatnsdalur í Patreksfirði",
+  "Staðartunga í Hörgárdal"
+)
+sites_label <- sites |>
+  filter(coord_ok, Site %in% label_sites)
 
 # ── BASE MAP ──────────────────────────────────────────────────────────────────
 iceland <- ne_countries(country = "Iceland", scale = "large", returnclass = "sf")
@@ -87,7 +100,7 @@ p <- ggplot() +
 
   # Sites — size proportional to N specimens, colour by period
   geom_point(
-    data  = sites |> filter(coord_ok),
+    data  = sites[sites$coord_ok, ],
     aes(x     = Lon_WGS84,
         y     = Lat_WGS84,
         fill  = Map_period,
@@ -100,13 +113,28 @@ p <- ggplot() +
 
   # Flagged sites — shown as open triangles so they stand out for review
   geom_point(
-    data   = sites |> filter(!coord_ok),
+    data   = sites[!sites$coord_ok, ],
     aes(x  = Lon_WGS84, y = Lat_WGS84),
     shape  = 24,        # open triangle
     size   = 3,
     colour = "#CC0000",
     fill   = "#FF9999",
     stroke = 1.0
+  ) +
+
+  # Labels for overlapping sites
+  geom_label_repel(
+    data        = sites_label,
+    aes(x = Lon_WGS84, y = Lat_WGS84, label = Site),
+    size        = 2.5,
+    label.size  = 0.2,
+    box.padding = 0.5,
+    point.padding = 0.3,
+    max.overlaps = 20,
+    family      = "serif",
+    colour      = "grey20",
+    fill        = "white",
+    alpha       = 0.85
   ) +
 
   # Scales
