@@ -19,10 +19,11 @@ library(scales)
 library(ggrepel)
 
 # ── LOAD DATA ─────────────────────────────────────────────────────────────────
-# CSV lives alongside this script
-script_dir <- dirname(rstudioapi::getSourceEditorContext()$path)
-# If not in RStudio, set manually:
-# script_dir <- "/path/to/draftsNew/figures_code"
+# Set path to the folder containing horse_sites_wgs84.csv
+# Use forward slashes on Windows (or double backslashes)
+script_dir <- "C:/Users/sigridse/Documents/horse_figures"
+# To use the script location automatically in RStudio, replace the line above with:
+# script_dir <- dirname(rstudioapi::getSourceEditorContext()$path)
 
 sites <- read_csv(file.path(script_dir, "horse_sites_wgs84.csv"),
                   show_col_types = FALSE)
