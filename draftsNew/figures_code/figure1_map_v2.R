@@ -36,10 +36,18 @@ sites <- sites |>
          N_specimens = ifelse(is.na(N_specimens) | N_specimens == 0, 1, N_specimens))
 
 # ── PERIOD COLOURS ────────────────────────────────────────────────────────────
+# Reclassify Laki era into Post-Settlement
+sites <- sites |>
+  mutate(Map_period = case_when(
+    Map_period == "Laki era (~1780 CE)" ~ "Post-Settlement (1100–1900 CE)",
+    Map_period == "Post-medieval (1100–1900 CE)" ~ "Post-Settlement (1100–1900 CE)",
+    Map_period == "Settlement (870–1100 CE)" ~ "Settlement (870–1100 CE)",
+    TRUE ~ "Undated"
+  ))
+
 period_levels <- c(
   "Settlement (870–1100 CE)",
-  "Post-medieval (1100–1900 CE)",
-  "Laki era (~1780 CE)",
+  "Post-Settlement (1100–1900 CE)",
   "Undated"
 )
 
@@ -47,10 +55,9 @@ sites <- sites |>
   mutate(Map_period = factor(Map_period, levels = period_levels))
 
 period_colours <- c(
-  "Settlement (870–1100 CE)"     = "#E07B39",   # amber
-  "Post-medieval (1100–1900 CE)" = "#377EB8",   # blue
-  "Laki era (~1780 CE)"          = "#E41A1C",   # red — highlight Aim 2
-  "Undated"                       = "#999999"    # grey
+  "Settlement (870–1100 CE)"       = "#E07B39",   # amber
+  "Post-Settlement (1100–1900 CE)" = "#377EB8",   # blue
+  "Undated"                         = "#999999"    # grey
 )
 
 # Shape: already-permitted (IceEq) vs new request
@@ -107,11 +114,11 @@ p <- ggplot() +
     name   = "Time period",
     drop   = FALSE
   ) +
-  scale_size_continuous(
-    name   = "N specimens",
-    range  = c(2.5, 10),
-    breaks = c(1, 5, 10, 30),
-    labels = c("1", "5", "10", "30+")
+  scale_size_area(
+    name     = "N specimens",
+    max_size = 14,
+    breaks   = c(1, 5, 10, 30),
+    labels   = c("1", "5", "10", "30+")
   ) +
 
   # Guides — merge fill and size into one legend
@@ -125,7 +132,7 @@ p <- ggplot() +
 
   labs(
     title    = "Archaeological horse sampling sites — Iceland",
-    subtitle = "Up to 100 new specimens from >35 sites spanning 870–1900 CE\n(circle size = N specimens; red = Laki-era sites ca. 1780 CE)",
+    subtitle = "Up to 100 new specimens from >35 sites spanning 870–1900 CE\n(circle size proportional to N specimens)",
     caption  = paste0("Coordinates: WGS84 (EPSG:4326), converted from ISN93, decimal degrees, and DMS.\n",
                       "Circle size = N specimens. Red triangles = coordinates flagged as suspect — check horse_sites_wgs84.xlsx.")
   ) +
