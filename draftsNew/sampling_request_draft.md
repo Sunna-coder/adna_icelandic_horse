@@ -111,7 +111,7 @@ Note: Þjms. 8166 and Þjms. 8167 (Kaldidalur, AD 1920) are excluded from this r
 | Tjarnargata (3C) | K-4-F-7 (Tjarnargata 3C 1999 Dyrabein) | 10+ | | TJG | 1600–1800 CE |
 | Reykjahlíð | 1974-208 | 1 | | — | undated |
 | Litlu-Núpar | LNP 04 Kuml 2 – Ath. 3 (K-5-N-6) | 1 | yes | NUA | < 1000 CE |
-| Hofstaðir | HST dyrabein (boxes 32, 35, 37) | 1 | | HST | < 1000 CE |
+| Hofstaðir | Hofstaðir dyrabein (boxes 32, 35, 37) | 1 | | HST | < 1000 CE |
 | Daðastaðir | DAD 07 #17 (K-5-0-5) | 1 | | DAP | ca. pre-1300 CE |
 | Daðastaðir | Daðastaðir 2005 K-5-D-1 and K-5-D-2 (4 boxes) | 1 | | DAP | ca. pre-1300 CE |
 | Granagil (unregistered) | K-4-B-1 (óskráð bein 4.8.1981) | 1 | | GGS | < 1000 CE |
