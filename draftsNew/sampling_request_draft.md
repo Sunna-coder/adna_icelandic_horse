@@ -59,6 +59,7 @@ Note: Þjms. 8166 and Þjms. 8167 (Kaldidalur, AD 1920) are excluded from this r
 | Þjms. 6933 | Glaumbær | GBR | — | 800–1000 CE | 1 |
 | Þjms. 6921 | Glaumbær | GBR | — | 800–1000 CE | 1 |
 | Þjms. 6040 | Brimnes/Árskógsströnd | BRV | — | 900–1000 CE | 1 |
+| Þjms. 5849 | Brimnes (Dalvík) | DAV | — | 900–1000 CE | 1 |
 | Þjms. 9093-1 | Steinfinnsstaðir | | — | 900–1100 CE | 1 |
 | Þjms. 571 | Hafurbjarnarstaðir | | — | 900–1000 CE | 1 |
 | 1958-133 | Hrífunes | HRS | — | 900–950 CE | 1 |
@@ -68,6 +69,14 @@ Note: Þjms. 8166 and Þjms. 8167 (Kaldidalur, AD 1920) are excluded from this r
 | Þjms. 13735 | Sílastaðir | SSG | — | 900–1000 CE | 1 |
 | Þjms. 10493 | Galtalækur/Land | | — | 900–1100 CE | 1 |
 | Þjms. 12072 | Hemla/V. Landeyjahreppur | HVL | — | 900–1100 CE | 1 |
+| Þjms. 1958:117 | Kolsholt í Flóa | KHF | — | < 1000 CE | 1 |
+| Þjms. 1963-153 | Litli-Dunhagi/Hörgáldal | | — | < 1000 CE | 1 |
+| Þjms. 4992 | Hörgsdalur/Mývatnsheiði | | — | undated | 1 |
+| 1974-208 | Reykjahlíð | | — | undated | 1 |
+| 15234 | Hrafnsstaðir (í Kinn) | HRK | — | < 1000 CE | 1 |
+| Unknown | Miklibær í Blönduhlíð | | — | < 1000 CE | 1 |
+| Unknown | Snartastaðir | | — | < 1000 CE | 1 |
+| Unknown | Hólaskógur | | — | < 1000 CE | 1 |
 | 1996-269 | Eyvindarveri | | — | 1772 CE | 1 |
 | 1996-268 | Beinahóll/Kjölur | | — | 1780 CE | 1 |
 | Þjms. 9006 | Kjalvegur | | — | 1780 CE | 1 |
@@ -76,32 +85,36 @@ Note: Þjms. 8166 and Þjms. 8167 (Kaldidalur, AD 1920) are excluded from this r
 | Þjms. 9009 | Kjalvegur/Biskupstungnahreppur | | — | 1780 CE | 1 |
 | Þjms. 9010 | Kjalvegur/Biskupstungnahreppur | | — | 1780 CE | 1 |
 | Þjms. 3932 | Snæhvammur/Breiðdalur | | — | ca. 1850–1900 CE | 1 |
-| 1990-79-9 | Niðurföll/Þykkvabæjarklaustur | | assemblage, multiple bones | probably pre-modern | 1 |
+| 1990-79-9 | Niðurföll/Þykkvabæjarklaustur | | assemblage, multiple bones | probably pre-modern | 2+ |
 | 1969-154 | Lækur/Flói | LKH | kuml | < 1000 CE | 1 |
 | Þjms. 15688 | Sólheimar | SHS | kuml | < 1000 CE | 1 |
 | 1962-209 | Öxnadalsheiði | OXH | kuml | < 1000 CE | 1 |
-| 1968-510 | V. Barðastrandarsýsla | | kuml | < 1000 CE | 1 |
+| 1964:136; 1968-510 | Vatnsdalur í Patreksfirði | VDP | kuml | < 1000 CE | 2 |
 | 1967-81 | Brandsstaðir/Blöndudalur | BRB | kuml | < 1000 CE | 1 |
 | Þjms. 7708-1 og 2 | Stærri-Árskógur | SAE | kuml (uncertain) | < 1000 CE | 2 |
 | 1960-46 | Ytri-Neslönd | YNM | kuml (uncertain) | < 1000 CE | 1 |
+| hrossabein úr tveimur kumlum | Grafarbakki | | kuml | < 1000 CE | 2 |
 | Þjms. 10435a | Þóreyjarnúpur | | dys | < 1000 CE | 1 |
 | Þjms. 11526 | Granagil/Búland | GGS | dys | < 1000 CE | 1 |
 | Þjms. 6419b | Granagil/Búland | GGS | dys | < 1000 CE | 1 |
 | Þjms. 11920 | Mörk/Land | MKL | dys | < 1000 CE | 1 |
-| Þjms. 11435 | Hámundarstaðaháls | HSE | dys | < 1000 CE | 1 |
+| Þjms. 11716; Þjms. 11435 | Staðartunga í Hörgárdal | STH | dys | < 1000 CE | 2 |
 | Þjms. 11726 | Hvalnes | | — | undated | 1 |
 | Þjms. 7695 | Stóru-Vellir | | — | undated | 1 |
-| Þjms. 6948b | Litlu-Núpar | NUA | — | < 1000 CE | 1 |
-| Þjms. 1963-153 | Litli-Dunhagi/Hörgáldal | | — | < 1000 CE | 1 |
+| Þjms. 6948a/b | Litlu-Núpar | NUA | — | < 1000 CE | 1 |
 | Þjms. 10198 | Papey | | — | < 1000 CE | 1 |
-| Þjms. 11716 | Staðartunga/Hörgárdalur | STH | — | < 1000 CE | 1 |
 | Þjms. 15227b | Hrollaugsstaðir | HLS | — | < 1000 CE | 1 |
 | Þjms. 15690 | Elivogar/Langholt | EVS | — | < 1000 CE | 1 |
 | Þjms. 1982-57 | Stóra-Sandfell/Skriðdalur | | — | < 1000 CE | 1 |
-| Þjms. 5849 | Brimnes (Dalvík) | DAV | — | < 1000 CE | 1 |
 | Þjms. 13114 | Kirkjubæ á Síðu | | — | < 1000 CE | 1 |
-| Þjms. 4992 | Hörgsdalur/Mývatnsheiði | | — | undated | 1 |
-| 1974-208 | Reykjahlíð | | — | undated | 1 |
+| 2011-49-126; 2011-49-212; 2011-49-219; 2011-49-252 | Granastaðir | | — | < 1000 CE | 4 |
+| 15229 | Fjörður í Seyðisfirði | FJO | — | < 1000 CE | 1 |
+| 11685-b | Grafargerði á Höfðaströnd | GGH | — | < 1000 CE | 1 |
+| 2434 (hrossatennur) | Kápa á Almenningum | KVE | — | < 1000 CE | 1 |
+| 15.10.2015. Bein 8 | Leynir cave | | — | < 1000 CE | 1 |
+| 1912 hrossabein | Stóri-Moshvoll | SMH | — | < 1000 CE | 1 |
+| Þjoms. (in box with artefacts) | Straumur í Tunguhreppi | STT | — | < 1000 CE | 1 |
+| óskráð hrossabein | Austarihóll | | — | < 1000 CE | 1 |
 | LNP 04 Kuml 2 – Ath. 3 (K-5-N-6) | — | | kuml (uncertain) | undated | 1 |
 | HST dyrabein (boxes 32, 35, 37) | — | | bones | ca. 9th–11th centuries CE | 1 |
 | DAD 07 #17 (K-5-0-5) | Daðastaðir | DAP | bones | ca. pre-AD 1300 | 1 |
