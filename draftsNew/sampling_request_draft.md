@@ -110,7 +110,7 @@ Note: Þjms. 8166 and Þjms. 8167 (Kaldidalur, AD 1920) are excluded from this r
 | Alþingisreitur | K-5-M-6 (ATR 09 2009-32-1804 + 2009-32-3620) | 4+ | | ATR | 1600–1800 CE |
 | Tjarnargata (3C) | K-4-F-7 (Tjarnargata 3C 1999 Dyrabein) | 10+ | | TJG | 1600–1800 CE |
 | Reykjahlíð | 1974-208 | 1 | | — | undated |
-| LNP 04 Kuml 2 – Ath. 3 (K-5-N-6) | — | 1 | | — | undated |
+| Litlu-Núpar | LNP 04 Kuml 2 – Ath. 3 (K-5-N-6) | 1 | yes | NUA | < 1000 CE |
 | HST dyrabein (boxes 32, 35, 37) | — | 1 | | — | ca. 9th–11th c. CE |
 | Daðastaðir | DAD 07 #17 (K-5-0-5) | 1 | | DAP | ca. pre-1300 CE |
 | Daðastaðir | Daðastaðir 2005 K-5-D-1 and K-5-D-2 (4 boxes) | 1 | | DAP | ca. pre-1300 CE |
