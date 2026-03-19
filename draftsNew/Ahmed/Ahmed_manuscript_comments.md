@@ -8,6 +8,8 @@
 
 **Full title:** "Different breeding traditions shaped horse genetic diversity within and outside Asia"
 
+[Claude comment: **Title — minor wording suggestion.** "within and outside Asia" is slightly awkward because "within" and "outside" are not a natural pair. "inside and outside Asia" would be cleaner and more parallel. Worth raising with the corresponding authors before final submission.]
+
 **Authors (relevant to this application):** Hanin Ibrahim Ahmed*, Gabriel Renaud, Kristján H.S. Moore, Susanna Sawyer, Pablo Librado, Andaine Seguin-Orlando, Ólafur Þ. Magnússon, Hannes Eggertsson, Hákon Jónsson, **Sunna Ebenesersdóttir**, ..., Kári Stefánsson*, **Agnar Helgason**\*$, **Ludovic Orlando**\*$
 
 [Claude comment: Sunna is co-author (line 4–5). Agnar Helgason is a corresponding author and equal contributor. Ludovic Orlando is also a corresponding author. This is directly relevant to establishing the collaboration in the Rannís application: the working relationship with Orlando is documented at the author-list level, and Agnar Helgason's role as co-PI for the Rannís application is consistent with his corresponding-author status here.]
