@@ -48,10 +48,10 @@ ancient <- data.frame(
               "Estonia\n832–858 CE (n=2)"),
   lat     = c(58.96,  53.96,  55.68,  56.30,  58.32),
   lon     = c(-2.70,  -1.08,  12.57,  16.49,  26.59),
-  period  = c("Viking Age / Pictish",
+  period  = c("Viking Age",
               "Viking Age",
               "Viking Age",
-              "Earlier",
+              "Pre-Viking Age",
               "Viking Age"),
   # Denmark: nudge left+down into Danish territory; Estonia: above-left inside map
   nudge_x = c( 0.5,   0.5,  -0.5,   0.5,  -0.5),
@@ -73,7 +73,7 @@ breed_colours <- c(
 period_colours <- c(
   "Viking Age / Pictish" = "#6A0572",
   "Viking Age"           = "#6A0572",
-  "Earlier"              = "#C084E0"
+  "Pre-Viking Age"       = "#C084E0"
 )
 
 # ── Plot ──────────────────────────────────────────────────────────────────────
