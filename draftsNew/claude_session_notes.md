@@ -45,9 +45,20 @@ These were agreed in conversation but Sunna is editing her own working copy:
 - VHR031 (Granastaðir, 0.08x) and VHR102 (Berufjörður, 0.18x) — only published ancient Icelandic horse genomes (Fages et al. 2019), NOT in Ahmed panel
 - Modern horse sequencing plan: 100–150 present-day Icelandic horses, subset at high coverage for imputation panel, remainder low-coverage imputed
 
-## How to tell Claude where we are
-Paste this into your first message:
-> "I am working on a Rannís postdoctoral fellowship grant on ancient DNA from Icelandic horses. The current draft is draftsNew/rannis_draft1_v20.md. Please read the file claude_session_notes.md in draftsNew/ for context on where we left off."
+## How to start a new Claude session
+
+1. Open a terminal and navigate to the project:
+   ```
+   cd /home/sigridse/projects/adna_icelandic_horse
+   ```
+2. Start Claude Code by typing:
+   ```
+   claude
+   ```
+3. Paste this as your first message:
+   > "I am working on a Rannís postdoctoral fellowship grant on ancient DNA from Icelandic horses. The current draft is draftsNew/rannis_draft1_v20.md. Please read the file draftsNew/claude_session_notes.md for context on where we left off, then read the current draft."
+
+Claude will read both files and be up to speed without you needing to explain the project from scratch.
 
 ## Pending verifications (things to check before submission)
 - [ ] Bjørnstad 2000 vs 2003 — which is correct citation?
