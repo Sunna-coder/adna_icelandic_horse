@@ -29,15 +29,6 @@ modern <- data.frame(
                 "British Isles")
 )
 
-# ── Ancient Icelandic specimens (low coverage, Fages et al. 2019) ─────────────
-# VHR031 (Granastaðir, 0.08x) and VHR102 (Berufjörður, 0.18x)
-# Not in Ahmed et al. panel — shown to illustrate the data gap
-iceland_ancient <- data.frame(
-  label  = c("VHR031 & VHR102\n~870–1000 CE (n=2)\n(low coverage, not in panel)"),
-  lat    = c(65.0),
-  lon    = c(-18.5)
-)
-
 # ── Ancient specimens ─────────────────────────────────────────────────────────
 ancient <- data.frame(
   label   = c("Orkney, Scotland\n600 CE (n=3)",
@@ -76,15 +67,6 @@ p <- ggplot() +
   # Base map
   geom_sf(data = world, fill = "grey92", colour = "grey70", linewidth = 0.3) +
 
-
-  # Low-coverage Icelandic ancient specimens (not in Ahmed panel) — open triangles
-  geom_point(data = iceland_ancient,
-             aes(x = lon, y = lat),
-             shape = 24, size = 3.5, colour = "#E63946", fill = NA, stroke = 1.2) +
-  geom_text(data = iceland_ancient,
-            aes(x = lon, y = lat, label = label),
-            size = 2.2, hjust = -0.15, vjust = 0.5,
-            lineheight = 0.85, colour = "grey20") +
 
   # Ancient specimens — filled triangles
   geom_point(data = ancient,
@@ -129,7 +111,7 @@ p <- ggplot() +
 
   labs(
     title    = "Ahmed et al. reference panel — samples relevant to Icelandic horse origins",
-    subtitle = "Circles = modern WGS breeds; filled triangles = ancient WGS specimens in Ahmed et al. panel; open triangle = ancient Icelandic specimens (low coverage, not in panel).",
+    subtitle = "Circles = modern WGS breeds; triangles = ancient WGS specimens (Ahmed et al. panel).",
     x = NULL, y = NULL
   )
 
