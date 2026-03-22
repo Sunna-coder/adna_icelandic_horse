@@ -51,12 +51,12 @@ ancient <- data.frame(
   period  = c("Viking Age / Pictish",
               "Viking Age",
               "Viking Age",
-              "Migration Period",
+              "Pre-Viking Age",
               "Viking Age"),
-  # Estonia: label above-left to stay inside map boundary
-  nudge_x = c( 0.5,   0.5,   0.5,   0.5,  -0.5),
-  nudge_y = c( 1.0,  -1.0,  -1.0,   1.0,   1.5),
-  hjust   = c( 0.0,   0.0,   0.0,   0.0,   1.0)
+  # Denmark: nudge left+down into Danish territory; Estonia: above-left inside map
+  nudge_x = c( 0.5,   0.5,  -0.5,   0.5,  -0.5),
+  nudge_y = c( 1.0,  -1.0,  -1.5,   1.0,   1.5),
+  hjust   = c( 0.0,   0.0,   1.0,   0.0,   1.0)
 )
 
 # ── Base map ──────────────────────────────────────────────────────────────────
@@ -73,7 +73,7 @@ breed_colours <- c(
 period_colours <- c(
   "Viking Age / Pictish" = "#6A0572",
   "Viking Age"           = "#6A0572",
-  "Migration Period"     = "#9B5DE5"
+  "Pre-Viking Age"       = "#9B5DE5"
 )
 
 # ── Plot ──────────────────────────────────────────────────────────────────────
