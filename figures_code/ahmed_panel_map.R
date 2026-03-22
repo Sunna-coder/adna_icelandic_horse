@@ -26,7 +26,17 @@ modern <- data.frame(
                 "Scandinavia", "Scandinavia", "North Atlantic",
                 "British Isles", "British Isles", "British Isles",
                 "British Isles", "British Isles", "British Isles",
-                "British Isles")
+                "British Isles"),
+  # Per-label nudge: nudge_x shifts horizontally, nudge_y shifts vertically
+  nudge_x   = c( 0.5,   0.5,   0.5,   0.5,
+                 0.5,   0.5,   0.5,  -0.5,
+                 0.5,  -0.5,   0.5),
+  nudge_y   = c( 1.2,   0.8,   0.8,  -1.2,
+                 0.8,  -1.0,   0.8,   0.8,
+                -1.0,   0.8,  -1.0),
+  hjust     = c( 0.0,   0.0,   0.0,   0.0,
+                 0.0,   0.0,   0.0,   1.0,
+                 0.0,   1.0,   0.0)
 )
 
 # ── Ancient specimens ─────────────────────────────────────────────────────────
@@ -42,7 +52,11 @@ ancient <- data.frame(
               "Viking Age",
               "Viking Age",
               "Migration Period",
-              "Viking Age")
+              "Viking Age"),
+  # Estonia: label above-left to stay inside map boundary
+  nudge_x = c( 0.5,   0.5,   0.5,   0.5,  -0.5),
+  nudge_y = c( 1.0,  -1.0,  -1.0,   1.0,   1.5),
+  hjust   = c( 0.0,   0.0,   0.0,   0.0,   1.0)
 )
 
 # ── Base map ──────────────────────────────────────────────────────────────────
@@ -78,16 +92,16 @@ p <- ggplot() +
              aes(x = lon, y = lat, fill = group),
              shape = 21, size = 4, colour = "white", stroke = 0.6) +
 
-  # Labels for modern breeds (nudge to avoid overlap)
+  # Labels for modern breeds (per-label positioning)
   geom_text(data = modern,
-            aes(x = lon, y = lat, label = label),
-            size = 2.2, hjust = -0.15, vjust = 0.5,
+            aes(x = lon + nudge_x, y = lat + nudge_y, label = label, hjust = hjust),
+            size = 2.2, vjust = 0.5,
             lineheight = 0.85, colour = "grey20") +
 
-  # Labels for ancient specimens
+  # Labels for ancient specimens (per-label positioning)
   geom_text(data = ancient,
-            aes(x = lon, y = lat, label = label),
-            size = 2.2, hjust = -0.15, vjust = 0.5,
+            aes(x = lon + nudge_x, y = lat + nudge_y, label = label, hjust = hjust),
+            size = 2.2, vjust = 0.5,
             lineheight = 0.85, colour = "grey20") +
 
   # Map extent: North Atlantic + NW Europe
