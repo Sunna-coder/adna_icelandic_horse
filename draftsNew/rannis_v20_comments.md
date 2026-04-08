@@ -55,9 +55,7 @@ This is an error. Wutke et al. (2016) examined the **DMRT3 gait variant** (the a
 
 > "Collaboration with FEIF (the International Federation of Icelandic Horse Associations, founded 1969) and its Icelandic member association Landssamband hestamannafélaga (founded 1949)"
 
-The name is incorrect. The correct name of the Icelandic member association is **Landssamband íslenskra hestamanna** (abbreviated LÍH). "Landssamband hestamannafélaga" is not the current official name. Fix to:
-
-> "Collaboration with FEIF (the International Federation of Icelandic Horse Associations, founded 1969) and its Icelandic member association Landssamband íslenskra hestamanna (LÍH, founded 1949)"
+**Not an error.** "Landssamband hestamannafélaga" is the correct official name (confirmed via https://www.lh.is/). No change needed.
 
 ---
 
@@ -113,7 +111,7 @@ These items remain open (from project notes) and must be confirmed before upload
 | 2 | Fix "Celtic pony contributed" → "a British Isles contribution" (keep "Celtic pony hypothesis" in quotes) |
 | 3 | Fix citation: "founding stock Ahmed et al." → "(Ahmed et al., under review)" |
 | 4 | Fix factual error: "single coat colour locus" → "single gait locus (DMRT3)" |
-| 5 | Fix "Landssamband hestamannafélaga" → "Landssamband íslenskra hestamanna (LÍH)" |
+| 5 | ~~"Landssamband hestamannafélaga"~~ — confirmed correct name, no change needed |
 | 6 | Add Bathen-Nöthen et al. (2009) to bibliography |
 | 7 | Add Norton et al. (2019) to bibliography |
 | 8 | Add Rohland & Hofreiter (2007) or Dabney et al. (2013) to bibliography |
