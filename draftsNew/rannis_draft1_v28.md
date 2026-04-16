@@ -51,19 +51,33 @@
 
 **[DECISION — OPEN ITEM 2] Project Leader: Sunna or Agnar?** IRF Project Grants have one formal Project Leader; co-proposers are named separately but one person holds the lead. Both cannot formally co-lead. **The recommendation is that Sunna should be Project Leader**, for three reasons: it is her project and her scientific vision; leading it builds her CV toward an ERC Starting Grant; and for the MSCA application, being the independent lead on a domestic grant strengthens her profile as an independent researcher. Agnar as co-investigator is already a major strength without him being the formal lead. The case for Agnar as Project Leader instead: if Sunna's PhD was conferred in late 2023 and the minimum 3-year requirement is not clearly met, or if neither the deCODE agreement nor a salaried UoI position can be confirmed, then Agnar as formal Project Leader removes the eligibility risk entirely, with Sunna executing all the work as co-proposer. Decide before submission and update Section D accordingly.
 
-**Co-proposers strengthen the application:** This draft now has three co-proposers — Agnar Helgason (population genetics), Joe Walser III (osteology and strontium), and Sigríður Björnsdóttir (modern horse material). Confirm all three in the online IRF submission form. Each must provide a one-page letter of intent dated in the application year.
+**Co-proposers (Icelandic: *[VERIFY exact IRF term in the electronic application form]*):** There is one Project Leader (verkefnisstjóri) and any number of co-proposers. Both roles can be salaried from the grant, subject to the rule that the IRF does not fund salary for anyone who is already fully salaried elsewhere. A professor with a partial appointment (e.g. 20%) is not fully salaried and can therefore receive salary from the grant for the time they contribute. Salary does not need to be specified in the project description text — it goes in the budget form in the electronic application system. Describe each person's role in Section D; the exact months and amounts go in the budget. This draft has three co-proposers: Agnar Helgason (population genetics), Joe Walser III (osteology and strontium), and Sigríður Björnsdóttir (modern horse material). Confirm all three in the online IRF submission form. Each must provide a one-page letter of intent dated in the application year.
+
+**Salary — practical planning:**
+- *You (PI):* main salary line; budget the full 36 months or whatever fraction applies to your situation
+- *Agnar:* can be salaried if not fully employed elsewhere — confirm his employment percentage first (Open Item 17)
+- *Joe Walser:* can be salaried for his osteology/strontium work, concentrated in Year 1
+- *Sigríður Björnsdóttir:* lower involvement — a few months across the project
+- *Master's student:* up to 12 months maximum (IRF rule)
+- *International collaborators (Orlando, Durham):* cannot receive salary from this grant (IRF does not fund people working abroad); their costs go under contracted services instead
+
+**Lab reagents and sequencing costs are allowed:**
+- **Reagents and consumables** (extraction kits, library prep, columns, enzymes): operational costs — allowed, but operational costs should generally not exceed 20% of total grant (~12.3M kr on a 61.3M kr grant)
+- **Sequencing at deCODE:** if deCODE is the accounting institution, internal sequencing may be covered by the 25% overhead — clarify with deCODE finance
+- **External sequencing or services** (CAGT Toulouse, Durham strontium): contracted services — allowed, capped at 20% of total grant (~12.3M kr). A quote from each provider is required at contract signing.
+- **Equipment** (e.g. lab equipment): up to 3,000,000 kr; a seller quote required at contract signing
 
 **Training doctoral and Master's students strengthens the application:** The Master's student component in Section F is a direct strength for a Project Grant.
 
-**Page limit:** 12 pages of text (15 pages total, including title and guidance pages). This working draft is around 12.5 pages of core application text. Check carefully once Section G is removed (which reduces length).
+**Page limit:** 12 pages of text (15 pages total, including title and guidance pages). Check the exact count against the IRF template once formatted.
 
 **Sections A–F only:** Project Grants do NOT include a Section G (Career Development Plan). Section G has been removed from this draft.
 
-**Use the official IRF template:** Download the template from the electronic application system each year — it may change between years. Applications using an altered or wrong template will be rejected.
+**Use the official IRF template:** Download the template from the electronic application system each year — it may change. Applications using an altered or wrong template will be rejected.
 
-**Reference list submitted separately:** The bibliography must be separated from the project description and uploaded as a separate PDF. There is no page limit on the reference list.
+**Reference list submitted separately:** The bibliography must be uploaded as a separate PDF. No page limit on the reference list.
 
-**Budget:** Maximum 61,300,000 kr over 36 months (plus 25% overhead = 76,625,000 kr total). Equipment purchases are allowed, up to 3,000,000 kr. Publication costs capped at 750,000 kr over the full grant period. Travel and other operational costs: no specific per-year cap, but contracted services may not exceed 20% of total operational costs. The current budget draft (rannis_budget_draft.md) was written at fellowship scale (~35.95M kr excluding overhead) — consider whether to increase it.
+**Budget:** Maximum 61,300,000 kr over 36 months (plus 25% overhead = 76,625,000 kr total). The current budget draft (rannis_budget_draft.md) was written at fellowship scale (~35.95M kr) — needs to be revised upward to reflect three co-proposers, strontium costs, reagents, and sequencing.
 
 **Documents and permissions to have in hand before submitting**
 
