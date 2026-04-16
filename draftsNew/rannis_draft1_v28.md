@@ -47,7 +47,7 @@
 
 **No full-time employment restriction:** Unlike the fellowship, you can hold other paid positions alongside a Project Grant (e.g. teaching, other contracts).
 
-**Cannot hold another IRF Project Grant from a previous allocation:** If you received a Project Grant in the previous allocation round, you are not eligible to apply again. Confirm this does not apply.
+**Cannot hold a recent IRF grant — applies to the PI (Agnar):** If the Project Leader received a **Project Grant or Grant of Excellence** from IRF in the most recent allocation round (2025), they are not eligible to apply for a Project Grant this round. Agnar's involvement in Steinunn's Grant of Excellence 2020 is not an issue — that was several rounds ago. But confirm with Agnar that he has not received a Project Grant or Grant of Excellence in the 2025 allocation. If he has, a different PI is needed.
 
 **Project Leader: RESOLVED — Agnar Helgason is PI.** Sunna's adjunct position at the University of Iceland is unpaid and therefore does not meet the IRF requirement that the Project Leader hold at least a 20% salaried academic position if accounting through UoI. Agnar as PI with UoI as the accounting institution satisfies this cleanly. Sunna is the co-proposer who executes all the scientific work and is salaried from the grant.
 
