@@ -119,11 +119,15 @@ WorldFengur's genealogical depth creates a further opportunity: an ancestral rec
 
 **Aim 3: Adaptation and trait evolution.** What genomic signatures of local adaptation and selective breeding are detectable in ancient and historical Icelandic horses? How did the breed's most distinctive traits emerge and change over more than a millennium? Are there genomic regions showing signatures of selection that point to unexpected targets not previously identified in this breed?
 
-Iceland has the dated external record to anchor the genomic signal: volcanic chronology, livestock censuses, and written sources going back to the settlement. Four trait systems will be tracked:
+Iceland has the dated external record to anchor the genomic signal: volcanic chronology, livestock censuses, and written sources going back to the settlement. Six trait systems will be tracked:
 
 *Gait.* DMRT3 on ECA23 controls the tölt and flying pace (Andersson et al., 2012). The allele was already present in 9th–11th century Icelandic specimens (Wutke et al., 2016), but when fixation occurred is unknown. STAU2 and RELN (Sigurðardóttir, 2025) will be tracked alongside it.
 
-*Coat colour and vision health.* PMEL17 Arg618Cys causes both the Silver coat colour and Multiple Congenital Ocular Anomalies (MCOA) syndrome (Brunberg et al., 2006; Andersson et al., 2011). When this allele entered the breed is unknown; tracking its frequency from 870 CE will show whether MCOA was a founding-era liability, with direct consequences for breeding management.
+*Coat colour — full palette.* The Icelandic horse carries more than 40 recognized colours with over 100 Icelandic-language names for colour variants — an exceptionally wide palette by any breed standard. Unlike most breeds where only a narrow range of colours is permitted, the official Icelandic breeding goal explicitly preserves all naturally occurring colours; variety is actively encouraged. This breadth is itself a scientific question: was it present from the founding, or did it accumulate under deliberate Icelandic breeding selection across the post-settlement centuries? Wild horses before domestication showed virtually no colour variation, carrying predominantly bay or bay-dun coats; coat colour diversity increased sharply during domestication, driven by human selection (Ludwig et al., 2009, Science). Colour-associated loci across the genome — MC1R and ASIP (base coat), KIT (pinto and sabino patterns), MATP (cream dilute), TYRP1, TRPM1 (leopard complex), TBX3 (dun) — will be tracked through the temporal dataset to reconstruct the founding colour palette and identify when specific variants entered or rose in frequency. This is the first time the colour history of the Icelandic horse will have been addressed with genomic data.
+
+*Coat colour and vision health — PMEL17.* PMEL17 Arg618Cys causes both the Silver coat colour and Multiple Congenital Ocular Anomalies (MCOA) syndrome (Brunberg et al., 2006; Andersson et al., 2011). When this allele entered the breed is unknown; tracking its frequency from 870 CE will show whether MCOA was a founding-era liability, with direct consequences for breeding management.
+
+*Body size.* The Icelandic horse is compact — 125–145 cm at the withers — and has remained so since at least the Viking Age based on osteological records. HMGA2 on ECA6 is the primary genetic locus for body size variation in ponies and small horse breeds (Norton et al., 2019), in addition to its role in EMS. Whether the compact size of the Icelandic horse reflects the founding stock directly, or whether it was reinforced by nutritional selection during Iceland's recurrent famines, can be tested by tracking HMGA2 allele frequencies through time alongside osteological withers-height estimates from the archaeological specimens. Dr Joe Walser III will take standardised long-bone measurements from all sampled specimens, providing an independent phenotypic record alongside the genomic data.
 
 *Immune diversity and disease susceptibility.* Sweet itch (IBH) affects up to 50% of Icelandic horses on first exposure to midges in mainland Europe (Eriksson et al., 2008; Holmes et al., 2019) but is not expressed in Iceland, so susceptibility is widespread but phenotypically hidden. The temporal dataset will provide the first historical context for when these alleles entered the breed and whether the 79 MHC haplotypes exclusive to Icelandic horses (Holmes et al., 2019) reflect founding diversity or later balancing selection.
 
@@ -301,6 +305,10 @@ Karlsson G, Sveinsson K, Árnason M (Eds.) (1992). Grágás: Lagasafn íslenska 
 Leifsson R (2018). Ritual animal killing and burial customs in Viking Age Iceland [Doctoral dissertation, University of Iceland]. https://hdl.handle.net/20.500.11815/1004
 
 Li H, Durbin R (2009). Fast and accurate short read alignment with Burrows-Wheeler Aligner. Bioinformatics, 25(14), 1754–1760. https://doi.org/10.1093/bioinformatics/btp324
+
+Ludwig A, Pruvost M, Reissmann M, Benecke N, Brockmann GA, Castaños P, et al. (2009). Coat color variation at the beginning of horse domestication. Science, 324(5926), 485. https://doi.org/10.1126/science.1172750
+
+ Bioinformatics, 25(14), 1754–1760. https://doi.org/10.1093/bioinformatics/btp324
 
 Li H, Durbin R (2011). Inference of human population history from individual whole-genome sequences. Nature, 475, 493–496. https://doi.org/10.1038/nature10231
 
