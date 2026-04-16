@@ -20,7 +20,7 @@
 | 9 | VERIFY | **Campana (2012) DOI:** Agnar flagged that the DOI in the Word document links to a different paper in the same issue. Verify and fix before submission. |
 | 10 | VERIFY | **deCODE agreement status:** Is the collaboration agreement signed? Agnar said no signatures as far as he could remember. Clarify before submitting. |
 | 11 | PREPARE | **Figure 1:** Add the 5 sequenced pilot Icelandic specimens with verified coordinates. |
-| 12 | PREPARE | **Letters of intent:** One-page letters from Agnar Helgason, Ludovic Orlando, and Sigríður Björnsdóttir. Must be dated in the application year. |
+| 12 | PREPARE | **Letters of intent:** One-page letter from Agnar Helgason (co-proposer). Check whether Joe Walser III and Sigríður Björnsdóttir (other participants) need formal letters or just a named entry in the IRF system. Letter of support from Ludovic Orlando. All dated in the application year. |
 | 13 | PREPARE | **Confirmation letter from accounting institution:** Signed by an authorised representative. Mandatory. |
 | 14 | PREPARE | **CV:** Maximum 2 pages. Separate from the project description. |
 | 15 | PREPARE | **PhD diploma copy:** To be submitted to IRF no later than 1 December after the application deadline. |
@@ -51,15 +51,20 @@
 
 **[DECISION — OPEN ITEM 2] Project Leader: Sunna or Agnar?** IRF Project Grants have one formal Project Leader; co-proposers are named separately but one person holds the lead. Both cannot formally co-lead. **The recommendation is that Sunna should be Project Leader**, for three reasons: it is her project and her scientific vision; leading it builds her CV toward an ERC Starting Grant; and for the MSCA application, being the independent lead on a domestic grant strengthens her profile as an independent researcher. Agnar as co-investigator is already a major strength without him being the formal lead. The case for Agnar as Project Leader instead: if Sunna's PhD was conferred in late 2023 and the minimum 3-year requirement is not clearly met, or if neither the deCODE agreement nor a salaried UoI position can be confirmed, then Agnar as formal Project Leader removes the eligibility risk entirely, with Sunna executing all the work as co-proposer. Decide before submission and update Section D accordingly.
 
-**Co-proposers (Icelandic: *[VERIFY exact IRF term in the electronic application form]*):** There is one Project Leader (verkefnisstjóri) and any number of co-proposers. Both roles can be salaried from the grant, subject to the rule that the IRF does not fund salary for anyone who is already fully salaried elsewhere. A professor with a partial appointment (e.g. 20%) is not fully salaried and can therefore receive salary from the grant for the time they contribute. Salary does not need to be specified in the project description text — it goes in the budget form in the electronic application system. Describe each person's role in Section D; the exact months and amounts go in the budget. This draft has three co-proposers: Agnar Helgason (population genetics), Joe Walser III (osteology and strontium), and Sigríður Björnsdóttir (modern horse material). Confirm all three in the online IRF submission form. Each must provide a one-page letter of intent dated in the application year.
+**Roles in the application — PI, co-proposer, other participant:**
+- **Project Leader / PI (verkefnisstjóri):** one person; formally responsible for the grant; must meet the eligibility requirements
+- **Co-proposer:** named researcher who co-leads part of the science; signs a letter of intent; can be salaried from the grant if not fully employed elsewhere
+- **Other participant:** named contributor with a defined role (e.g. sample provision, technical service); described in Section D but does not sign a co-proposer letter of intent; can be compensated through salary or contracted services depending on their role
 
-**Salary — practical planning:**
-- *You (PI):* main salary line; budget the full 36 months or whatever fraction applies to your situation
-- *Agnar:* can be salaried if not fully employed elsewhere — confirm his employment percentage first (Open Item 17)
-- *Joe Walser:* can be salaried for his osteology/strontium work, concentrated in Year 1
-- *Sigríður Björnsdóttir:* lower involvement — a few months across the project
+This draft has: **PI** — Agnar Helgason; **co-proposer** — Sunna (all scientific work, full salary); **other participants** — Joe Walser III (osteology, strontium) and Sigríður Björnsdóttir (modern horse samples). *[VERIFY: check whether "other participants" need any formal letter in the IRF electronic system — Steinunn's 2019 grant listed them separately from co-proposers.]*
+
+**Salary — practical planning (amounts go in the budget form, not the project description text):**
+- *Sunna (co-proposer):* main salary line; full 36 months or adjusted for any MSCA overlap period
+- *Agnar (PI):* can be salaried if not fully employed elsewhere — confirm employment percentage first (Open Item 17)
+- *Joe Walser (other participant):* compensation for osteology/strontium work, concentrated in Year 1 — salary or contracted service depending on his museum contract
+- *Sigríður Björnsdóttir (other participant):* sample provision only at this stage — a small honorarium or contracted service if appropriate; confirm with her
 - *Master's student:* up to 12 months maximum (IRF rule)
-- *International collaborators (Orlando, Durham):* cannot receive salary from this grant (IRF does not fund people working abroad); their costs go under contracted services instead
+- *International collaborators (Orlando, Durham):* cannot receive salary from this grant (IRF does not fund people working abroad); costs go under contracted services
 
 **Lab reagents and sequencing costs are allowed:**
 - **Reagents and consumables** (extraction kits, library prep, columns, enzymes): operational costs — allowed, but operational costs should generally not exceed 20% of total grant (~12.3M kr on a 61.3M kr grant)
@@ -84,7 +89,7 @@
 - **Confirmation letter from the accounting institution:** A signed statement from an authorised representative confirming that facilities and support will be available. Maximum one page. Mandatory.
 - **deCODE Genetics collaboration agreement:** The application refers to this agreement. Confirm it is finalised and can be included. *(Agnar Comment 2: no signatures as far as he can remember — clarify status.)*
 - **National Museum of Iceland sampling permission:** Permission for up to 150 specimens has been granted. Have a copy ready.
-- **Letters of intent from co-proposers:** Agnar Helgason, Joe Walser III, and Sigríður Björnsdóttir must each provide a one-page letter of intent specifying their involvement. Ludovic Orlando as international collaborator should provide a letter of support. All must be dated in the application year.
+- **Letters of intent:** Agnar Helgason (co-proposer) must provide a one-page letter of intent. Joe Walser III and Sigríður Björnsdóttir are other participants — check whether the IRF system requires a formal letter from them or just a named entry. Ludovic Orlando (international collaborator) provides a letter of support. All must be dated in the application year.
 - **PhD diploma:** A copy must be submitted to IRF no later than 1 December after the application deadline.
 - **CV:** Maximum 2 pages. Prepare separately from the project description.
 
@@ -215,9 +220,9 @@ This project is already underway in practical terms. Five quality-assessed ancie
 
 **Domestic co-operation.** Co-proposer Prof. Agnar Helgason (Professor in Anthropology, University of Iceland) is one of Iceland's most highly cited researchers in biological anthropology and human evolutionary genetics; his expertise in population genetics is central to the demographic and selection analyses. He will act as scientific co-proposer and co-supervisor of the Master's student. *[OPEN ITEM 17 — VERIFY: confirm Agnar's current employment percentage at the University of Iceland to determine what salary can be budgeted from this grant. If he is not fully salaried elsewhere, budget a proportional salary for his project time in the grant.]*
 
-Co-proposer Dr Joe Walser III, Curator of Physical Anthropology at the National Museum of Iceland, leads the osteological component of the project: specimen selection, sampling coordination, and strontium isotope sampling. Sampling permission for approximately 150 specimens has been granted through the National Museum. He will co-supervise the Master's student in Option 2 (paired human–horse genomics).
+**Other participants.** Dr Joe Walser III, Curator of Physical Anthropology at the National Museum of Iceland, coordinates specimen selection, osteological assessment, and strontium isotope sampling. Sampling permission for approximately 150 specimens has been granted through the National Museum. He will co-supervise the Master's student in Option 2 (paired human–horse genomics).
 
-Co-proposer Prof. Sigríður Björnsdóttir (Agricultural University of Iceland) provides access to contemporary Icelandic horse material — well-documented, pedigree-registered individuals from diverse regional breeding populations — for the modern baseline required across all three aims.
+Prof. Sigríður Björnsdóttir (Agricultural University of Iceland) provides access to contemporary Icelandic horse material — well-documented, pedigree-registered individuals from diverse regional breeding populations — for the modern baseline required across all three aims.
 
 **International collaboration.** Prof. Ludovic Orlando (CAGT, University of Toulouse) is the key international collaborator. His laboratory provides the horse imputation reference panel and leads ancient horse genomics globally (Librado et al., 2021; Fages et al., 2019, Cell); the working relationship is established through co-authorship on Ahmed et al. (under review). He hosts one research visit per year at CAGT Toulouse and provides sequencing as a fallback. Prof. Tom Gilbert (GLOBE Institute, University of Copenhagen) contributes expertise in animal population genomics and additional sequencing capacity as a fallback. Letters of support from both collaborators are included.
 
