@@ -225,11 +225,17 @@ Prof. Sigríður Björnsdóttir (Agricultural University of Iceland) provides ac
 
 ## E. PROPOSED PUBLICATION OF RESULTS IN OPEN ACCESS
 
-Article 1 — *Ancient genomics of the Icelandic horse: founding, genealogical history, and demography across 1,100 years of isolation* — addresses Aims 1, 2, and 3. Target journals: Cell, Nature Genetics, Current Biology, or PNAS. A preprint will be posted to bioRxiv prior to journal submission. Expected submission: Month 27.
+Article 1 — *Origins and founding of the Icelandic horse: ancestry, strontium, and the dual legacy of Viking-Age settlement* — addresses Aim 1. Target journals: Cell, Nature Genetics, Current Biology, or PNAS. A preprint will be posted to bioRxiv prior to journal submission. Expected submission: Month 27.
 
-Article 2 — *Genomic signatures of adaptation and trait evolution in the isolated Icelandic horse lineage* — addresses Aim 4. Target journals: Genetics, Molecular Ecology, or Genome Biology and Evolution. Expected submission: Month 32.
+Article 2 — *A genome-wide ancestral recombination graph for a domestic animal anchored to a verified pedigree* — addresses Aim 2. The ARG is the first for any domestic animal tied to a verified studbook, warranting separate publication. Target journals: Nature Methods, PLOS Genetics, or Genome Research. Expected submission: Month 30.
 
-Article 3 — Master's student lead manuscript, on one of six defined project options: (a) the temporal history of the PMEL17 Silver mutation; (b) paired human–horse genomics from Brimnes, Dalvík; (c) osteometric body size across 870–1900 CE; (d) sex-biased founding from X-chromosome versus autosomal diversity; (e) the temporal history of sweet itch (IBH) susceptibility alleles; or (f) the coat colours of the settlement horses. Target journals: Journal of Archaeological Science, Molecular Ecology, or equivalent. Planned submission: Month 36.
+Article 3 — *Demographic history and genomic consequences of 1,100 years of isolation in the Icelandic horse* — addresses Aim 3. Target journals: Genetics, Molecular Ecology, or Genome Biology and Evolution. Expected submission: Month 32.
+
+Article 4 — *Genomic signatures of adaptation and trait evolution in the isolated Icelandic horse lineage* — addresses Aim 4. Target journals: Genetics, Molecular Ecology, or Genome Biology and Evolution. Expected submission: Month 34.
+
+Articles 1–4 share the same imputed ancient and modern genomic dataset, so their analyses can run in parallel once data generation is complete in Phase 2. A fourth article is ambitious for 36 months; if time constraints require consolidation, Articles 1 and 3 can be combined into a single founding-and-demography paper without loss of scientific content.
+
+Article 5 — Master's student lead manuscript, on one of six defined project options: (a) the temporal history of the *PMEL17* Silver mutation; (b) paired human–horse genomics from Brimnes, Dalvík; (c) osteometric body size across 870–1900 CE; (d) sex-biased founding from X-chromosome versus autosomal diversity; (e) the temporal history of sweet itch (IBH) susceptibility alleles; or (f) the coat colours of the settlement horses. Target journals: Journal of Archaeological Science, Molecular Ecology, or equivalent. Planned submission: Month 36.
 
 All manuscripts will be published open-access in compliance with Rannís open science requirements and FAIR data principles. All genomic sequence data will be deposited in the European Nucleotide Archive (ENA) upon article acceptance, and bioinformatic pipelines will be released publicly on GitHub under open-source licences.
 
