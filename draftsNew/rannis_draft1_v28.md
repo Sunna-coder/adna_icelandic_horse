@@ -119,7 +119,7 @@ WorldFengur's genealogical depth creates a further opportunity: an ancestral rec
 
 **Aim 3: Adaptation and trait evolution.** What genomic signatures of local adaptation and selective breeding are detectable in ancient and historical Icelandic horses? How did the breed's most distinctive traits emerge and change over more than a millennium? Are there genomic regions showing signatures of selection that point to unexpected targets not previously identified in this breed?
 
-Iceland has the dated external record to anchor the genomic signal: volcanic chronology, livestock censuses, and written sources going back to the settlement. Six trait systems will be tracked:
+Iceland has the historical record needed to anchor the genomic signal: volcanic chronology, livestock censuses, and written sources going back to the settlement. Six trait systems will be tracked:
 
 *Gait.* DMRT3 on ECA23 controls the tölt and flying pace (Andersson et al., 2012). The allele was already present in 9th–11th century Icelandic specimens (Wutke et al., 2016), but when fixation occurred is unknown. STAU2 and RELN (Sigurðardóttir, 2025) will be tracked alongside it.
 
