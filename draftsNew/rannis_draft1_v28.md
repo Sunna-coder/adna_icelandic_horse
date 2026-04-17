@@ -23,7 +23,7 @@
 | 12 | PREPARE | **Letters of intent:** One-page letter from Agnar Helgason (co-proposer). Check whether Joe Walser III and Sigríður Björnsdóttir (other participants) need formal letters or just a named entry in the IRF system. Letter of support from Ludovic Orlando. All dated in the application year. |
 | 13 | PREPARE | **Confirmation letter from accounting institution:** Signed by an authorised representative. Mandatory. |
 | 14 | PREPARE | **CV:** Maximum 2 pages. Separate from the project description. |
-| 15 | PREPARE | **PhD diploma copy:** To be submitted to IRF no later than 1 December after the application deadline. |
+| 15 | VERIFY | **PhD diploma:** Likely not required for Project Grant (was a fellowship requirement). Confirm in the electronic application system. |
 | 16 | PREPARE | **Strontium — Durham quote:** Lab confirmed (University of Durham, same lab as human studies). Get a formal quote for the horse strontium work; required at contract signing. Add to contracted services budget. |
 | 17 | VERIFY | **Agnar's employment percentage:** Confirm what fraction of full-time he holds at the University of Iceland, to calculate what salary can be budgeted for him from this grant. |
 
@@ -90,8 +90,8 @@ This draft has: **PI** — Agnar Helgason; **co-proposer** — Sunna (all scient
 - **deCODE Genetics collaboration agreement:** The application refers to this agreement. Confirm it is finalised and can be included. *(Agnar Comment 2: no signatures as far as he can remember — clarify status.)*
 - **National Museum of Iceland sampling permission:** Permission for up to 150 specimens has been granted. Have a copy ready.
 - **Letters of intent:** Agnar Helgason (co-proposer) must provide a one-page letter of intent. Joe Walser III and Sigríður Björnsdóttir are other participants — check whether the IRF system requires a formal letter from them or just a named entry. Ludovic Orlando (international collaborator) provides a letter of support. All must be dated in the application year.
-- **PhD diploma:** A copy must be submitted to IRF no later than 1 December after the application deadline.
-- **CV:** Maximum 2 pages. Prepare separately from the project description.
+- **PhD diploma:** Required for Postdoctoral Fellowships but likely not for Project Grants since the PI's qualifications are evident from his title. Confirm in the electronic application system whether a diploma is requested.
+- **CV:** Maximum 2 pages for the PI. Confirm in the electronic system whether CVs are required for co-proposers and other participants as well.
 
 ---
 
