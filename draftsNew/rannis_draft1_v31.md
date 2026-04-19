@@ -26,7 +26,7 @@
 | 15 | VERIFY | **PhD diploma:** 1904 doc says this applies to Agnar. Confirm what IRF requires. |
 | 16 | PREPARE | **Strontium — Durham quote:** Get a formal quote from the University of Durham for the horse strontium work; required at contract signing. |
 | 17 | VERIFY | **Agnar's employment percentage:** Confirm what fraction of full-time he holds at the University of Iceland, to calculate what salary can be budgeted for him from this grant. |
-| 18 | VERIFY | **Body size claim:** "The Icelandic horse is compact, standing at 125–145 cm at the withers." Confirm the height range is correct. |
+| 18 | ~~RESOLVED~~ | **Body size claim:** Height stated as ~140 cm at the withers, citing FEIF (2025). |
 | 19 | VERIFY | **Eriksson et al. 2008 DOI:** Two different DOIs appear across versions — https://doi.org/10.1017/S1751731107001413 (1904 doc) vs https://doi.org/10.1017/S1751731107001292 (v30). Verify the correct one before submission. |
 
 ---
@@ -128,7 +128,7 @@ Iceland's historical record is unusually rich: volcanic chronology, livestock ce
 
 *Coat colour and vision health.* *PMEL17* Arg618Cys causes both the Silver coat colour and Multiple Congenital Ocular Anomalies (MCOA) syndrome (Brunberg et al., 2006; Andersson et al., 2011). When this allele entered the breed is unknown; tracking its frequency from 870 CE will show whether MCOA was a founding-era liability, with direct consequences for breeding management.
 
-*Body size.* The Icelandic horse is compact, standing at 125–145 cm at the withers. *[OPEN ITEM 18 — VERIFY: confirm the 125–145 cm height range is correct.]* Whether this size reflects the founding stock or was shaped by later conditions is itself one of the questions this project will address. *HMGA2* on ECA6 is the primary genetic locus for body size variation in ponies and small horse breeds (Norton et al., 2019), in addition to its role in Equine Metabolic Syndrome (EMS). To determine whether the breed's compact size stems from its founding population or from later selection under recurrent famine, *HMGA2* allele frequencies will be tracked through time and compared with osteological estimates of withers height. Standardised long-bone measurements, collected by Dr Joe Walser III, will serve as an independent phenotypic record to test these alternatives.
+*Body size.* The Icelandic horse is compact, standing around 140 cm at the withers (FEIF, 2025). Whether this size reflects the founding stock or was shaped by later conditions is itself one of the questions this project will address. *HMGA2* on ECA6 is the primary genetic locus for body size variation in ponies and small horse breeds (Norton et al., 2019), in addition to its role in Equine Metabolic Syndrome (EMS). To determine whether the breed's compact size stems from its founding population or from later selection under recurrent famine, *HMGA2* allele frequencies will be tracked through time and compared with osteological estimates of withers height. Standardised long-bone measurements, collected by Dr Joe Walser III, will serve as an independent phenotypic record to test these alternatives.
 
 *Immune diversity and disease susceptibility.* Up to half of Icelandic horses develop IBH on first exposure to *Culicoides* midges after export to mainland Europe. The midges do not occur in Iceland, so genetic susceptibility is widespread within the breed but the condition itself is never seen there (Eriksson et al., 2008; Holmes et al., 2019). The temporal dataset will provide the first historical context for when IBH-associated alleles entered the breed and whether the 79 MHC haplotypes exclusive to Icelandic horses (Holmes et al., 2019) reflect founding diversity or later balancing selection.
 
@@ -296,6 +296,8 @@ Eldjárn K, Friðriksson A (Eds.) (2016). Kuml og haugfé: úr heiðnum sið á 
 Eriksson S, Grandinson K, Fikse WF, Lindberg L, Mikko S, Broström H, et al. (2008). Genetic analysis of insect bite hypersensitivity (summer eczema) in Icelandic horses. Animal, 2, 360–365. *[OPEN ITEM 19 — VERIFY: confirm correct DOI — two different DOIs appear across document versions.]*
 
 Fages A, Hanghøj K, Khan N, Gaunitz C, Seguin-Orlando A, Leonardi M, et al. (2019). Tracking five millennia of horse management with extensive ancient genome time series. Cell, 177, 1419–1435. https://doi.org/10.1016/j.cell.2019.03.049
+
+FEIF — International Federation of Icelandic Horse Associations (2025). Breeding shows 2025: rules and regulations. https://www.feiffengur.com/documents/Breeding_shows2025_booklet.pdf
 
 Frankham R (1997). Do island populations have less genetic variation than mainland populations? Heredity, 78, 311–327. https://doi.org/10.1038/hdy.1997.46
 
