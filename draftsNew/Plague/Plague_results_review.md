@@ -24,8 +24,8 @@ The text reports that 38 individuals were excluded for low coverage and 8 for co
 **Stray parenthesis:**
 "The resulting dataset comprises genotypes for 99.6 million loci)." — stray closing parenthesis after "loci."
 
-**Vilnius "during" group — unclear in dataset description:**
-The figure (Fig. 1A) shows Vilnius with only Pre (19) and Post (38) labels. But the classification figure (Fig. 3) includes a "during" category for Vilnius, and the mass burial outside the city walls is clearly a during-BD context. Clarify in the text whether there is a Vilnius "during" group, how many individuals it contains, and how it is handled in analyses (merged into post-BD, or kept separate?).
+**Vilnius "during" group — described in text but absent from all figures:**
+Vilnius has only Pre and Post categories in all figures (1A, 1B, and 3). However, the text (in the unintegrated section) explicitly discusses a distinct "during-BD period" for Vilnius, describing individuals from the mass burial at Aguonų str. 10 as showing a sharp shift toward Baltic ancestry. If those individuals are folded into the Post group in the figures, this must be stated explicitly in the dataset description — a reader cannot otherwise reconcile the figure groupings with the text. If the during-BD pattern for Vilnius is a finding worth reporting, those individuals should either be shown as a separate group in the figures, or the text should clearly state they are included in Post and explain why they are not separated out.
 
 **Date of Black Death arrival — inconsistency with Introduction:**
 The dataset description assigns individuals to "before or after the arrival of the Black Death in 1349/50." The Introduction refers to Black Death circulation "between 1347–1353." Use a consistent date throughout; the most precise formulation for Scandinavian arrival (~1349) should be used in the Results with a cross-reference to the Introduction's broader framing.
