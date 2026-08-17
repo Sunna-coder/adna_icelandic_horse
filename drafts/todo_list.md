@@ -7,8 +7,8 @@
 ## Content still to draft
 
 - [ ] **Section 5 — Capacity of the Participating Organisation(s)**. Blocked on Orlando: needs CAGT's facilities/infrastructure description and his own track record of EU-funded projects (template requires up to 5 relevant prior EU/national/international projects).
-- [ ] **Animal-remains ethics self-assessment**. This project involves horse (animal) remains, not human — the human-remains ethics templates on file don't transfer directly. Needs its own framing (museum permissions, archaeological animal material, any EU animal-ethics questions).
-- [ ] **Section 6 — Additional Ethics Information**. Currently a placeholder in `drafts/section6-8_admin.md`; finalize once the ethics self-assessment above exists.
+- [x] **Animal-remains ethics self-assessment** — drafted at `drafts/ethics_self_assessment.md`, adapted from the human-remains ethics language in Hannes Schroeder's own ROOTS (2008) and CARIB (2013) applications, with human-specific content (descendant communities etc.) removed and explicit clarification that this is not live-animal research.
+- [x] **Section 6 — Additional Ethics Information** — filled in `drafts/section6-8_admin.md` with the condensed version.
 
 ## Decisions needed from Sunna
 

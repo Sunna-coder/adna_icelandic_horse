@@ -6,7 +6,9 @@
 
 ## 6. Additional Ethics Information
 
-*[To be completed alongside the animal-remains ethics self-assessment — see open task. Likely brief, since the core ethics content lives in Part A's Ethics Self-Assessment.]*
+No formal ethical review is necessary. This project analyses ancient DNA from archaeological horse (non-human) remains, which is not subject to human-tissue legislation and does not constitute live-animal research under EU animal welfare legislation (e.g. Directive 2010/63/EU). All sampling is carried out under written authorisation from the National Museum of Iceland (Þjóðminjasafnið), the holding institution; copies of permits will be provided upon request. Unsampled material is returned to the Museum following completion of laboratory work.
+
+*(Full self-assessment, including the two free-text fields required in Part A, drafted in `drafts/ethics_self_assessment.md`.)*
 
 ## 7. Additional Information on Security Screening
 
