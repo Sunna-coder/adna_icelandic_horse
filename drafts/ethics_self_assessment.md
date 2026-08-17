@@ -16,7 +16,7 @@ This project does **not** involve live animals, animal experimentation, or anima
 
 As the material analysed is archaeological and consists of non-human (equine) remains, it falls outside the scope of both human-tissue legislation and live-animal research/welfare legislation. No formal ethical review is therefore required under EU or Icelandic law for this category of material.
 
-Instead, access and sampling are governed by the authorisation of the holding institution: all specimens will be sampled with the explicit written permission of the National Museum of Iceland (Þjóðminjasafnið), following the same authorisation process already used to obtain permission for 22 settlement-era specimens, with a proposal for the remainder already submitted (see `drafts/national_museum_sampling_proposal.md`). Copies of these permits can be provided on request.
+Instead, access and sampling are governed by the authorisation of the holding institution: the National Museum of Iceland (Þjóðminjasafnið) has already granted permission covering all ancient Icelandic horse specimens relevant to this project. Copies of these permits can be provided on request.
 
 All specimens will be treated with appropriate scientific and curatorial care throughout sampling, extraction, and analysis. Any unsampled material, and any remaining bone/tooth powder not consumed during extraction, will be returned to the National Museum of Iceland following completion of laboratory work, consistent with standard practice for museum-held archaeological collections.
 

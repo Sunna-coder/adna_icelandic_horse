@@ -13,7 +13,7 @@ The project runs for **24 months**, divided into five work packages (WPs). The f
 
 **WP1 — Sample selection, extraction, and library preparation** (Months 1–7)
 
-The project opens with an intensive laboratory phase at deCODE Genetics. Drawing on the existing permission for 22 settlement-era specimens and the pending expanded permission covering up to 90 specimens, Sunna will assess available bone and tooth material at the National Museum of Iceland, select the optimal specimens for aDNA work, and carry out DNA extraction and library preparation. Existing sequencing libraries for 7 samples (VHR031, VHR085, VHR089, VHR093, VHR100, VHR102, VHR105) will be assessed and incorporated. Initial shallow sequencing (MiSeq) will be used to screen all libraries for endogenous DNA content before committing samples to deep sequencing.
+The project opens with an intensive laboratory phase at deCODE Genetics. With existing permission from the National Museum of Iceland covering all ancient Icelandic horse specimens, Sunna will assess available bone and tooth material, select the optimal specimens for aDNA work, and carry out DNA extraction and library preparation. Existing sequencing libraries for 7 samples (VHR031, VHR085, VHR089, VHR093, VHR100, VHR102, VHR105) will be assessed and incorporated. Initial shallow sequencing (MiSeq) will be used to screen all libraries for endogenous DNA content before committing samples to deep sequencing.
 
 *Milestone M1.1* (Month 3): At least 30 libraries prepared and quality-assessed.
 *Milestone M1.2* (Month 7): All libraries prepared; samples selected for deep sequencing.
@@ -84,7 +84,7 @@ gantt
 | Risk | Likelihood | Impact | Mitigation |
 |---|---|---|---|
 | Low endogenous DNA yield from some specimens | Medium | Medium | Large initial sample pool (up to 90 specimens); existing 7 libraries with confirmed yield; National Museum backup list provides additional candidates |
-| Delayed access to remaining National Museum samples | Low | Medium | 22 specimens already permitted; sampling proposal for remaining specimens submitted in parallel with this application; curator has indicated further permission will be granted |
+| Delayed access to National Museum samples | Low | Low | Permission already granted by the National Museum of Iceland for all ancient Icelandic horse specimens; no pending approval required |
 | Orlando letter of support delayed | Low | High | Active ongoing collaboration; pre-existing relationship between deCODE group and CAGT makes this unlikely; contingency: alternative host institution if needed |
 | Imputation quality insufficient for low-coverage samples | Low | Medium | GLIMPSE2 has been validated for ancient horse genomes at 0.5–2× coverage using this reference panel; fallback: pseudohaploid calling for individuals with very low coverage |
 | Delays in sequencing pipeline at deCODE | Low | Low | deCODE operates its own Illumina sequencing facility with substantial capacity; samples can be outsourced to external providers if needed |

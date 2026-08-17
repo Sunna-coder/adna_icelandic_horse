@@ -25,7 +25,7 @@
 
 - [ ] **Orlando's sign-off** on the letter of support (`drafts/orlando_letter_of_support.md` — draft exists, needs his review + signature).
 - [ ] **Confirm Ahmed et al.'s current review status** (still cited as "under review" throughout — check if this has changed).
-- [ ] **Follow up on expanded National Museum sampling permission** — 22 specimens already granted; proposal for the remainder (up to 90 total) already drafted at `drafts/national_museum_sampling_proposal.md`, needs actual submission/follow-up with curator Joe Walser III.
+- [x] **National Museum sampling permission — RESOLVED.** Sunna confirms permission is already granted for all ancient Icelandic horse specimens, not just the previously-recorded 22. `drafts/national_museum_sampling_proposal.md` may now be obsolete (it was drafted as a forward-looking request for the remainder) — **needs Sunna to confirm** whether that document should be discarded, or whether it's what secured the broader permission and should be kept for the record.
 - [ ] **Confirm Orkney/Greenland comparative sample access** — currently described as "might get" via Dr Sophie Newman (Edinburgh) and Tom Gilbert/Eske Willerslev (Greenland); confirm or soften the claim in the draft.
 - [ ] **Confirm submission access/role with University of Toulouse's grants office** — MSCA-PF submission is typically managed at the host-institution level (PIC, portal access), not by the researcher alone.
 

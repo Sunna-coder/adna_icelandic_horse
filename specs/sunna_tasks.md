@@ -27,6 +27,8 @@ SSE Answer: We might get samples from Newark in Orkney through an ongoing collab
 
 SSE Answer: Permission has already been granted for 22 samples from the settlement era, but we have been promised to get the remaining samples. The curator is Joe Walsher III. Could you write a proposal for further sampling at the National Museum of Iceland (Þjóðminjasafnið) -- the proposal should be in English?
 
+STATUS (2026-08-17, corrected): Sunna confirms permission is already granted by the National Museum of Iceland for **all** ancient Icelandic horse specimens, not just the 22 originally recorded. All application text updated accordingly. Open question: is `drafts/national_museum_sampling_proposal.md` now obsolete, or was it what secured the broader permission?
+
 5. **Orlando** — Have you spoken to him about this fellowship? Is he committed to hosting, and when can you get a letter of support?
 
 SSE Answer: It is in progress -- Agnar Helgason, my previous supervisor, and I, have done him a lot of favours and sequenced aDNA
