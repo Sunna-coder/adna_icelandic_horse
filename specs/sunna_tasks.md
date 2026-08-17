@@ -72,7 +72,7 @@ STATUS (2026-08-17): RESOLVED. Sunna confirms the formal deCODE data-access stat
 
 13. **Ethics self-assessment** — not yet drafted. Note this project involves **animal** (horse) remains, not human — the human-remains ethics templates on file (Monnereau, Schroeder examples) don't transfer directly; needs its own animal-archaeological-material framing.
 
-14. **Secondment decision** — the application explicitly asks Yes/No on whether a secondment is planned. Undecided.
+14. **Secondment decision** — RESOLVED: No. No formal placement at a third institution beyond deCODE (fieldwork/sampling base) and CAGT (host) is planned. Now stated explicitly in Section 1.3 of the draft.
 
 15. **CV gaps** (`drafts/section4_cv.md`) — needs Sunna to: verify deCODE employment end-date (source doc field was truncated on extraction), add language proficiency levels, add a lab/bioinformatics skills list (not itemised in the source CV).
 

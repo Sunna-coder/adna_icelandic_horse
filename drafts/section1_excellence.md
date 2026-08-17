@@ -61,6 +61,8 @@ Sex will be determined genetically for all specimens (via X:Y read ratio) and in
 
 **Two-way knowledge transfer**: the applicant brings to CAGT aDNA extraction and library preparation protocols specifically optimised for highly degraded sub-Arctic skeletal material (validated on 201 ancient Icelandic human genomes, Ebenesersdóttir et al. *Science* 2018), direct access to Icelandic horse specimens through the National Museum of Iceland and deCODE Genetics (unavailable to the host laboratory otherwise), and applied experience with GLIMPSE2-based imputation and IBD analysis at population scale from the human Iceland2 project — including an in-house unphased-genotype IBD method (developed with collaborator Agnar Helgason) that is complementary to the host laboratory's existing toolkit. This creates genuine bidirectional transfer rather than one-directional training.
 
+**Secondment**: no secondment is planned. The Iceland-based phase of the project (Section 3.1, WP1) constitutes fieldwork and sampling at the applicant's own institution, not a placement at a third organisation, and is therefore distinct from a formal secondment.
+
 ---
 
 ## 1.4 Quality and Appropriateness of the Researcher's Professional Experience, Competences and Skills

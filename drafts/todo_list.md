@@ -12,8 +12,8 @@
 
 ## Decisions needed from Sunna
 
-- [ ] **Secondment: Yes or No?** The application form explicitly asks this in Part B.
-- [ ] **PIC / associated partner status**: should deCODE Genetics be listed as a formal "associated partner linked to a beneficiary," given the resources (lab, sequencing, comparative databases) it provides?
+- [x] **Secondment: No.** No formal placement at a third institution beyond deCODE (base, fieldwork/sampling) and CAGT (host) is planned — the Iceland phase counts as fieldwork, not a secondment.
+- [x] **PIC / associated partner status: No.** deCODE Genetics will not be listed as a formal associated partner — the existing data-access statement (on file, referenced in Section 3.3) is sufficient evidence of resource access without the administrative overhead of formal institutional partnership, especially given Sunna's employment relationship with deCODE is currently in flux.
 
 ## CV fixes (`drafts/section4_cv.md`)
 
