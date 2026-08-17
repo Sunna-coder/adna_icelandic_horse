@@ -12,7 +12,10 @@
 - Known for unique gaits: tölt and pace (controlled by DMRT3 mutations)
 - Generally robust but shows signs of inbreeding-related health vulnerabilities (sweet itch, EMS-like metabolic profiles, uveitis susceptibility)
 - Population size: ~80,000–100,000 registered horses in Iceland; ~100,000 more abroad
-- Key prior genetic work: Pálsdóttir et al. (see `background/papers/sexing_icelandicHorses_Palsdottir.pdf`) — first genetic insights but insufficient depth for population genomics
+- Legal import ban on foreign farm animals enacted in 1882, still in place today — precise date/citation for the isolation narrative
+- Effective population size (N_e) estimated from microarray LD patterns at ~125 today, down from ~500 sixty generations ago (Sigurðardóttir et al. 2024) — a concrete quantitative baseline for Aim 3's isolation/drift analysis; our project would provide a more direct N_e estimate using IBD sharing in ancient horses themselves, rather than inferring backward from present-day data alone
+- Key prior genetic work: Pálsdóttir et al. / Nistelberger et al. (2019), *J Archaeol Sci* — sexing of Viking Age Icelandic horses (see `background/papers/sexing_icelandicHorses_Palsdottir.pdf`); first genetic insights but insufficient depth for population genomics
+- Recent complementary work from the Icelandic horse genetics group (Sigurðardóttir et al.): genetic diversity and selection signatures (2024, *BMC Genomics*); gait genetics beyond DMRT3, identifying RELN and STAU2 as new candidate genes (2023, *Genet Sel Evol*; 2025, *Sci Rep*) — useful evidence of an active, engaged local collaborator network
 
 ## The Applicant's Track Record (Sunna)
 
@@ -52,13 +55,22 @@ VHR105 has 3 existing libraries (VHR105E1bL2, VHR105E1bL3, VHR105E1bL4). Additio
 
 ## Key Methods
 
-- **aDNA extraction**: Silica-based methods optimised for degraded material; clean-lab protocols (deCODE Anthropology group)
-- **Library preparation**: Illumina indexed libraries; adapter sequences per `pipeline/aDNAfastqMAPpe.sh`
+- **aDNA extraction**: Silica-based methods optimised for degraded material (Rohland & Hofreiter 2007); clean-lab protocols (deCODE Anthropology group)
+- **Library preparation**: Illumina indexed libraries; adapter sequences per `pipeline/aDNAfastqMAPpe.sh`. Single-tube BEST protocol (Carøe et al. 2018) or single-stranded SCR protocol (Kapp et al. 2021) for highly degraded material
 - **Mapping pipeline**: AdapterRemoval2 → BWA aln → Picard MarkDuplicates → mapDamage rescaling; runs on SLURM cluster
-- **Genotype imputation**: GLIMPSE2 framework (used for humans in Iceland2; same approach applicable to horses with Orlando's reference panel)
-- **Population genomics**: PCA, ADMIXTURE, IBD (hap-IBD), F-statistics, TreeMix
+- **Genotype imputation**: GLIMPSE2 (Rubinacci et al. 2023) for low-coverage ancient genomes; used for humans in Iceland2, same approach applicable to horses with Orlando's reference panel. IMPUTE5 (Rubinacci et al. 2020) available for imputing WGS-level genotypes into microarray-genotyped present-day horses if needed. Joint genotype calling for panel construction typically via Graphtyper (Eggertsson et al. 2017); phasing via SHAPEIT5 (Hofmeister et al. 2023)
+- **Population genomics**: PCA (Patterson et al. 2006), ADMIXTURE, IBD (hap-IBD; also ancIBD, Ringbauer et al. 2024, for imputed ancient genotypes), F-statistics (Patterson et al. 2012), IBS statistics, TreeMix
+- **Effective population size from IBD**: Browning & Browning (2015) non-parametric N_e estimation from IBD segment length distributions — directly applicable to Aim 3
+- **In-house IBD method**: Agnar Helgason has an in-house method under development for detecting IBD sharing directly from unphased genotype data — a useful complementary/validation tool alongside ancIBD, and already deployed in the deCODE human plague pandemic study
+- **Association testing** (if phenotype-linked follow-up work is relevant): GEMMA (Zhou & Stephens 2012), linear mixed model adjusting for relatedness and population structure
 - **Sex estimation**: ry method (X:Y chromosome read ratio)
 - **Contamination**: ANGSD X-chromosome contamination
+
+## Sequencing & Lab Logistics
+
+- Sequencing via Novogene: one NovaSeq lane yields ~1000Gb, priced at ~$3,150 — enough for ~10 present-day-quality genomes at 30x, or many more low-coverage ancient libraries
+- Extraction preferentially from tooth and petrous bone (Rohland & Hofreiter 2007 silica-based protocol)
+- Useful concrete cost/throughput figures for the Implementation/resources section, scaled down from the Rannís team-grant's larger sample numbers to this project's ~90 specimens
 
 ## Ahmed et al. (Under Review)
 
@@ -80,7 +92,19 @@ Full submission in `background/Ahmed_et_al/`. Authors: Ahmed, Renaud, Moore, **E
 
 - `science.pdf` — Ebenesersdóttir et al. 2018, Science: ancient Icelandic human genomes (Sunna's key prior publication)
 - `aar2625-ebenesersdottir-sm.pdf` — Supplementary material for the Science paper
-- `sexing_icelandicHorses_Palsdottir.pdf` — Pálsdóttir et al.: sexing ancient Icelandic horses; only prior aDNA work on this population
+- `sexing_icelandicHorses_Palsdottir.pdf` — Pálsdóttir et al. / Nistelberger et al. 2019, *J Archaeol Sci*: sexing ancient Icelandic horses; only prior aDNA work on this population
 - `The_Horse_and_the_Norse_Reconstructing_t.pdf` — Horse and Norse reconstruction paper
 - `1746-6148-7-21.pdf` — TBC (BMC Vet Research format)
 - `1471-2156-7-46.pdf` — TBC (BMC Genetics format)
+
+**Additional references identified from Agnar's Rannís Project Grant (2027) — not yet downloaded to `background/papers/`, PDFs still needed:**
+- Sigurðardóttir et al. 2024, *BMC Genomics* — genetic diversity and selection signatures in Icelandic horses and Exmoor ponies; source of the N_e ≈125 estimate
+- Sigurðardóttir et al. 2023, *Genet Sel Evol* — gait genetics beyond DMRT3 (RELN, STAU2)
+- Sigurðardóttir et al. 2025, *Sci Rep* — STAU2 frameshift mutation and RELN regulatory elements
+- Petersen et al. 2013, *PLoS One* — genome-wide SNP diversity across modern horse breeds
+- Fages et al. 2019, *Cell* — five millennia of ancient horse genome time series (major state-of-art reference)
+- Librado & Orlando 2021, *Annu Rev Anim Biosci* — review of equid evolutionary genomics
+- Hreiðarsdóttir et al. 2014, *Icelandic Agricultural Sciences* — prior pedigree/microsatellite study of Icelandic horse population structure
+- Lovász et al. 2025, *Biol Rev* — rewilded horses, conservation genetics framing (useful for broader impact/conservation angle)
+- Browning & Browning 2015, *Am J Hum Genet* — N_e estimation from IBD segments
+- Ringbauer et al. 2024, *Nat Genet* — ancIBD method

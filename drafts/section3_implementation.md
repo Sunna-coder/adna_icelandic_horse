@@ -110,6 +110,8 @@ Through the ongoing collaboration with deCODE Genetics, Reykjavík, Dr Ebenesers
 - The deCODE biobank and population genomic databases for comparative analyses
 - The National Museum of Iceland horse specimen collection
 
+This access is formally confirmed in a data-access statement from deCODE Genetics (on file), covering laboratory, sequencing, and comparative database access for the duration of the project.
+
 **Equipment and consumables**
 
 Standard molecular biology consumables (extraction kits, library preparation reagents, sequencing reagents) will be budgeted within the MSCA fellowship grant. No major equipment purchases are required; all key instruments are already available at the host and partner institutions.

@@ -3,6 +3,8 @@
 
 This is Phase 1 work — none of the drafting can start until these are resolved.
 
+*Updated 2026-08-17: drafting has now started — sections 1, 2, and 4 (CV) restructured/drafted against the real MSCA-PF template (verified against the Monnereau/THAIS 2022 precedent). Status of original questions updated below; new open items added at the end.*
+
 ---
 
 ### Questions to answer (put notes in `specs/project_concept.md`)
@@ -28,6 +30,8 @@ SSE Answer: Permission has already been granted for 22 samples from the settleme
 SSE Answer: It is in progress -- Agnar Helgason, my previous supervisor, and I, have done him a lot of favours and sequenced aDNA
 samples for him in the past -- it is very unlikely that he will not be committed to host but we need to get a letter of support. This is a task for me to do. Could you draft a letter that he can use as a starting point and sign?
 
+STATUS (2026-08-17): Draft letter exists at `drafts/orlando_letter_of_support.md`. Still needs Orlando's actual sign-off — external dependency, not something that can be pushed further from this end.
+
 6. **The DMRT3 / health story** — Do you want Aim 3 to focus on the health/disease angle, the gait/functional adaptation angle, or both equally? This affects tone significantly.
 
 SEE Answer: Both equally. I need further background. Although I am an expert in aDNA (fullstack from sampling, library prep, bioinfo pipeline building and running large scale computations, mapping sequencing reads, variant calling, downstream statistical analysis, population structure insights, scientific writing, scientific communication), it has up until now mainly been on human samples. I have all the technical skills for dealing with these samples. I have access to an aDNA lab that I set up personally at deCODE genetics Iceland.
@@ -50,7 +54,25 @@ SSE Answer: I'm currently looking for a job. I have an adjunct professorship at 
 
 9. **Ahmed et al. status** — What is the current review status of the horse diversity paper? Has it been peer-reviewed? This affects how we cite it in the application (under review vs. accepted).
 
+STATUS (2026-08-17): Still open — currently cited throughout as "under review." Confirm current status.
+
 10. **deCODE data access** — The application will likely reference access to deCODE's comparative genomic data (modern Icelanders etc.). Is this something you can formally state in the application?
+
+STATUS (2026-08-17): RESOLVED. Sunna confirms the formal deCODE data-access statement covers everything referenced in the application (aDNA lab, sequencing infrastructure, comparative genomic databases). Not required as a submission attachment (deCODE isn't a participating organisation — only CAGT/Orlando is host), but Section 3.3 (Resources) wording updated to reference it explicitly.
+
+---
+
+### New items identified while restructuring the draft against the real MSCA-PF template (2026-08-17)
+
+11. **Mobility rule** — RESOLVED. Sunna has not worked or resided in France. Clears the MSCA European Fellowship mobility rule for the CAGT/Toulouse host. Still needs to be documented as an explicit period-by-period residence/activity table in the EU portal's administrative form when reached (not just stated once here).
+
+12. **Section 5 — Capacity of Participating Organisation(s)** — required Part B-2 section, not yet drafted. Needs CAGT's facilities/infrastructure and Orlando's own track record of EU-funded projects. Cannot be drafted without input from Orlando directly.
+
+13. **Ethics self-assessment** — not yet drafted. Note this project involves **animal** (horse) remains, not human — the human-remains ethics templates on file (Monnereau, Schroeder examples) don't transfer directly; needs its own animal-archaeological-material framing.
+
+14. **Secondment decision** — the application explicitly asks Yes/No on whether a secondment is planned. Undecided.
+
+15. **CV gaps** (`drafts/section4_cv.md`) — needs Sunna to: verify deCODE employment end-date (source doc field was truncated on extraction), add language proficiency levels, add a lab/bioinformatics skills list (not itemised in the source CV).
 
 ---
 
