@@ -42,3 +42,15 @@ Preprints will be posted to bioRxiv prior to journal submission. All publication
 - Summary reports provided to the National Museum of Iceland and to Icelandic and international horse breeding associations upon project completion
 
 **Exploitation/IP**: results will be exploited primarily by the scientific community (archaeologists, historians, geneticists, breed conservation bodies); no commercial exploitation is anticipated. All genomic data will be deposited in ENA with no embargo; skeletal material will be returned to the National Museum of Iceland following completion of laboratory work.
+
+---
+
+## 2.3 Magnitude and Importance of the Project's Contribution to Expected Scientific, Societal, and Economic Impacts
+
+**Scientific impact**: this project adds the first ancient genomic dataset (~90 individuals, 1,100-year transect) for a domestic animal population that is currently entirely absent from the global ancient horse genomic record, directly addressing a named gap in the field (Section 1.1). In magnitude, this represents a ~10% increase in total published ancient horse genomes from the North Atlantic/Norse world (currently effectively zero for Iceland specifically), and in importance, it provides the reference dataset against which any future ancient DNA work on North Atlantic horse populations (Faroes, Greenland, Orkney/Shetland) will necessarily be compared.
+
+**Societal impact**: results will directly inform breeding and health management decisions for a population of ~180,000–200,000 living animals (Iceland and international registries combined) by providing the first genomic baseline for assessing current genetic health and the historical origin of heritable conditions (sweet itch, metabolic syndrome-like profiles, ocular conditions) affecting a meaningful fraction of the breed. Given the breed's international distribution, findings are directly transferable to breeding association practice in Germany, Scandinavia, and North America, not just Iceland.
+
+**Economic impact**: while no commercial exploitation is anticipated directly from this project, the Icelandic horse is a breed of substantial direct economic importance (export value, tourism, competitive sport); a genomically-informed baseline for breeding decisions has direct downstream relevance to breed value and health-related veterinary costs, though quantifying this precisely is beyond the scope of this fellowship.
+
+Overall, the clearest and most directly attributable impact is scientific (a permanent, reusable dataset filling a specific, named gap) and societal (breed health/conservation), with economic impact real but indirect.

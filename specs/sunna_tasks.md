@@ -5,6 +5,8 @@ This is Phase 1 work — none of the drafting can start until these are resolved
 
 *Updated 2026-08-17: drafting has now started — sections 1, 2, and 4 (CV) restructured/drafted against the real MSCA-PF template (verified against the Monnereau/THAIS 2022 precedent). Status of original questions updated below; new open items added at the end.*
 
+*Further updated 2026-08-17 (same day): Sunna located and saved the actual current official template (`background/af_he-msca-pf_en.pdf`, call HORIZON-MSCA-2025-PF-01, MSCA-PF 2026, template v5.0 — 27.03.2026). Cross-checked against it directly. Found and fixed two missing required subsections (1.4 researcher competences, 2.3 magnitude/importance of impact) and one entirely new section not present in 2022 (8. Environmental considerations — MSCA Green Charter), now drafted in `drafts/section6-8_admin.md`. Confirmed CV must use exact dd/mm/yyyy dates throughout with no unexplained gaps (see task #7).
+
 ---
 
 ### Questions to answer (put notes in `specs/project_concept.md`)
