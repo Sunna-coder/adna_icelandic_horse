@@ -1,4 +1,4 @@
-*Scratch draft — not part of the MSCA application, working space for the Iseult follow-up email (post Agnar/Kristján meeting).*
+*Scratch draft 2 — not part of the MSCA application, working space for the Iseult follow-up email (post Agnar/Kristján meeting). This version adds detailed bedIBD methodology and folds in the ancient-side depth/phasing context from the earlier (never-sent) background email.*
 
 ---
 
