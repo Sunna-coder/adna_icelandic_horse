@@ -2,6 +2,8 @@
 
 *New file. Sections 6 and 7 are typically brief/only-if-needed per the template ("additional information that could not be included in Part A, if needed"). Section 8 (MSCA Green Charter) is new to the 2026 template and didn't exist in the 2022 Monnereau precedent; drafted below since it doesn't depend on Orlando's input.*
 
+*Note on AI-detection risk: Section 6 reuses the ethics language above (see its note). Section 8 (Green Charter) has no precedent anywhere, no Rannís grant, no 2022 example, since the requirement didn't exist before this template version. It's necessarily original composition, highest priority for your own rewrite along with 1.3/1.4/2.1. Section 7 is a one-line "not applicable" and doesn't need rework.*
+
 ---
 
 ## 6. Additional Ethics Information

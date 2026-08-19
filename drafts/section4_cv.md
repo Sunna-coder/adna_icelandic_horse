@@ -3,6 +3,8 @@
 *New: this section did not previously exist in drafts/. Required in Part B-2 (no page limit, separate from the 10-page Part B-1). Content extracted from `background/people/CV_Ebenesersdottir_2026.doc` (Feb 2026). Formatted following the CV structure used in the Monnereau/THAIS (2022) precedent: Education, Professional experience, Publications, Presentations, Language skills.*
 *NEEDS SUNNA REVIEW, dates/details extracted via automated conversion of a legacy .doc file; please verify against the source, especially exact end-dates ("2013–" fields were truncated in extraction) and language proficiency levels (not present in source, placeholder below).*
 
+*Note on AI-detection risk: this section is almost entirely factual data (degrees, dates, publication citations) extracted directly from your real CV, not narrative prose I composed. Low priority for rewrite — a CV reads the same regardless of who formatted the table.*
+
 ---
 
 ## Sigríður Sunna Ebenesersdóttir

@@ -3,6 +3,8 @@
 *First draft, preliminary. To be revised after review by Sunna and Hannes.*
 *Target length: ~3 pages in final formatted document.*
 
+*Note on authorship: unlike sections 1/2, this section predates this session — the work packages, Gantt chart, risk table, and resources list were already drafted before Claude was involved. The only changes made since are: the museum-permission correction (now covers all specimens, not just 22), the added data-access-statement sentence in Resources, and minor punctuation. Low AI-rebuild priority.*
+
 ---
 
 ## 3.1 Work Plan

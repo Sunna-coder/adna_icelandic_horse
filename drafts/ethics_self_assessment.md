@@ -4,6 +4,8 @@
 
 *Intended for both the Part A Ethics Self-Assessment (two free-text fields) and Part B-2 Section 6 ("Additional Ethics Information").*
 
+*Note on AI-detection risk: this section is a reorganization of real, human-written precedent text (Hannes's own ROOTS/CARIB applications), adapted for animal rather than human remains, rather than composed from scratch. Lower risk than 1.3/1.4/2.1, but the animal-specific rewording is still original composition, worth a light pass in your own words.*
+
 ---
 
 ## Ethical dimension of the objectives, methodology and likely impact
