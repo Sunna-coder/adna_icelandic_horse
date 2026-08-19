@@ -34,7 +34,7 @@ ancIBD doesn't fit into our per-sample pipeline the way bedIBD does. Because of 
 
 But there are real costs: it'd be a separate analysis rather than an extension of what exists, it would need the imputed modern Scandinavian reference data rather than the chip data we've actually validated, so that is untested territory for us, and because a full run is heavy on the cluster, we'd want to avoid doing it more than once (if we decide to run it), which means knowing exactly which individuals and which SNP set to use before we start. We have talked about also testing bedIBD using the imputed reference data, so that is of genuine interest to us to look into as well.
 
-Worth noting too: we run bedIBD down to fairly low depths (≥0.08x WGS / ≥0.5x for 1240k capture), and we've noticed IBD gets messier for WGS samples below around 0.2x. We've used 1240k-captured samples for IBD before, but not much, so that side is less well tested for us. Probably worth discussing on the call, along with how low we can realistically go.
+Worth noting too: we run bedIBD down to fairly low depths (≥0.08x WGS / ≥0.5x for 1240k capture), and we've noticed IBD gets messier for WGS samples below around 0.2x. We've used 1240k-captured samples for IBD before, but not much, so that side is less well tested for us, and how low we can realistically go is still an open question.
 
 **Next steps**
 
