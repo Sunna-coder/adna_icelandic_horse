@@ -1,53 +1,48 @@
-*Scratch draft 2 — not part of the MSCA application, working space for the Iseult follow-up email (post Agnar/Kristján meeting). This version adds detailed bedIBD methodology and folds in the ancient-side depth/phasing context from the earlier (never-sent) background email.*
+*Scratch draft 2 — not part of the MSCA application, working space for the Iseult follow-up email (post Agnar/Kristján meeting).*
 
 ---
 
 Hi Iseult (and Joscha),
 
-Following up after discussing this further with Agnar and Kristján. There's a fair bit to cover, so I've split it by topic.
+Following up after discussing this further with Agnar and Kristján. There's quite a bit to get through, so I've split it by topic below.
 
 **1. How our current pipeline works**
 
-We have several different reference sets at deCODE, built from different combinations of chip-typed data with different SNP content. To make this concrete, here's how our in-house IBD pipeline actually works.
+We have several different reference sets at deCODE, built from different chip platforms with different SNP content, so it's probably easier if I just explain how the pipeline actually runs.
 
-We call the method bedIBD internally. It's based on an algorithm similar to IBIS, and works directly on unphased, hard-called genotypes rather than requiring phased data (full methodological detail is in the preprint linked below). We apply a minimum segment length threshold that we adapt to the marker density of whichever reference panel is being used; for the pipeline we're using here, that threshold is 3cM.
+We call our in-house IBD method bedIBD. It's based on an algorithm similar to IBIS, working directly on unphased, hard-called genotypes rather than needing phased data (the full method is described in the preprint below). It runs as part of a broader popgen pipeline, once per ancient sample, with a minimum segment length built in; for the panel we're using here, that's 3cM. Re-running with a different threshold means re-running part of that pipeline, not the whole thing, but it still costs real compute time, so it's not something we do on a whim.
 
-This runs as part of a broader population genetics pipeline that's executed once per ancient sample against a given reference panel. Re-running with a different threshold means re-running part of the pipeline (not the whole thing), which still has a real cost in compute time, so it's not something we want to do repeatedly without good reason.
+All our ancient individuals are imputed with GLIMPSE2 first, and only if they reach a minimum depth (≥0.08x WGS, ≥0.5x for 1240k capture). That step is also where phasing comes from, which matters for the ancIBD question below.
 
-One more piece of background worth having up front: all of our ancient individuals are imputed with GLIMPSE2 as a standard background step before any IBD calling happens, and only samples reaching a minimum depth (≥0.08x for WGS, ≥0.5x for 1240k capture) are imputed at all. This matters for everything downstream, including the ancIBD discussion below, since it's also where phasing comes from (more on that in Section 4).
+For Scandinavia specifically, our pipeline set is 17,526 present-day individuals genotyped on OmniExpress, and the bed files we run IBD on contain 600,000 SNPs, a fairly normal marker count for that chip. We have imputed genotypes for a subset of these individuals too, but haven't used that version in a validated run yet. Not all our reference sets are OmniExpress, by the way, just chip data generally; OmniExpress happens to be what Scandinavia is on.
 
-bedIBD currently runs against our Scandinavian reference set and other reference sets; all of these are chip-typed, though not all on the same chip platform (OmniExpress is one of a few we use, not the only one). That's what we've used and validated so far, not the imputed version of these reference sets. For Scandinavia specifically, our standard pipeline set includes 17,526 present-day individuals genotyped on OmniExpress, and the bed files we run for IBD contain 600,000 SNPs (a normal marker count for this kind of chip array). We also have imputed genotypes for a subset (not all) of these individuals, alongside the chip genotypes; we just haven't used that imputed version in a validated pipeline run yet.
+We also have a broader European set, around 168,000 SNPs and 10,083 individuals, which we mainly use for PCA rather than IBD; too few individuals there to give you anything meaningful.
 
-To give you a sense of the other reference sets we have available: we also have a broader European reference set (around 168,000 SNPs, 10,083 individuals), which we use for other analyses such as PCA. The individual count there is too low to give meaningful IBD results, so it's more of a context/background set than something we'd use for the kind of comparison you're asking about.
-
-The method itself, though applied with a different threshold chosen for that specific published analysis, is described in our recent preprint: https://www.biorxiv.org/content/10.64898/2026.06.29.730585v1.
+Method reference: https://www.biorxiv.org/content/10.64898/2026.06.29.730585v1 (note the paper itself used a different threshold than 3cM, chosen for that specific analysis).
 
 **2. Sample lists and summary statistics**
 
-I'll send you the IBD summary statistics (fragments ≥3cM) against the Scandinavian reference set now, since that's already available.
+I'll send you the IBD summary statistics (≥3cM) against the Scandinavian set now, since that's already sitting there ready to go.
 
-For the rest: it was really useful having the list of specific individuals Joscha is interested in from Antonio et al./Rodríguez-Varela/Stolarek. If you're mainly interested in a subset of the other comparative data too, a similar list would help us prioritise, so we're not sending you data you don't actually need given how many individuals are in the sets you originally mentioned. Once we have that, we can send summary statistics covering the rest of the Traena individuals and the comparative individuals you're interested in, once they've gone through the pipeline.
+For the rest, it was really useful having Joscha's list of specific individuals from Antonio et al./Rodríguez-Varela/Stolarek. If you're mostly interested in a subset of the other comparative datasets too, a similar list would save us sending you a load of data you don't actually need. Once we have that, we'll get you summary stats for the remaining Traena individuals and whichever comparative individuals you're after.
 
-**3. Why going below 3cM is a real concern, not just a preference**
+**3. Why going below 3cM isn't just us being cautious**
 
-Agnar is cautious about lowering the threshold, for two reasons:
+Agnar's hesitant about lowering the threshold, for two reasons. First, accuracy: bedIBD works on unphased data, and below 3cM the number of fragments called gets excessive, without phase information there's just not enough to reliably tell a real short segment from noise. Second, file size: with thousands of modern individuals in the reference set, the number of sub-3cM fragments would be huge, and the output files enormous.
 
-- **Accuracy**: bedIBD works on unphased data. Below 3cM, the number of fragments identified becomes excessive; without phase information, short segments are much harder to distinguish from noise, so results get less reliable exactly where you'd be lowering the threshold to gain resolution.
-- **File size**: with a reference set this size (thousands of modern individuals), the number of short fragments below 3cM would be very large, producing enormous output files. This is a practical, not just statistical, concern.
+It's also worth saying that how low you need to go depends on the reference set size. Ours is large enough that we probably don't need to push the threshold down for statistical power the way you might with a smaller panel. Good topic for the call.
 
-One thing worth noting: the need to go this low partly depends on reference set size. With a large reference set like ours, we don't necessarily need to push the threshold as low to get statistical power; smaller reference panels are more often where a lower threshold is actually needed. Happy to discuss this trade-off on a call.
+**4. The ancIBD option**
 
-**4. The ancIBD alternative**
+ancIBD doesn't fit into our per-sample pipeline the way bedIBD does. It has to be run once, across all samples together, rather than incrementally. The upside is that because it uses phased data, we could probably go lower than 3cM with it, maybe down to 2cM, without the same noise problem.
 
-ancIBD can't be slotted into our existing per-sample pipeline the way bedIBD is. Because of how ancIBD is set up, it has to be run as a single dedicated analysis across all samples together, not incrementally per individual. The upside is that, since ancIBD uses phased data, we could likely go lower than 3cM (down to around 2cM) without the same unphased-data noise problem.
+But there are real costs: it'd be a separate analysis rather than an extension of what exists; it would need the imputed modern reference data rather than the chip data we've actually validated, which is untested territory for us; and because a full run is heavy on the cluster, we'd want to avoid doing it more than once, which means knowing exactly which individuals and which SNP set to use before we start, not figuring it out as we go.
 
-The trade-offs: (i) it would need to be run as its own separate analysis, not just an extension of what already exists; (ii) it would need the imputed version of the modern reference set rather than the chip-typed data we've used and validated so far (OmniExpress, for the Scandinavian set specifically). Using the imputed set is something we've discussed and would be interesting to test, but it's genuinely untested on our end, so there's real uncertainty there. (iii) Because a full ancIBD run is computationally heavy and takes a while on the cluster, we want to avoid running it more than once, which means being very sure in advance exactly which individuals and which SNP set to include, rather than iterating.
-
-On the ancient side, this shouldn't be a blocker: as mentioned above, our ancient individuals are already phased as part of the GLIMPSE2 imputation step, so ancIBD's phasing requirement is already satisfied. We have noticed that IBD results tend to be messier for samples at the lower end of the depth range we impute at, which is consistent with ancIBD's own documented depth recommendations (>0.25x for WGS, >1x for 1240k capture); phasing quality likely varies with depth too, which may be part of why. Worth bearing in mind for short (2-8cM) segment calling specifically, since phasing errors tend to create false short segments.
+On the ancient side this isn't a blocker; our samples are already phased via GLIMPSE2, so that requirement's covered. We have noticed IBD gets messier at the lower end of our depth range, which lines up with ancIBD's own recommended depths (>0.25x WGS, >1x for 1240k), and phasing quality probably varies with depth too, which might explain some of that. Relevant for the short (2-8cM) segment work specifically, since phasing errors tend to create false short segments.
 
 **Next steps**
 
-Given all of this, it would help to have a Zoom call with you all to talk through the threshold trade-offs and figure out the best path forward before committing cluster time to a specific ancIBD run. Let me know what times might work on your end.
+Might be easiest to get Harald, Kristján, Agnar and me on a Zoom call to talk through the threshold trade-offs before we commit cluster time to a specific ancIBD run. Let me know what times work for you.
 
 All the best,
 Sunna
