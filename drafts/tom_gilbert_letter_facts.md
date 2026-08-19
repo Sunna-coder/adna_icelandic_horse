@@ -19,6 +19,7 @@ Thanks so much for doing this, completely understand about the summer! Here are 
 **Things that are unambiguously hers, no one will disagree with**
 - She led both the laboratory work *and* the genomic analysis for the 2018 Science paper — i.e. generated the data herself, not just analysed data someone else produced.
 - She personally built and has operated deCODE Genetics' dedicated ancient DNA clean-room laboratory.
+- She developed deCODE's population genomics pipeline specifically dedicated to low-depth (ancient) samples, and has been the one doing the mapping, imputation, and running of it herself.
 - She was primarily responsible for running the GLIMPSE2 imputation workflow on the plague pandemic study, at the scale required for the new Rannís project.
 - The new project's dataset (201 ancient Icelandic genomes) is a sevenfold increase over her landmark 2018 study (27 individuals) — the next-largest ancient genomics study of Iceland is her own.
 - PhD in Biological Anthropology, University of Iceland, 2023.
