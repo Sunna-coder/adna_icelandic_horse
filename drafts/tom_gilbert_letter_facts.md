@@ -28,6 +28,8 @@ She has been continuously part-time teaching in Biological Anthropology at the U
 
 13 years as a Research Scientist at deCODE Genetics (2013–2026); her position ended when deCODE restructured toward pharmaceutical drug development in 2026, an external business decision, not a reflection on her work. She's applying to transition formally into academia at the University of Iceland, where she's already been continuously affiliated for over a decade through teaching.
 
+She currently holds Visiting Scientist status at deCODE Genetics, which gives her continued access to the primary data, laboratory facilities, computing cluster, and all reference sets needed for the project. The data itself has also already been generated, so feasibility doesn't depend on her having a permanent position there.
+
 Let me know if you need anything else, or want me to send the CV/application directly.
 
 I'll also cc Agnar on this, he's been my supervisor and manager (yfirmaður) throughout all these years, so he may want to add anything from his side too.
