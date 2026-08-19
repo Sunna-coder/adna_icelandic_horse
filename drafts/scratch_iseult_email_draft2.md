@@ -16,7 +16,7 @@ The pipeline's standard output is every fragment 3cM and above. In the plague pa
 
 For Scandinavia specifically, our pipeline set is 17,526 present-day individuals genotyped on OmniExpress. We have imputed genotypes for all of these individuals, though not for all our other reference sets. Not all our reference sets are OmniExpress either, by the way, just chip data generally; OmniExpress happens to be what Scandinavia is on.
 
-Worth knowing that not all our reference sets are the same or interchangeable: we also have a broader European one, around 168,000 SNPs and 10,083 individuals, which we actually used in the plague paper, but for PCA rather than IBD; too few individuals there for anything meaningful on the IBD side.
+Worth knowing that not all our reference sets are the same or interchangeable: we also have a broader European one, around 168,000 SNPs and 10,083 individuals, which we actually used in the plague paper, but for PCA rather than IBD. It's not just the overall individual count that's the issue there; once you split those 10,083 individuals by population/area, there are too few per group, and too few SNPs, for anything meaningful on the IBD side.
 
 **2. Sample lists and summary statistics**
 
