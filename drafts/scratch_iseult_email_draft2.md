@@ -8,17 +8,15 @@ Following up after discussing this further with Agnar and Kristján. There's qui
 
 **1. How our current pipeline works**
 
-We have several different reference sets at deCODE, built from different chip platforms with different SNP content, so it's probably easier if I just explain how the pipeline actually runs.
+We call our in-house IBD method bedIBD. It's based on an algorithm similar to IBIS, working directly on unphased, hard-called genotypes rather than needing phased data. The full method is described in our most recent project with Tom Gilbert and co., the plague manuscript: https://www.biorxiv.org/content/10.64898/2026.06.29.730585v1.
 
-We call our in-house IBD method bedIBD. It's based on an algorithm similar to IBIS, working directly on unphased, hard-called genotypes rather than needing phased data (the full method is described in the preprint below). It runs as part of a broader popgen pipeline, once per ancient sample, with a minimum segment length built in; for the panel we're using here, that's 3cM. Re-running with a different threshold means re-running part of that pipeline, not the whole thing, but it still costs real compute time, so it's not something we do on a whim.
+It runs as part of a broader popgen pipeline, once per ancient sample against a given reference panel. All our ancient individuals are imputed with GLIMPSE2 first, and only if they reach a minimum depth (≥0.08x WGS, ≥0.5x for 1240k capture). That imputation step is also where phasing comes from, which matters for the ancIBD question below.
 
-All our ancient individuals are imputed with GLIMPSE2 first, and only if they reach a minimum depth (≥0.08x WGS, ≥0.5x for 1240k capture). That step is also where phasing comes from, which matters for the ancIBD question below.
+The pipeline's standard output is every fragment 3cM and above; that's just what comes out as the pipeline is currently set up. In the plague paper we actually used 6cM, but that's simply a subset of the same 3cM+ output, filtered further for that specific analysis, not a separate run. Going below 3cM is the part that would actually need re-running part of the pipeline, which costs real compute time.
 
-For Scandinavia specifically, our pipeline set is 17,526 present-day individuals genotyped on OmniExpress, and the bed files we run IBD on contain 600,000 SNPs, a fairly normal marker count for that chip. We have imputed genotypes for a subset of these individuals too, but haven't used that version in a validated run yet. Not all our reference sets are OmniExpress, by the way, just chip data generally; OmniExpress happens to be what Scandinavia is on.
+For Scandinavia specifically, our pipeline set is 17,526 present-day individuals genotyped on OmniExpress, and the bed files we run IBD on contain 600,000 SNPs, a fairly normal marker count for that chip. We have imputed genotypes for all of these individuals, though not for all our other reference sets yet. Not all our reference sets are OmniExpress either, by the way, just chip data generally; OmniExpress happens to be what Scandinavia is on.
 
-We also have a broader European set, around 168,000 SNPs and 10,083 individuals, which we mainly use for PCA rather than IBD; too few individuals there to give you anything meaningful.
-
-Method reference: https://www.biorxiv.org/content/10.64898/2026.06.29.730585v1 (note the paper itself used a different threshold than 3cM, chosen for that specific analysis).
+Just to give you a sense of the range of reference sets we work with, we also have a broader European one, around 168,000 SNPs and 10,083 individuals, mostly used for PCA rather than IBD; too few individuals there for anything meaningful on that front.
 
 **2. Sample lists and summary statistics**
 
