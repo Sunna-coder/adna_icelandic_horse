@@ -13,7 +13,8 @@ Thanks so much for doing this, completely understand about the summer! Here are 
 **First-author papers**
 - Sole first author: Ebenesersdóttir et al. 2018, *Science* — "Ancient genomes from Iceland reveal the making of a human population." This was the first genome-wide ancient DNA study of Iceland.
 - Sole first author: Ebenesersdóttir et al. 2011, *American Journal of Physical Anthropology*
-- Co-first author (three-way, denoted by asterisk): Liu, Moore, Ebenesersdóttir et al., bioRxiv — "Genomic impact of the second plague pandemic on three human populations"
+- Co-first author: Gopalakrishnan, Ebenesersdóttir et al. 2022, *Current Biology* — "The population genomic legacy of the second plague pandemic" (published)
+- Co-first author (three-way): Liu, Moore, Ebenesersdóttir et al., bioRxiv — "Genomic impact of the second plague pandemic on three human populations" (in review/preprint)
 
 **Things that are unambiguously hers, no one will disagree with**
 - She led both the laboratory work *and* the genomic analysis for the 2018 Science paper — i.e. generated the data herself, not just analysed data someone else produced.
