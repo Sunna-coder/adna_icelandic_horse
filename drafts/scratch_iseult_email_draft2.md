@@ -2,7 +2,7 @@
 
 ---
 
-Hi Iseult, Harald and Joscha,
+Hi Iseult, Joscha and Harald,
 
 Following up after discussing this further with Agnar and Kristján. There's quite a bit to get through, so I've split it by topic below.
 
@@ -10,17 +10,17 @@ Following up after discussing this further with Agnar and Kristján. There's qui
 
 Our in-house IBD (called bedIBD) is based on an algorithm similar to IBIS, working directly on unphased, hard-called genotypes rather than needing phased data. The full method is described in our most recent project with Tom Gilbert and co., the plague manuscript: https://www.biorxiv.org/content/10.64898/2026.06.29.730585v1.
 
-It runs as part of our broader popgen pipeline, once per ancient sample against a given reference panel. All our ancient individuals are imputed with GLIMPSE2 first, and only if they reach a minimum depth (≥0.08x WGS, ≥0.5x for 1240k capture).
+It runs as part of our broader popgen pipeline, once per ancient sample against a given reference panel. All our ancient individuals are imputed with GLIMPSE2 first, but only those that reach a minimum depth (≥0.08x WGS, ≥0.5x for 1240k capture).
 
-The pipeline's standard output is every fragment 3cM and above. In the plague paper we actually used 6cM, but that's simply a subset of the same 3cM+ output filtered further for that specific analysis. Going below 3cM is the part that would actually need re-running part of the pipeline, which costs real compute time.
+bedIBD's standard output is every fragment 3cM and above. In the plague paper we actually used 6cM, but that's simply a subset of the same 3cM+ output filtered further for that specific analysis. Going below 3cM is the part that would actually need re-running the IBD part of the pipeline.
 
-For Scandinavia specifically, our pipeline set is 17,526 present-day individuals genotyped on OmniExpress. We have imputed genotypes for all of these individuals, though not for all our other reference sets. Not all our reference sets are OmniExpress either, by the way, just chip data generally, OmniExpress happens to be what Scandinavia is on. For example we also have a broader European one, around 168,000 SNPs and 10,083 individuals, which we actually used in the plague paper, but for PCA rather than IBD - too few individuals per group and too few SNPs for anything meaningful on the IBD side.
+For Scandinavia specifically, our pipeline set is 17,526 present-day individuals genotyped on OmniExpress. We have imputed genotypes for all of these individuals, though not for all our other reference sets. Not all our reference sets are OmniExpress either, by the way, just chip data generally; OmniExpress happens to be what the Scandinavian set is on. For example, we also have a broader European one, around 168,000 SNPs and 10,083 individuals, which we used in the plague paper, but for PCA rather than IBD, too few individuals per group and too few SNPs for anything meaningful on the IBD side.
 
 **2. Sample lists and summary statistics**
 
 I'll send you the IBD summary statistics (≥3cM) against the Scandinavian set to start with.
 
-It was really useful having Joscha's list of specific individuals from Antonio et al/Rodriguez-Varela/Stolarek. If you're mostly interested in a subset of the other comparative datasets too, a similar list would save sending you a load of data you don't actually need. Once we have that, I'll get you summary stats for the Traena set (updated for the new data you sent) and whichever comparative individuals you're after.
+It was really useful having Joscha's list of specific individuals from Antonio et al/Rodriguez-Varela/Stolarek. If you're mostly interested in a subset of the other comparative datasets too, a similar list would save sending you a load of data you don't actually need. Once we have that, I'll get you summary stats for the Træna set (updated for the new data you sent) and whichever comparative individuals you're after.
 
 **3. Why going below 3cM isn't just us being cautious**
 
@@ -38,7 +38,9 @@ Worth noting too: we run bedIBD down to fairly low depths (≥0.08x WGS / ≥0.5
 
 **Next steps**
 
-Might be easiest to get Harald, Kristján, Agnar and me on a Zoom call to talk through the threshold trade-offs before we commit cluster time to a specific ancIBD run. Let me know what times work for you.
+Might be easiest to have a Zoom call to talk through next steps, but in the meantime I'll work on getting you the summary stats (≥3cM) for the Træna and comparative individuals.
+
+Let me know what times work for you.
 
 All the best,
 Sunna
