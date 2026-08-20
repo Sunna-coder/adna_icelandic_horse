@@ -1,4 +1,4 @@
-*Draft authorization letter for the National Museum of Iceland to sign (Joe Walser III and any additional authority the museum requires), confirming sampling permission for the MSCA-PF horse project. Drafted for signature by museum staff, not by Sunna, given her own affiliate position there — deliberately not self-authorized. Specimen counts below drawn from `background/horse_ancient_samples.xlsx` (68 sites, ~142 specimens across categories).*
+*Draft authorization letter for the National Museum of Iceland to sign (Joe Walser III), confirming sampling permission for the MSCA-PF horse project. Drafted for signature by museum staff, not by Sunna, given her own affiliate position there — deliberately not self-authorized. Specimen counts below drawn from `background/horse_ancient_samples.xlsx` (68 sites, ~142 specimens across categories).*
 
 ---
 
@@ -18,18 +18,13 @@ This authorization covers:
 
 The applicant will follow standard minimally-destructive sampling protocols, consistent with prior work on Icelandic skeletal material. Any unsampled material, and any remaining bone or tooth powder not consumed during extraction, will be returned to the National Museum of Iceland following completion of laboratory work.
 
-This authorization is issued independently of Dr Ebenesersdóttir's own affiliate position at the National Museum, by the undersigned in their capacity as [Curator of Physical Anthropology / other role].
+This authorization is issued independently of Dr Ebenesersdóttir's own affiliate position at the National Museum, by the undersigned in their capacity as Curator of Physical Anthropology.
 
 **Signed:**
 
 ________________________________
 Joe Walser III
 Curator of Physical Anthropology, National Museum of Iceland
-Date:
-
-________________________________
-[Name]
-[Role — e.g. Director / Head of Collections]
 Date:
 
 ---
