@@ -8,7 +8,11 @@ Dear Ludovic,
 
 I'm finalising my MSCA Postdoctoral Fellowship application, deadline is now about three weeks away, and I wanted to check in on something before I go further.
 
-Agnar and I discussed hosting this project with you a couple of months back, but we haven't confirmed it since. As a quick reminder, since it's been a while: the project is a genome-wide ancient DNA study of the Icelandic horse, up to 90 archaeological specimens spanning the settlement period to the 19th century, using your imputation reference panel alongside existing present-day Icelandic horse genomic data (the 380 microarray-genotyped horses from Sigurðardóttir et al. 2024) to resolve founding origins, post-founding demography, and trait evolution under isolation. Would you be willing to be my supervisor for this fellowship?
+Agnar and I discussed hosting this project with you a couple of months back, but we haven't confirmed it since. As a quick reminder, since it's been a while: the project is a genome-wide ancient DNA study of the Icelandic horse, up to 90 archaeological specimens spanning the settlement period to the 19th century, using your imputation reference panel alongside existing present-day Icelandic horse genomic data (the 380 microarray-genotyped horses from Sigurðardóttir et al. 2024) to resolve founding origins, post-founding demography, and trait evolution under isolation.
+
+As you know, Agnar also has a separate Rannís project grant application covering a larger team-based scope on Icelandic horse genomics. This MSCA fellowship is specifically about funding my own position as an independent postdoc, distinct from that, so the scope here is deliberately narrower and doesn't overlap with what his grant would cover.
+
+Would you be willing to be my supervisor for this fellowship?
 
 If for any reason that doesn't work on your end right now, would you instead be open to being a participant in the project in some other capacity, contributing access to the reference panel and your expertise, without being the formal supervisor, if I asked Tom Gilbert to be my host and supervisor instead?
 
