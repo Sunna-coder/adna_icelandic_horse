@@ -4,6 +4,8 @@
 
 ## Email 1 — send now
 
+**Subject: MSCA fellowship — hoping to confirm with you**
+
 Dear Ludovic,
 
 I'm finalising my MSCA Postdoctoral Fellowship application, deadline is now about three weeks away, and Agnar encouraged me to reach out to you directly about it (cc'd).
