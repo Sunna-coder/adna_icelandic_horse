@@ -8,9 +8,9 @@ Dear Ludovic,
 
 I'm finalising my MSCA Postdoctoral Fellowship application, deadline is now about three weeks away, and I wanted to check in on something before I go further.
 
-Agnar and I discussed hosting this project with you a couple of months back, but we haven't confirmed it since. Would you be willing to be my supervisor for this fellowship?
+Agnar and I discussed hosting this project with you a couple of months back, but we haven't confirmed it since. As a quick reminder, since it's been a while: the project is a genome-wide ancient DNA study of the Icelandic horse, up to 90 archaeological specimens spanning the settlement period to the 19th century, using your imputation reference panel to resolve founding origins, post-founding demography, and trait evolution under isolation. Would you be willing to be my supervisor for this fellowship?
 
-If for any reason that doesn't work on your end right now, would you instead be open to being a participant in the project in some other capacity, contributing access to the reference panel and your expertise, without being the formal supervisor, if I asked Tom Gilbert to be my host and supervisor instead? I don't want to make that change without checking with you first, given how central your data and expertise are to this project either way.
+If for any reason that doesn't work on your end right now, would you instead be open to being a participant in the project in some other capacity, contributing access to the reference panel and your expertise, without being the formal supervisor, if I asked Tom Gilbert to be my host and supervisor instead?
 
 If you're able to agree to either, I'll follow up with the specific details needed for whichever one it ends up being, there's no need to gather anything yet. Happy to jump on a call too if that's easier than email.
 
