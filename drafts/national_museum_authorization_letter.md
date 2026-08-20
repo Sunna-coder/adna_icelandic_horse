@@ -6,9 +6,9 @@
 
 **Authorization for Ancient DNA Sampling of Horse Skeletal Remains**
 
-**Date: [DATE]**
+**Date: 21.08.2026**
 
-This letter confirms authorization for Dr Sigríður Sunna Ebenesersdóttir to sample ancient horse skeletal remains held in the collections of the National Museum of Iceland, for the purposes of ancient DNA analysis as part of her research project "[PROJECT TITLE]," submitted as a Marie Skłodowska-Curie Postdoctoral Fellowship application (Host: Centre for Anthropobiology and Genomics of Toulouse).
+This letter confirms authorization for Dr Sigríður Sunna Ebenesersdóttir to sample ancient horse skeletal remains held in the collections of the National Museum of Iceland, for the purposes of ancient DNA analysis as part of her research project "From settlers to steeds: the genomic legacy of Iceland's founding horses," submitted as a Marie Skłodowska-Curie Postdoctoral Fellowship application (Host: Centre for Anthropobiology and Genomics of Toulouse).
 
 This authorization covers:
 
