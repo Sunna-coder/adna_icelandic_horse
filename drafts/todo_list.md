@@ -13,7 +13,8 @@ These block other work downstream, so they need to go out now even if you can't 
    - Sign off on the letter of support (`drafts/orlando_letter_of_support.md` — draft exists, just needs his review + signature)
    - Whether Toulouse's grants office needs to be looped in for portal submission access / PIC registration for CAGT as beneficiary organisation
 2. **Confirm Ahmed et al.'s current review status** — quick check, but affects how it's cited in multiple sections
-3. **Decide on Orkney/Greenland comparative samples** — either chase a firm confirmation from Sophie Newman / Gilbert / Willerslev now, or decide to soften the claim in Section 2 if it won't be confirmed in time
+
+~~3. Confirm Orkney/Greenland comparative samples~~ — RESOLVED/DROPPED: this was only in the original pre-existing draft (predating both this session and Agnar's Rannís text), and appears to have been carried over from the human Rannís project's real collaborator network (Newark Bay Orkney, Greenland — human samples) without confirmation it applies to horses. It dropped out naturally when Section 2 was rebuilt from Agnar's Rannís text, and Sunna has confirmed going with Agnar's version as authoritative. No longer a task.
 
 ## This week — your own writing (no external dependency, can do in parallel)
 
