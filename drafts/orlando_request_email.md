@@ -1,34 +1,47 @@
-*Draft email to Ludovic Orlando. Revised to re-confirm the supervisor arrangement itself before asking for the administrative details, since this was last discussed with Agnar a couple of months ago and needs revisiting.*
+*Draft emails to Ludovic Orlando — split into a brief first email (send now) and a detailed follow-up (send once he responds), so the core question isn't buried under administrative detail.*
 
 ---
 
+## Email 1 — send now
+
 Dear Ludovic,
 
-I'm finalising my MSCA Postdoctoral Fellowship application, deadline is now about three weeks away, and before I get into the administrative details I wanted to check in on something more fundamental first.
+I'm finalising my MSCA Postdoctoral Fellowship application, deadline is now about three weeks away, and I wanted to check in on something before I go further.
 
-Agnar and I discussed hosting this project with you a couple of months back, but we haven't confirmed it since, and I want to make sure it's still something you're able and willing to commit to before I build the rest of the application around it. Would you be willing to be my supervisor for this fellowship?
+Agnar and I discussed hosting this project with you a couple of months back, but we haven't confirmed it since. Would you be willing to be my supervisor for this fellowship?
 
-If for any reason that doesn't work on your end right now, I wanted to ask about an alternative: would you be open to being a participant in the project in some other capacity, contributing access to the reference panel and your expertise, without being the formal supervisor, if I asked Tom Gilbert to be my host and supervisor instead? I don't want to make that change without checking with you first, given how central your data and expertise are to this project either way.
+If for any reason that doesn't work on your end right now, would you instead be open to being a participant in the project in some other capacity, contributing access to the reference panel and your expertise, without being the formal supervisor, if I asked Tom Gilbert to be my host and supervisor instead? I don't want to make that change without checking with you first, given how central your data and expertise are to this project either way.
 
-If you are able to confirm as supervisor, here's what I'd need from you to move forward:
+If you're able to agree to either, I'll follow up with the specific details needed for whichever one it ends up being, there's no need to gather anything yet. Happy to jump on a call too if that's easier than email.
 
-**1. Section 5 content (Capacity of the Host Organisation)**
-A short description of CAGT's facilities and infrastructure relevant to this project, plus a list of up to 5 of your own prior EU-funded research/training projects. A paragraph or two on each is enough, I can help format it into the required template.
+Best,
+Sunna
 
-**2. Letter of support**
-I've drafted a starting version for you to review, edit as you see fit, and sign. I'll send it separately.
+---
 
-**3. A few administrative details**, needed for the EU portal:
+## Email 2 — follow-up template, send once he confirms which role
+
+*(Adjust opening line depending on his answer, then use the relevant section below.)*
+
+Thanks for confirming! Here's what I need from you to move forward.
+
+**If supervisor:**
+
+1. **Section 5 content (Capacity of the Host Organisation)**: a short description of CAGT's facilities and infrastructure relevant to this project, plus a list of up to 5 of your own prior EU-funded research/training projects. A paragraph or two on each is enough, I can help format it into the required template.
+2. **Letter of support**: I've drafted a starting version for you to review, edit as you see fit, and sign. I'll send it separately.
+3. **A few administrative details**, needed for the EU portal:
    - CAGT / University of Toulouse's **PIC (Participant Identification Code)**, if you have it to hand, or who I should contact to get it
    - Whether CAGT / University of Toulouse has a **Gender Equality Plan** in place (the form asks yes/no)
    - Whether your institution's grants office needs to be involved in managing the actual portal submission, or whether I can submit directly
+4. **Your details for the "Supervisor" section of the portal form**: title, position/department at CAGT, ORCID if you have one on hand.
 
-**4. Your details for the "Supervisor" section of the portal form:**
-   - Title
-   - Position/department at CAGT
-   - ORCID (if you have one on hand)
+**If participant/associated partner (with Tom Gilbert as host):**
 
-Happy to jump on a call if that's easier than working through this by email, especially for the first question. Let me know what works, and thank you either way, this collaboration has meant a lot regardless of how the fellowship ends up structured.
+1. CAGT / University of Toulouse's **PIC**, same as above
+2. A shorter description (around half a page) of the facilities/expertise relevant to your specific role, rather than the full host writeup
+3. The same list of up to 5 of your own prior EU-funded projects
+4. A concrete description of what the collaboration would actually involve, e.g. providing access to the reference panel, advising on ancestry assignment methodology, so it can be written up specifically rather than generically
+5. Still checking whether this category needs a signed letter the way the host role does, will confirm once I know.
 
-Best,
+Thanks again,
 Sunna
