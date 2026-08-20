@@ -1,46 +1,58 @@
-# Pre-Submission To-Do List
+# Pre-Submission Priority Plan — ~3 Weeks to Deadline
 
-*Compiled 2026-08-17. Everything remaining before the MSCA-PF application can be submitted, gathered in one place.*
+*Rewritten 2026-08-20 as a prioritized plan, not just a checklist. Organized by urgency and by who the action sits with, since the external dependencies have the longest lead time and need to start immediately.*
 
 ---
 
-## Content still to draft
+## Start today — external dependencies (longest lead time, you're waiting on someone else)
 
-- [ ] **Section 5: Capacity of the Participating Organisation(s)**. Blocked on Orlando: needs CAGT's facilities/infrastructure description and his own track record of EU-funded projects (template requires up to 5 relevant prior EU/national/international projects).
-- [x] **Animal-remains ethics self-assessment**: drafted at `drafts/ethics_self_assessment.md`, adapted from the human-remains ethics language in Hannes Schroeder's own ROOTS (2008) and CARIB (2013) applications, with human-specific content (descendant communities etc.) removed and explicit clarification that this is not live-animal research.
-- [x] **Section 6: Additional Ethics Information**: filled in `drafts/section6-8_admin.md` with the condensed version.
+These block other work downstream, so they need to go out now even if you can't finish them today.
 
-## Decisions needed from Sunna
+1. **Email Orlando** — three separate asks, bundle into one message if possible:
+   - Section 5 content (CAGT facilities/infrastructure, his own EU-funded project history) — cannot be drafted without his input, and it's a required section
+   - Sign off on the letter of support (`drafts/orlando_letter_of_support.md` — draft exists, just needs his review + signature)
+   - Whether Toulouse's grants office needs to be looped in for portal submission access / PIC registration for CAGT as beneficiary organisation
+2. **Confirm Ahmed et al.'s current review status** — quick check, but affects how it's cited in multiple sections
+3. **Decide on Orkney/Greenland comparative samples** — either chase a firm confirmation from Sophie Newman / Gilbert / Willerslev now, or decide to soften the claim in Section 2 if it won't be confirmed in time
 
-- [x] **Secondment: No.** No formal placement at a third institution beyond deCODE (base, fieldwork/sampling) and CAGT (host) is planned; the Iceland phase counts as fieldwork, not a secondment.
-- [x] **PIC / associated partner status: No.** deCODE Genetics will not be listed as a formal associated partner; the existing data-access statement (on file, referenced in Section 3.3) is sufficient evidence of resource access without the administrative overhead of formal institutional partnership, especially given Sunna's employment relationship with deCODE is currently in flux.
+## This week — your own writing (no external dependency, can do in parallel)
 
-## CV fixes (`drafts/section4_cv.md`)
+4. **Finish the AI-detection rewrite pass** — highest priority for your own voice:
+   - Section 1.3 (Orlando supervision) — I did a first pass, two `[SUNNA:]` notes need your input (how the collaboration actually started, which technique you're most excited to learn)
+   - Section 1.4 (your competences) — not yet rewritten
+   - Section 2.1 (career development) — not yet rewritten
+   - Section 8, Green Charter — not yet rewritten, highest risk since no precedent text exists anywhere
+   - Ethics self-assessment — lower priority, light pass only
+5. **CV gaps** (`drafts/section4_cv.md`): verify your deCODE employment end-date, add language proficiency levels, add a lab/bioinformatics skills list
+6. **Verify exact `dd/mm/yyyy` dates** throughout the CV — required format, no approximations or unexplained gaps
 
-- [ ] Verify exact `dd/mm/yyyy` dates throughout (required by the official template; no approximate dates, no unexplained gaps). Source `.doc` extraction truncated some fields, e.g. the deCODE employment end-date.
-- [ ] Add language proficiency levels (not in source CV).
-- [ ] Add a lab/bioinformatics skills list (not itemised in source CV; expected per the Monnereau precedent format).
+## Next week — administrative/mechanical (needs finalized content first)
 
-## External dependencies (not actionable from here)
+7. **Fill in the residence/activity table** for the mobility rule (dd/mm/yyyy, country-by-country, ~3-5 years back) — quick once you sit down with it
+8. **Complete Part A forms** on the EU portal: abstract (~2000 char limit), keywords/descriptors, budget, declarations
+9. **PIC registration for CAGT** — depends on Orlando's answer from item 1
 
-- [ ] **Orlando's sign-off** on the letter of support (`drafts/orlando_letter_of_support.md`; draft exists, needs his review and signature).
-- [ ] **Confirm Ahmed et al.'s current review status** (still cited as "under review" throughout; check if this has changed).
-- [x] **National Museum sampling permission: RESOLVED.** Sunna confirms permission is already granted for all ancient Icelandic horse specimens, not just the previously-recorded 22. `drafts/national_museum_sampling_proposal.md` may now be obsolete (it was drafted as a forward-looking request for the remainder); **needs Sunna to confirm** whether that document should be discarded, or whether it's what secured the broader permission and should be kept for the record.
-- [ ] **Confirm Orkney/Greenland comparative sample access**: currently described as "might get" via Dr Sophie Newman (Edinburgh) and Tom Gilbert/Eske Willerslev (Greenland); confirm or soften the claim in the draft.
-- [ ] **Confirm submission access/role with University of Toulouse's grants office**: MSCA-PF submission is typically managed at the host-institution level (PIC, portal access), not by the researcher alone.
+## Last, once everything above is settled — the biggest single time sink
 
-## Administrative / EU portal steps (done at/near submission time, not in advance)
+10. **Transfer final Part B content into the official template** (`background/af_he-msca-pf_en.pdf` or its editable source), and **cut to fit the 10-page Part B-1 limit**. The content across all the markdown drafts combined is almost certainly longer than 10 pages once formatted at Times 12pt/1.5 spacing — this will require real trimming decisions, not just copy-paste. Don't start this until the rewrites and Orlando's Section 5 are in, or you'll be trimming content you then have to re-add.
 
-- [ ] **Complete Part A forms**: proposal title/abstract (~2000 char limit), scientific area/descriptors, keywords, participant org details, budget (duration, country coefficient, family allowance eligibility), standard declarations.
-- [ ] **Fill in the residence/activity table** for the mobility rule. Sunna has confirmed no prior residence/work in France (clears the rule in principle), but this still needs to be an explicit period-by-period, country-by-country table (dd/mm/yyyy) covering the ~3–5 years before the deadline.
-- [ ] **Confirm PIC registration** for CAGT/University of Toulouse as the beneficiary organisation.
-- [ ] **Transfer final Part B content into the official template document** (`background/af_he-msca-pf_en.pdf` or its editable source) for correct formatting, page-count tags, and section structure before upload. Current work lives in markdown files here in `drafts/`.
+---
+
+## Suggested pacing for 3 weeks
+
+- **Week 1**: Send the Orlando email today. Work through the rewrite pass (item 4) in parallel — this is the one thing entirely in your control and not blocked on anyone.
+- **Week 2**: CV gaps, mobility table, Part A forms. Chase Orlando again if no reply yet. Once Section 5 content and the letter arrive, integrate them.
+- **Week 3**: Template transfer and page-limit trimming, final proofread, submit with a few days of buffer rather than on the deadline itself — portal issues near deadlines are common.
 
 ---
 
 ## Already resolved (for reference)
 
-- ✅ Sections 1, 2, 3, 4 restructured/drafted against the real current template (verified against both the 2022 Monnereau precedent and the actual current `af_he-msca-pf_en.pdf`, v5.0)
-- ✅ Section 8 (MSCA Green Charter) drafted; new to the 2026 template, didn't exist in 2022
-- ✅ Mobility rule cleared in principle (no French residence/work); see portal step above for formal documentation
-- ✅ deCODE data-access statement confirmed to cover everything referenced in the application
+- ✅ Sections 1.1, 1.2, 2.2, 2.3 rebuilt from Agnar's original Rannís wording (low AI-detection risk)
+- ✅ Section 3 (Implementation) confirmed to predate this session — only minor edits made
+- ✅ Section 4 (CV) confirmed to be factual data extraction — low risk
+- ✅ Secondment decision: No
+- ✅ deCODE associated-partner status: No, not formal
+- ✅ Museum sampling permission: covers all specimens
+- ✅ deCODE data-access statement: confirmed sufficient
+- ✅ Mobility rule: cleared in principle (no French residence/work) — still needs the formal table (item 7)
