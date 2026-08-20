@@ -1,4 +1,4 @@
-*Draft emails to Ludovic Orlando — split into a brief first email (send now) and a detailed follow-up (send once he responds), so the core question isn't buried under administrative detail.*
+*Draft emails to Ludovic Orlando — split into a brief first email (send now) and a detailed follow-up (send once he responds), so the core question isn't buried under administrative detail. CC Agnar on Email 1.*
 
 ---
 
@@ -6,7 +6,7 @@
 
 Dear Ludovic,
 
-I'm finalising my MSCA Postdoctoral Fellowship application, deadline is now about three weeks away, and I wanted to check in on something before I go further.
+I'm finalising my MSCA Postdoctoral Fellowship application, deadline is now about three weeks away, and Agnar encouraged me to reach out to you directly about it (cc'd).
 
 Agnar and I discussed hosting this project with you a couple of months back, but we haven't confirmed it since. As a quick reminder, since it's been a while: the project is a genome-wide ancient DNA study of the Icelandic horse, up to 90 archaeological specimens spanning the settlement period to the 19th century, using your imputation reference panel to resolve founding origins, post-founding demography, and trait evolution under isolation.
 
