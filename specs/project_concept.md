@@ -6,7 +6,9 @@
 ---
 
 ## Working Title
-Ancient horse genomics of Iceland: reconstructing the founding, breeding history, and demographic fate of the Icelandic horse
+From settlers to steeds: the genomic legacy of Iceland's founding horses
+
+*(Previous working title: "Ancient horse genomics of Iceland: reconstructing the founding, breeding history, and demographic fate of the Icelandic horse" — kept here for reference.)*
 
 ---
 
