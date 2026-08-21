@@ -37,7 +37,7 @@
 
 ### Selected Publications (peer-reviewed)
 
-1. Ahmed, H.I., Renaud, G., Moore, K.H., **Ebenesersdóttir, S.S.**, ..., Helgason, A., Orlando, L. (under review). *Different breeding traditions shaped horse genetic diversity within and outside Asia.* (direct basis for this fellowship's collaboration with the host)
+1. Ahmed, H.I., Renaud, G., Moore, K.H., **Ebenesersdóttir, S.S.**, ..., Helgason, A., Orlando, L. (under review at *Nature*). *Different breeding traditions shaped horse genetic diversity within and outside Asia.* (direct basis for this fellowship's collaboration with the host)
 2. Ellegaard, M.R., **Ebenesersdóttir, S.S.**, Moore, K.H.S. et al. (2024). *Corroborating written history with ancient DNA: The case of the Well-man described in an Old Norse saga.* iScience, 27(11): 1–13.
 3. Rodríguez-Varela, R., Moore, K., **Ebenesersdóttir, S.S.**, et al., Helgason, A., Götherström, A. (2023). *The genetic history of Scandinavia from the Roman Iron Age to the present.* Cell, 186(1).
 4. Gretzinger, J., ..., **Ebenesersdóttir, S.S.**, Moore, K., ..., Schiffels, S. (2022). *The Anglo-Saxon migration and the formation of the early English gene pool.* Nature, 610(7930).

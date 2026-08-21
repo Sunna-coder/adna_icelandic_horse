@@ -26,7 +26,7 @@ I am a CNRS Silver Medal laureate and founding director of the Centre for Anthro
 
 **My relationship with Dr Ebenesersdóttir and the existing collaboration**
 
-Dr Ebenesersdóttir and I are already active scientific collaborators. Together with colleagues at deCODE Genetics and the University of Iceland, we have co-authored a manuscript currently under review ([Ahmed et al., title, journal]) which analyses patterns of horse genetic diversity shaped by different breeding traditions within and outside Asia. This collaboration has given me direct insight into Dr Ebenesersdóttir's capabilities as a researcher: her technical command of ancient DNA methods is exceptional, her analytical rigour is evident, and her ability to work across institutional and national boundaries is a significant asset.
+Dr Ebenesersdóttir and I are already active scientific collaborators. Together with colleagues at deCODE Genetics and the University of Iceland, we have co-authored a manuscript currently under review at *Nature* ([Ahmed et al., full title]) which analyses patterns of horse genetic diversity shaped by different breeding traditions within and outside Asia. This collaboration has given me direct insight into Dr Ebenesersdóttir's capabilities as a researcher: her technical command of ancient DNA methods is exceptional, her analytical rigour is evident, and her ability to work across institutional and national boundaries is a significant asset.
 
 **The proposed project**
 

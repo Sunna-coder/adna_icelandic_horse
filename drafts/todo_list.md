@@ -13,7 +13,7 @@
    - **PIC (Participant Identification Code)** for CAGT/University of Toulouse — a 9-digit EU registration code; confirm it exists or needs registering
    - Whether CAGT/University of Toulouse has a **Gender Equality Plan (GEP)** — the admin form has a yes/no question about this
    - His personal details for the portal's "Supervisor" fields: title, gender, position, department, ORCID
-2. **Confirm Ahmed et al.'s current review status** — affects how it's cited in multiple sections
+~~2. Confirm Ahmed et al.'s current review status~~ — RESOLVED: under review at *Nature* (not Science as previously stated). Corrected in section1_excellence.md, orlando_letter_of_support.md, and section4_cv.md.
 3. **Get copies of the National Museum sampling permits** — the ethics self-assessment says copies "can be provided on request"; worth having the actual PDFs in hand in case they're needed as an attachment
 
 ## This week — your own writing (no external dependency, can run in parallel)
